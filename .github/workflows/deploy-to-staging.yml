@@ -63,5 +63,5 @@ jobs:
           -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.token }}"\
           -H "X-GitHub-Api-Version: 2022-11-28" \
-          https://api.github.com/repos/STAGING_ORGANISATION/STAGING_SITE_REPOSITORY/actions/workflows/deploy-to-staging.yml/dispatches \
+          https://api.github.com/repos/SDG-Cameroon/site/actions/workflows/deploy-to-staging.yml/dispatches \
           -d '{"ref":"develop"}'
