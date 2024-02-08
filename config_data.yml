@@ -10,7 +10,6 @@
 languages:
   - en
   - es
-
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
@@ -39,9 +38,17 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
+  - class: InputSdmxMl_Multiple
+    path_pattern: data/*.xml
+    dsd: 'LocalRegistry.xml'
+    dimension_map:
+      REF_AREA|CM: ''
+    drop_dimensions:
+      - FREQ
+      - REPORTING_TYPE
+    import_codes: true
+    import_series_attributes: true
+    import_observation_attributes: true
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
