@@ -10,7 +10,6 @@
 languages:
   - en
   - es
-
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
@@ -40,15 +39,13 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_Multiple
-    path_pattern: 'data/*.xml'
+    path_pattern: data/*.xml
     dsd: 'LocalRegistry.xml'
     dimension_map:
-      REF_AREA|AQ
+      REF_AREA|GH: ''
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
-      - NATURE
-      - TIME_COVERAGE
     import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
@@ -69,12 +66,7 @@ inputs:
     git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
-# Metadata Schema
-# This inputs multiple metadata schema to control which metadata tabs
-# the various fields appear in (eg, National, Global, Sources)
-#  - class: SchemaInputSdmxMsd
-#    schema_path: SDG_MSD.xml
-#    scope: national
+
 # Translations
 # ------------
 # The allows control over the imported translations. This can be omitted if you
