@@ -39,9 +39,17 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
+  - class: InputSdmxMl_Multiple
+    path_pattern: 'data/*.xml'
+    dsd: 'LocalRegistry.xml'
+    dimension_map:
+      REF_AREA|(YOUR COUNTRY CODE)
+    drop_dimensions:
+      - FREQ
+      - REPORTING_TYPE
+    import_codes: true
+    import_series_attributes: true
+    import_observation_attributes: true
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
@@ -59,7 +67,12 @@ inputs:
     git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
-
+# Metadata Schema
+# This inputs multiple metadata schema to control which metadata tabs
+# the various fields appear in (eg, National, Global, Sources)
+#  - class: SchemaInputSdmxMsd
+#    schema_path: SDG_MSD.xml
+#    scope: national
 # Translations
 # ------------
 # The allows control over the imported translations. This can be omitted if you
