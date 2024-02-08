@@ -42,7 +42,7 @@ inputs:
     path_pattern: data/*.xml
     dsd: 'LocalRegistry.xml'
     dimension_map:
-      REF_AREA|GH: ''
+      REF_AREA|CM: ''
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
