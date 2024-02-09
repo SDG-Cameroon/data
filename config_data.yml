@@ -49,6 +49,8 @@ inputs:
     import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
+  - class : InputWordMeta
+    path_pattern : meta/*-*.docm
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
