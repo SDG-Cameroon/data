@@ -55,7 +55,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: PRODUCTION_ORGANISATION/PRODUCTION_REPOSITORY
+        REPOSITORY_NAME: CameroonSND30/ProductionData
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site
@@ -70,5 +70,5 @@ jobs:
           -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.token }}"\
           -H "X-GitHub-Api-Version: 2022-11-28" \
-          https://api.github.com/repos/STAGING_ORGANISATION/STAGING_SITE_REPOSITORY/actions/workflows/deploy-to-production.yml/dispatches \
+          https://api.github.com/repos/SDG-Cameroon/site/actions/workflows/deploy-to-production.yml/dispatches \
           -d '{"ref":"master"}'
