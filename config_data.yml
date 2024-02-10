@@ -87,7 +87,7 @@ translations:
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputSdmx
-    source: 'LocalRegistry.xml
+    source: 'LocalRegistry.xml'
 
 # Reporting status extra fields
 # -----------------------------
