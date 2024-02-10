@@ -86,6 +86,8 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+  - class: TranslationInputSdmx
+    source: 'LocalRegistry.xml'
 
 # Reporting status extra fields
 # -----------------------------
