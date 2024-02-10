@@ -86,7 +86,8 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
-
+  - class: TranslationInputSdmx
+    source: 'CameroonRegistrySDG1_0.xml'
 # Reporting status extra fields
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
