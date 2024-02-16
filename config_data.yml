@@ -46,7 +46,6 @@ inputs:
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
-    import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
   - class : InputWordMeta
