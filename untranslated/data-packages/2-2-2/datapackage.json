@@ -15,8 +15,15 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children moderately or severely wasted [2.2.2]",
+                "Proportion of children moderately or severely overweight [2.2.2]",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

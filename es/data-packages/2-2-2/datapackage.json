@@ -16,9 +16,16 @@
             "title": "Año"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "Proportion of children moderately or severely wasted [2.2.2]",
+                "Proportion of children moderately or severely overweight [2.2.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

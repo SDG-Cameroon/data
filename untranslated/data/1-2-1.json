@@ -1,1 +1,1 @@
-{"Year":[2007,2014,2007,2014,2007,2014,2007,2014,2007,2014],"SEX":[null,null,null,null,"F","F","M","M",null,null],"URBANISATION":["U","U","R","R",null,null,null,null,null,null],"Value":[12.2,8.9,55.0,56.8,40.2,37.7,39.5,37.2,39.9,37.5]}
+{"Year":[2007,2014,2007,2014,2007,2014,2007,2014,2007,2014],"Sex":[null,null,null,null,"Female","Female","Male","Male",null,null],"Degree of urbanisation":["Urban","Urban","Rural","Rural",null,null,null,null,null,null],"Value":[12.2,8.9,55.0,56.8,40.2,37.7,39.5,37.2,39.9,37.5]}

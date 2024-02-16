@@ -1,12 +1,12 @@
-Year,URBANISATION,EDUCATION_LEV,Value
-2014,U,,87.9
-2018,U,,89.5
-2014,R,,48.8
-2018,R,,52.5
-2014,,ISCED11A_01,29.5
-2014,,ISCED11_1,65.4
-2014,,AGG_2_3,91.9
-2014,,AGG_5T8,97.4
+Year,Degree of urbanisation,Education level,Value
+2014,Urban,,87.9
+2018,Urban,,89.5
+2014,Rural,,48.8
+2018,Rural,,52.5
+2014,,Never attended an education programme / No schooling,29.5
+2014,,Primary education,65.4
+2014,,Secondary education (lower and upper secondary education),91.9
+2014,,Tertiary education,97.4
 2006,,,58.9
 2011,,,63.6
 2014,,,64.7
