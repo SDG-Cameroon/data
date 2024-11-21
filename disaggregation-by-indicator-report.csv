@@ -1,6 +1,18 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"Sex, Degree of urbanisation",2
+#1-4-1,"Degree of urbanisation, SDG Series",2
+#1-4-2,"Degree of urbanisation, SDG Series",2
+#2-1-2,SDG Series,1
 #2-2-1,Sex,1
 #2-2-2,SDG Series,1
+#2-3-2,SDG Series,1
 #3-2-1,SDG Series,1
+#3-3-1,Sex,1
+#3-3-2,SDG Series,1
+#3-3-3,"Degree of urbanisation, SDG Series",2
+#3-4-1,SDG Series,1
+#3-6-1,SDG Series,1
+#3-7-1,"Degree of urbanisation, Education level",2
 #3-7-2,Degree of urbanisation,1
+#3-8-1,Sex,1
+#3-a-1,Sex,1

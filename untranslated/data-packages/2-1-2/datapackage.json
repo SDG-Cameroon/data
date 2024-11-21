@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate food insecurity in the population (%)",
+                "Prevalence of severe food insecurity in the population (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

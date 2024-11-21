@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Burden of diseases  related to road accidents (%)",
+                "Death rate due to road traffic injuries [3.6.1]",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Death rate due to mental diseases and substance abuse (%)",
+                "Burden of cardiovascular diseases in all diseases(%)",
+                "Burden of cancers in all diseases (%)",
+                "Burden of chronic respiratory diseases in all diseases (%)",
+                "Burden of mental diseases and substance abuse in all diseases (%)",
+                "Burden of diarrheal diseases in all diseases (%)",
+                "Burden of low respiratory infections in all diseases (%)",
+                "Burden of unintentional accidents in all diseases (%)",
+                "Death rate due to cardiovascular diseases (%)",
+                "Death rate due to cancer (%)",
+                "Death rate due to chronic respiratory diseases (%)",
+                "Death rate due to low respiratory infections (%)",
+                "Death rate due to unintentional accidents (%)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",
