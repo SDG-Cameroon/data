@@ -9,6 +9,8 @@ Burden of diseases  related to road accidents (%),1,1
 Burden of low respiratory infections in all diseases (%),1,1
 Burden of mental diseases and substance abuse in all diseases (%),1,1
 Burden of unintentional accidents in all diseases (%),1,1
+Completion rate at lower secondary level General Education (%),3,1
+Completion rate at the lower secondary level Technical Education (%),3,1
 Death rate due to cancer (%),1,1
 Death rate due to cardiovascular diseases (%),1,1
 Death rate due to chronic respiratory diseases (%),1,1
@@ -16,19 +18,31 @@ Death rate due to low respiratory infections (%),1,1
 Death rate due to mental diseases and substance abuse (%),1,1
 Death rate due to road traffic injuries [3.6.1],1,1
 Death rate due to unintentional accidents (%),1,1
+Gross enrollment ratio in preschool (%),3,1
 Infant mortality rate [3.2.1],1,1
+Net enrollment ratio in preschool (%),3,1
 Number of new cases of tuberculosis with positive microscopy (TPM +) (per 100 000 inhabitants),1,1
 Number of notified tuberculosis cases (per 100 000 inhabitants),1,1
 Prevalence of antimalarial treatment (%),3,1
 Prevalence of malaria in children under 5 years (%),3,1
 Prevalence of moderate food insecurity in the population (%),1,1
 Prevalence of severe food insecurity in the population (%),1,1
+Primary completion rate (%),3,1
 Proportion of children moderately or severely overweight [2.2.2],1,1
 Proportion of children moderately or severely wasted [2.2.2],1,1
 Proportion of population living in households with access to electricity (%),3,1
 Proportion of population living in households with access to potable water (%),3,1
+Proportion of pre-schools with access to water (%),1,1
+Proportion of preschools with access to electricity (%),1,1
+Proportion of preschools with access to sanitation facilities (%),1,1
+Proportion of primary schools with access to electricity (%),1,1
+Proportion of primary schools with access to sanitation facilities (%),1,1
+Proportion of primary schools with access to water (%),1,1
+Proportion of qualified teachers in primary school (%),3,1
 Proportion of the total adult population evicted from their dwelling in the past 5 years (%),3,1
 Proportion of the total adult population thinking that they are at risk of being evicted from their home (%),3,1
 Proportion of the total adult population whose household does not have a secure dwelling (%),3,1
 Proportion of total adult population with no legally recognized document for the  occupied dwelling (%),3,1
+Pupil/teacher ratio in preschool,1,1
+Pupil/teacher ratio in primary school,1,1
 Under-five mortality rate [3.2.1],1,1
