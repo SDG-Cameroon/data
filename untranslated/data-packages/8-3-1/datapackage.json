@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Never attended an education programme / No schooling",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Tertiary education",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

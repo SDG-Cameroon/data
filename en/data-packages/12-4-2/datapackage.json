@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary energy consumed (Biomass) (%)",
+                "Primary energy consumed (Hydropower) (%)",
+                "Primary energy consumed (Fossil fuel) (%)",
+                "Primary energy consumed (Petroleum products) (%)",
+                "Primary energy consumed (Gas) (%)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

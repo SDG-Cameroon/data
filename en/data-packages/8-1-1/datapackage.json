@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth rate of real GDP (%)",
+                "Annual growth rate of real GDP per capita (%)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

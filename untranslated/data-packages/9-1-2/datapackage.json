@@ -12,11 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of passengers by rail transport (in thousands)",
+                "Freight volume by rail transport (in tons)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Metric Tons",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

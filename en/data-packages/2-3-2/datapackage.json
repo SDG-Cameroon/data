@@ -28,6 +28,26 @@
             "title": "SDG Series"
           },
           {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ADAMAWA",
+                "CENTRE",
+                "EAST",
+                "FAR NORTH",
+                "LittoraL",
+                "North",
+                "North West",
+                "West",
+                "South",
+                "South-West",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

@@ -12,8 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children aged 5-17 years engaged in child labour (%)",
+                "Number of children aged 5-17 years engaged in child labour",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

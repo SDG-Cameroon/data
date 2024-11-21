@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women in government (%)",
+                "Proportion of women in the national assembly (%)",
+                "Proportion of women in the municipal executive (Mayor) (%)",
+                "Proportion of women in the Senate (%)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

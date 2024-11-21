@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unemployment rate (ILO) (%)",
+                "unemployment rate (ILO) (15-24 years) (%)",
+                "Underemployment rate of persons over 15 years (%)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

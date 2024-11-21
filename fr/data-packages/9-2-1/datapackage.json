@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "3",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of GDP [9.2.1]",
+                "Manufacturing value added per capita [9.2.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Local currency",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

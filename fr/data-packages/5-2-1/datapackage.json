@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",
+                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

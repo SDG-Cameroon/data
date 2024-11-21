@@ -1,1 +1,11 @@
-Year,Value
+Year,UNIT_MULT,SDG Series,Unit of measure,Value
+2011,3,Number of passengers by rail transport (in thousands),Number,1487
+2012,3,Number of passengers by rail transport (in thousands),Number,1451
+2013,3,Number of passengers by rail transport (in thousands),Number,1419
+2014,3,Number of passengers by rail transport (in thousands),Number,1559
+2015,3,Number of passengers by rail transport (in thousands),Number,1663
+2011,0,Freight volume by rail transport (in tons),Metric Tons,1541
+2012,0,Freight volume by rail transport (in tons),Metric Tons,1617
+2013,0,Freight volume by rail transport (in tons),Metric Tons,1664
+2014,0,Freight volume by rail transport (in tons),Metric Tons,1664
+2015,0,Freight volume by rail transport (in tons),Metric Tons,2113

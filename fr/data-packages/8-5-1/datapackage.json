@@ -12,8 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Never attended an education programme / No schooling",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Tertiary education",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "Value",

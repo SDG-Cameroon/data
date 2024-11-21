@@ -12,12 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent of wetlands",
+                "Extent of forest",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hectares",
+                "Square kilometers",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

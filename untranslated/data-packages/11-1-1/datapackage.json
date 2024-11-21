@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

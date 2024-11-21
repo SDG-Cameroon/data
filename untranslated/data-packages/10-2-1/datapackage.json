@@ -12,7 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ADAMAWA",
+                "EAST",
+                "FAR NORTH",
+                "North",
+                "North West",
+                "West",
+                "South",
+                "South-West",
+                "Centre Excluding Yaounde",
+                "Littoral Excluding Douala",
+                "Yaounde",
+                "Douala",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

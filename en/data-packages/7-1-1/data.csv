@@ -1,1 +1,37 @@
-Year,Value
+Year,SDG Series,Reference area,Degree of urbanisation,Value
+2014,Proportion of population with access to electricity [7.1.1],,Urban,96.2
+2016,Proportion of population with access to electricity [7.1.1],,Urban,95.4
+2014,Proportion of population with access to electricity [7.1.1],,Rural,32.8
+2016,Proportion of population with access to electricity [7.1.1],,Rural,28.4
+2014,Proportion of population with access to electricity [7.1.1],,,58.4
+2016,Proportion of population with access to electricity [7.1.1],,,53.0
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",,Urban,44.1
+2016,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",,Urban,53.2
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",,Rural,3.8
+2016,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",,Rural,3.7
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",,,20.1
+2016,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",,,21.9
+2014,Proportion of population with access to electricity [7.1.1],ADAMAWA,,41.5
+2014,Proportion of population with access to electricity [7.1.1],EAST,,33.0
+2014,Proportion of population with access to electricity [7.1.1],FAR NORTH,,22.1
+2014,Proportion of population with access to electricity [7.1.1],North,,23.0
+2014,Proportion of population with access to electricity [7.1.1],North West,,49.6
+2014,Proportion of population with access to electricity [7.1.1],West,,68.9
+2014,Proportion of population with access to electricity [7.1.1],South,,72.3
+2014,Proportion of population with access to electricity [7.1.1],South-West,,66.1
+2014,Proportion of population with access to electricity [7.1.1],Centre Excluding Yaounde,,69.1
+2014,Proportion of population with access to electricity [7.1.1],Littoral Excluding Douala,,80.1
+2014,Proportion of population with access to electricity [7.1.1],Yaounde,,99.1
+2014,Proportion of population with access to electricity [7.1.1],Douala,,98.4
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",ADAMAWA,,9.6
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",EAST,,5.4
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",FAR NORTH,,1.2
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",North,,2.5
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",North West,,8.4
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",West,,7.0
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",South,,15.7
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",South-West,,23.5
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",Centre Excluding Yaounde,,12.5
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",Littoral Excluding Douala,,16.7
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",Yaounde,,59.0
+2014,"Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",Douala,,55.2

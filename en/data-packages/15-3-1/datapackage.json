@@ -12,12 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of degraded land between 2008 and 2016 (Thousands of hectares)",
+                "Land area restored from 2008 to 2016 (Thousand Hectares)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

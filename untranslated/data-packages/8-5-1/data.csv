@@ -1,1 +1,11 @@
-Year,Value
+Year,Sex,Degree of urbanisation,Education level,Value
+2014,,Urban,,627.9
+2014,,Rural,,482.2
+2014,Female,,,496.4
+2014,Male,,,627.4
+2014,,,Never attended an education programme / No schooling,659.9
+2014,,,Primary education,341.7
+2014,,,Lower secondary education,415.0
+2014,,,Upper secondary education,492.5
+2014,,,Tertiary education,1048.0
+2014,,,,589.6

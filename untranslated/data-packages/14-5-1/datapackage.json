@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coverage of protected areas, in proportion to national area (%)",
+                "Coverage of protected areas (ZIC and ZIC GC), in proportion to national area (%)",
+                "Coverage of protected areas (Sanctuaries), in proportion to national area (%)",
+                "Coverage of protected areas (Wildlife Reserves), in proportion to national area (%)",
+                "Coverage of protected areas (National Parks), in proportion to national area (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

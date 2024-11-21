@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the population that has suffered at least one form of discrimination (%)",
+                "Proportion of the population who reported being victim of at least one form of discrimination (%)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

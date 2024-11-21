@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of Research and development (R & D) to GDP (%)",
+                "Share of Research and Development (R & D) to total investment (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

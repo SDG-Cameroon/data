@@ -1,6 +1,8 @@
 Disaggregation,Number of indicators,Number of values
-Degree of urbanisation,7,2
-Education level,1,4
-SDG Series,14,47
-Sex,9,2
-Unit of measure,1,2
+Degree of urbanisation,22,2
+Education level,5,6
+Reference area,5,14
+SDG Series,37,117
+Sex,22,2
+Unit of measure,6,7
+UNIT_MULT,3,3

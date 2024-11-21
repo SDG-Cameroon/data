@@ -1,1 +1,10 @@
-Year,Value
+Year,Sex,Value
+2015,Female,192
+2016,Female,117
+2017,Female,202
+2015,Male,669
+2016,Male,670
+2017,Male,802
+2015,,861
+2016,,787
+2017,,1004

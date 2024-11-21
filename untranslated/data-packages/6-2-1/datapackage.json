@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the population with a hand-washing place with water, soap (%)",
+                "Percentage of the population of households using the improved toilets (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

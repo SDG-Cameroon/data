@@ -12,8 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity [7.1.1]",
+                "Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ADAMAWA",
+                "EAST",
+                "FAR NORTH",
+                "North",
+                "North West",
+                "West",
+                "South",
+                "South-West",
+                "Centre Excluding Yaounde",
+                "Littoral Excluding Douala",
+                "Yaounde",
+                "Douala",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

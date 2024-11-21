@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Part des énergies renouvelables hors bois énergie dans le mix énergétique à la consommation",
+                "Part des énergies renouvelables dans le mix électrique à la production",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

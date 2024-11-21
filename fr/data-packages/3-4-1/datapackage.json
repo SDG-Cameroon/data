@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Death rate due to mental diseases and substance abuse (%)",
+                "Death rate due to diarrheal diseases (%)",
                 "Burden of cardiovascular diseases in all diseases(%)",
                 "Burden of cancers in all diseases (%)",
                 "Burden of chronic respiratory diseases in all diseases (%)",

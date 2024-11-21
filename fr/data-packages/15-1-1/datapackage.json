@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest area (Permanent forests), as a percentage of the total land area (%)",
+                "Forest area (Non-permanent forests), as a percentage of the total land area (%)",
+                "Forest area as a proportion of total land area [15.1.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",
