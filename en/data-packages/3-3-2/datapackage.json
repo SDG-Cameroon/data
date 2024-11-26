@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of notified tuberculosis cases (per 100 000 inhabitants)",
-                "Number of new cases of tuberculosis with positive microscopy (TPM +) (per 100 000 inhabitants)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

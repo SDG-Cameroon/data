@@ -1,31 +1,31 @@
-Year,SDG Series,Degree of urbanisation,Education level,Value
-2014,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",Urban,,15.6
-2018,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",Urban,,5.4
-2014,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",Rural,,11.4
-2018,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",Rural,,2.5
-2014,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Never attended an education programme / No schooling,5.0
-2014,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Primary education,15.7
-2014,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Secondary education (lower and upper secondary education),18.7
-2014,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Tertiary education,12.3
-2014,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,13.3
-2018,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,3.9
-2014,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",Urban,,26.7
-2018,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",Urban,,20.7
-2014,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",Rural,,16.3
-2018,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",Rural,,10.6
-2014,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Never attended an education programme / No schooling,9.9
-2014,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Primary education,21.9
-2014,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Secondary education (lower and upper secondary education),28.8
-2014,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Tertiary education,36.3
-2014,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,21.0
-2018,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,15.4
-2014,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",Urban,,42.4
-2018,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",Urban,,26.1
-2014,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",Rural,,27.7
-2018,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",Rural,,13.1
-2014,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Never attended an education programme / No schooling,14.9
-2014,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Primary education,37.7
-2014,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Secondary education (lower and upper secondary education),47.6
-2014,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Tertiary education,48.5
-2014,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,34.4
-2018,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,19.3
+Year,SERIES,URBANISATION,EDUCATION_LEV,Value
+2014,_L_CM_050601_1,U,,15.6
+2018,_L_CM_050601_1,U,,5.4
+2014,_L_CM_050601_1,R,,11.4
+2018,_L_CM_050601_1,R,,2.5
+2014,_L_CM_050601_1,,ISCED11A_01,5.0
+2014,_L_CM_050601_1,,ISCED11_1,15.7
+2014,_L_CM_050601_1,,AGG_2_3,18.7
+2014,_L_CM_050601_1,,AGG_5T8,12.3
+2014,_L_CM_050601_1,,,13.3
+2018,_L_CM_050601_1,,,3.9
+2014,_L_CM_050601_2,U,,26.7
+2018,_L_CM_050601_2,U,,20.7
+2014,_L_CM_050601_2,R,,16.3
+2018,_L_CM_050601_2,R,,10.6
+2014,_L_CM_050601_2,,ISCED11A_01,9.9
+2014,_L_CM_050601_2,,ISCED11_1,21.9
+2014,_L_CM_050601_2,,AGG_2_3,28.8
+2014,_L_CM_050601_2,,AGG_5T8,36.3
+2014,_L_CM_050601_2,,,21.0
+2018,_L_CM_050601_2,,,15.4
+2014,_L_CM_050601_3,U,,42.4
+2018,_L_CM_050601_3,U,,26.1
+2014,_L_CM_050601_3,R,,27.7
+2018,_L_CM_050601_3,R,,13.1
+2014,_L_CM_050601_3,,ISCED11A_01,14.9
+2014,_L_CM_050601_3,,ISCED11_1,37.7
+2014,_L_CM_050601_3,,AGG_2_3,47.6
+2014,_L_CM_050601_3,,AGG_5T8,48.5
+2014,_L_CM_050601_3,,,34.4
+2018,_L_CM_050601_3,,,19.3

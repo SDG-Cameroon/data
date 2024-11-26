@@ -1,7 +1,7 @@
-Year,SDG Series,Sex,Value
-2015,Gross enrollment ratio in preschool (%),Female,38.0
-2015,Gross enrollment ratio in preschool (%),Male,37.0
-2015,Gross enrollment ratio in preschool (%),,37.5
-2015,Net enrollment ratio in preschool (%),Female,27.2
-2015,Net enrollment ratio in preschool (%),Male,26.5
-2015,Net enrollment ratio in preschool (%),,26.9
+Year,SERIES,SEX,Value
+2015,_L_CM_040201_1,F,38.0
+2015,_L_CM_040201_1,M,37.0
+2015,_L_CM_040201_1,,37.5
+2015,_L_CM_040201_2,F,27.2
+2015,_L_CM_040201_2,M,26.5
+2015,_L_CM_040201_2,,26.9

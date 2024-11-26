@@ -1,13 +1,13 @@
-Year,SDG Series,Degree of urbanisation,Value
-2011,Prevalence of malaria in children under 5 years (%),Urban,20.6
-2011,Prevalence of malaria in children under 5 years (%),Rural,37.1
-2011,Prevalence of malaria in children under 5 years (%),,30.0
-2014,Prevalence of malaria in children under 5 years (%),,30.0
-2018,Prevalence of malaria in children under 5 years (%),,24.0
-2004,Prevalence of antimalarial treatment (%),Urban,58.9
-2011,Prevalence of antimalarial treatment (%),Urban,29.3
-2004,Prevalence of antimalarial treatment (%),Rural,48.0
-2011,Prevalence of antimalarial treatment (%),Rural,18.9
-2004,Prevalence of antimalarial treatment (%),,53.1
-2011,Prevalence of antimalarial treatment (%),,23.1
-2018,Prevalence of antimalarial treatment (%),,59.0
+Year,SERIES,URBANISATION,Value
+2011,_L_CM_030303_1,U,20.6
+2011,_L_CM_030303_1,R,37.1
+2011,_L_CM_030303_1,,30.0
+2014,_L_CM_030303_1,,30.0
+2018,_L_CM_030303_1,,24.0
+2004,_L_CM_030303_2,U,58.9
+2011,_L_CM_030303_2,U,29.3
+2004,_L_CM_030303_2,R,48.0
+2011,_L_CM_030303_2,R,18.9
+2004,_L_CM_030303_2,,53.1
+2011,_L_CM_030303_2,,23.1
+2018,_L_CM_030303_2,,59.0

@@ -16,19 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of primary schools with access to sanitation facilities (%)",
-                "Proportion of primary schools with access to water (%)",
-                "Proportion of primary schools with access to electricity (%)",
-                "Proportion of pre-schools with access to water (%)",
-                "Proportion of preschools with access to electricity (%)",
-                "Proportion of preschools with access to sanitation facilities (%)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

@@ -1,14 +1,14 @@
-Year,SDG Series,Sex,Degree of urbanisation,Value
-2014,unemployment rate (ILO) (%),,Urban,7.1
-2016,unemployment rate (ILO) (%),,Urban,6.7
-2014,unemployment rate (ILO) (%),,Rural,0.9
-2016,unemployment rate (ILO) (%),,Rural,0.6
-2014,unemployment rate (ILO) (%),Female,,3.8
-2016,unemployment rate (ILO) (%),Female,,3.0
-2014,unemployment rate (ILO) (%),Male,,2.9
-2016,unemployment rate (ILO) (%),Male,,2.3
-2014,unemployment rate (ILO) (%),,,3.3
-2016,unemployment rate (ILO) (%),,,2.6
-2014,unemployment rate (ILO) (15-24 years) (%),,,6.3
-2016,unemployment rate (ILO) (15-24 years) (%),,,6.3
-2014,Underemployment rate of persons over 15 years (%),,,77.6
+Year,SERIES,SEX,URBANISATION,Value
+2014,_L_CM_080502_1,,U,7.1
+2016,_L_CM_080502_1,,U,6.7
+2014,_L_CM_080502_1,,R,0.9
+2016,_L_CM_080502_1,,R,0.6
+2014,_L_CM_080502_1,F,,3.8
+2016,_L_CM_080502_1,F,,3.0
+2014,_L_CM_080502_1,M,,2.9
+2016,_L_CM_080502_1,M,,2.3
+2014,_L_CM_080502_1,,,3.3
+2016,_L_CM_080502_1,,,2.6
+2014,_L_CM_080502_2,,,6.3
+2016,_L_CM_080502_2,,,6.3
+2014,_L_CM_080502_3,,,77.6

@@ -16,20 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of qualified teachers in primary school (%)",
-                "Pupil/teacher ratio in preschool",
-                "Pupil/teacher ratio in primary school",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,15 +33,8 @@
             "title": "Sex"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Ratio",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

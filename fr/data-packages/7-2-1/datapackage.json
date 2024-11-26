@@ -16,16 +16,9 @@
             "title": "Année"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Part des énergies renouvelables hors bois énergie dans le mix énergétique à la consommation",
-                "Part des énergies renouvelables dans le mix électrique à la production",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "Value",

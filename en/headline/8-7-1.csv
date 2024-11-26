@@ -1,1 +1,4 @@
-Year,Value
+Year,Value,UNIT_MEASURE,SERIES
+2014,17.0,Percent,Proportion of children aged 5-17 years engaged in child labour (%)
+2016,24.0,Percent,Proportion of children aged 5-17 years engaged in child labour (%)
+2014,15589.0,Number,Number of children aged 5-17 years engaged in child labour

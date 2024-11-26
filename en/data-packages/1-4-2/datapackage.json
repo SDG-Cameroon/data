@@ -16,21 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of total adult population with no legally recognized document for the  occupied dwelling (%)",
-                "Proportion of the total adult population thinking that they are at risk of being evicted from their home (%)",
-                "Proportion of the total adult population whose household does not have a secure dwelling (%)",
-                "Proportion of the total adult population evicted from their dwelling in the past 5 years (%)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [

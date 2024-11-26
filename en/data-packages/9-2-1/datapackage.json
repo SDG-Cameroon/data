@@ -28,27 +28,13 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing value added as a proportion of GDP [9.2.1]",
-                "Manufacturing value added per capita [9.2.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Local currency",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

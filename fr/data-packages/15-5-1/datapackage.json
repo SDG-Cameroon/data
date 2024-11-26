@@ -16,16 +16,9 @@
             "title": "Année"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Nombre d'espèces animales en danger",
-                "Nombre d'espèces végétale en danger",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "Value",

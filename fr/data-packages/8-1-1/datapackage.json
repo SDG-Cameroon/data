@@ -16,16 +16,9 @@
             "title": "Année"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual growth rate of real GDP (%)",
-                "Annual growth rate of real GDP per capita (%)",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "Value",

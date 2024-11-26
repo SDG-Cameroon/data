@@ -15,16 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forest area (Permanent forests), as a percentage of the total land area (%)",
-                "Forest area (Non-permanent forests), as a percentage of the total land area (%)",
-                "Forest area as a proportion of total land area [15.1.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -15,36 +15,29 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
-                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
+                "U",
+                "R",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Education level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Never attended an education programme / No schooling",
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
-                "Tertiary education",
+                "ISCED11A_01",
+                "ISCED11_1",
+                "AGG_2_3",
+                "AGG_5T8",
                 ""
               ]
             }

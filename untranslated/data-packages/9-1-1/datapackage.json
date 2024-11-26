@@ -15,23 +15,27 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "ADAMAWA",
-                "CENTRE",
-                "EAST",
-                "FAR NORTH",
-                "LittoraL",
-                "North",
-                "North West",
-                "West",
-                "South",
-                "South-West",
+                "CM_AD",
+                "CM_CE",
+                "CM_ES",
+                "CM_EN",
+                "CM_LT",
+                "CM_NO",
+                "CM_NW",
+                "CM_OU",
+                "CM_SU",
+                "CM_SW",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

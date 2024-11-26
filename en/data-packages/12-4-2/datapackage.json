@@ -16,18 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary energy consumed (Biomass) (%)",
-                "Primary energy consumed (Hydropower) (%)",
-                "Primary energy consumed (Fossil fuel) (%)",
-                "Primary energy consumed (Petroleum products) (%)",
-                "Primary energy consumed (Gas) (%)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

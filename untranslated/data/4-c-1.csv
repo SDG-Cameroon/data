@@ -1,10 +1,10 @@
-Year,SDG Series,Sex,Unit of measure,Value
-2015,Proportion of qualified teachers in primary school (%),Female,Percent,58.7
-2015,Proportion of qualified teachers in primary school (%),Male,Percent,52.4
-2015,Proportion of qualified teachers in primary school (%),,Percent,55.8
-2015,Pupil/teacher ratio in preschool,,Ratio,20.7
-2016,Pupil/teacher ratio in preschool,,Ratio,20.6
-2018,Pupil/teacher ratio in preschool,,Ratio,20.3
-2015,Pupil/teacher ratio in primary school,,Ratio,49.1
-2016,Pupil/teacher ratio in primary school,,Ratio,42.4
-2018,Pupil/teacher ratio in primary school,,Ratio,44.7
+Year,SERIES,SEX,UNIT_MEASURE,Value
+2015,_L_CM_040c01_1,F,PT,58.7
+2015,_L_CM_040c01_1,M,PT,52.4
+2015,_L_CM_040c01_1,,PT,55.8
+2015,_L_CM_040c01_2,,RO,20.7
+2016,_L_CM_040c01_2,,RO,20.6
+2018,_L_CM_040c01_2,,RO,20.3
+2015,_L_CM_040c01_3,,RO,49.1
+2016,_L_CM_040c01_3,,RO,42.4
+2018,_L_CM_040c01_3,,RO,44.7

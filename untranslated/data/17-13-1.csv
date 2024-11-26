@@ -1,101 +1,101 @@
-Year,UNIT_MULT,SDG Series,Unit of measure,Value
-2015,9,GDP nominal (billions of CFA Francs),Local currency,19043.1
-2016,9,GDP nominal (billions of CFA Francs),Local currency,20038.6
-2017,9,GDP nominal (billions of CFA Francs),Local currency,20960.9
-2018,9,GDP nominal (billions of CFA Francs),Local currency,22203.3
-2019,9,GDP nominal (billions of CFA Francs),Local currency,23243.7
-2020,9,GDP nominal (billions of CFA Francs),Local currency,23486.5
-2021,9,GDP nominal (billions of CFA Francs),Local currency,24950.3
-2022,9,GDP nominal (billions of CFA Francs),Local currency,27223.4
-2015,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,19169.1
-2016,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,20038.6
-2017,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,20748.2
-2018,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,21568.9
-2019,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,22318.4
-2020,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,22428.2
-2021,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,23123.5
-2022,9,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,23952.0
-2015,0,Real GDP growth rate (%),Percent,5.7
-2016,0,Real GDP growth rate (%),Percent,4.5
-2017,0,Real GDP growth rate (%),Percent,3.5
-2018,0,Real GDP growth rate (%),Percent,4.0
-2019,0,Real GDP growth rate (%),Percent,3.5
-2020,0,Real GDP growth rate (%),Percent,0.5
-2021,0,Real GDP growth rate (%),Percent,3.3
-2022,0,Real GDP growth rate (%),Percent,3.6
-2015,9,Exports of goods (billions of CFA Francs) (current price),Local currency,3066.8
-2016,9,Exports of goods (billions of CFA Francs) (current price),Local currency,2778.8
-2017,9,Exports of goods (billions of CFA Francs) (current price),Local currency,2727.9
-2018,9,Exports of goods (billions of CFA Francs) (current price),Local currency,2981.0
-2019,9,Exports of goods (billions of CFA Francs) (current price),Local currency,3305.5
-2020,9,Exports of goods (billions of CFA Francs) (current price),Local currency,2442.4
-2021,9,Exports of goods (billions of CFA Francs) (current price),Local currency,3113.4
-2022,9,Exports of goods (billions of CFA Francs) (current price),Local currency,4188.4
-2015,9,Exports of services (billions of CFA Francs) (current price),Local currency,930.1
-2016,9,Exports of services (billions of CFA Francs) (current price),Local currency,1018.5
-2017,9,Exports of services (billions of CFA Francs) (current price),Local currency,1118.6
-2018,9,Exports of services (billions of CFA Francs) (current price),Local currency,1179.1
-2019,9,Exports of services (billions of CFA Francs) (current price),Local currency,1308.4
-2020,9,Exports of services (billions of CFA Francs) (current price),Local currency,1088.8
-2021,9,Exports of services (billions of CFA Francs) (current price),Local currency,1007.2
-2022,9,Exports of services (billions of CFA Francs) (current price),Local currency,1063.5
-2015,9,Imports of goods (billions of CFA Francs) (current price),Local currency,3907.8
-2016,9,Imports of goods (billions of CFA Francs) (current price),Local currency,3500.3
-2017,9,Imports of goods (billions of CFA Francs) (current price),Local currency,3459.8
-2018,9,Imports of goods (billions of CFA Francs) (current price),Local currency,3845.9
-2019,9,Imports of goods (billions of CFA Francs) (current price),Local currency,4365.4
-2020,9,Imports of goods (billions of CFA Francs) (current price),Local currency,3422.4
-2021,9,Imports of goods (billions of CFA Francs) (current price),Local currency,4189.3
-2022,9,Imports of goods (billions of CFA Francs) (current price),Local currency,5190.5
-2015,9,Imports of services (billions of CFA Francs) (current price),Local currency,767.5
-2016,9,Imports of services (billions of CFA Francs) (current price),Local currency,845.8
-2017,9,Imports of services (billions of CFA Francs) (current price),Local currency,910.1
-2018,9,Imports of services (billions of CFA Francs) (current price),Local currency,1005.9
-2019,9,Imports of services (billions of CFA Francs) (current price),Local currency,1103.4
-2020,9,Imports of services (billions of CFA Francs) (current price),Local currency,858.3
-2021,9,Imports of services (billions of CFA Francs) (current price),Local currency,858.2
-2022,9,Imports of services (billions of CFA Francs) (current price),Local currency,797.4
-2015,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2770.2
-2016,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2778.8
-2017,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2630.7
-2018,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2638.7
-2019,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2945.3
-2020,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2524.6
-2021,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2775.3
-2022,9,"Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,2874.1
-2015,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,919.0
-2016,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1018.5
-2017,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1106.9
-2018,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1179.8
-2019,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1300.4
-2020,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1074.4
-2021,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,985.9
-2022,9,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1012.3
-2015,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3503.1
-2016,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3500.3
-2017,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3394.7
-2018,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3740.6
-2019,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4219.1
-2020,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3534.9
-2021,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4141.2
-2022,9,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4414.4
-2015,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,792.8
-2016,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,845.8
-2017,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,899.0
-2018,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,916.3
-2019,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,970.1
-2020,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,765.2
-2021,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,736.8
-2022,9,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,656.1
-2011,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.9
-2012,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.4
-2013,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.1
-2014,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,1.9
-2015,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.7
-2016,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,0.9
-2017,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,0.6
-2018,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,1.1
-2019,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.5
-2020,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.5
-2021,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.3
-2022,0,"Annual inflation, consumer prices (%) [17.13.1]",Percent,6.2
+Year,UNIT_MULT,SERIES,UNIT_MEASURE,Value
+2015,9,_L_CM_171301_1,CUR_LCU,19043.1
+2016,9,_L_CM_171301_1,CUR_LCU,20038.6
+2017,9,_L_CM_171301_1,CUR_LCU,20960.9
+2018,9,_L_CM_171301_1,CUR_LCU,22203.3
+2019,9,_L_CM_171301_1,CUR_LCU,23243.7
+2020,9,_L_CM_171301_1,CUR_LCU,23486.5
+2021,9,_L_CM_171301_1,CUR_LCU,24950.3
+2022,9,_L_CM_171301_1,CUR_LCU,27223.4
+2015,9,_L_CM_171301_2,CUR_LCU,19169.1
+2016,9,_L_CM_171301_2,CUR_LCU,20038.6
+2017,9,_L_CM_171301_2,CUR_LCU,20748.2
+2018,9,_L_CM_171301_2,CUR_LCU,21568.9
+2019,9,_L_CM_171301_2,CUR_LCU,22318.4
+2020,9,_L_CM_171301_2,CUR_LCU,22428.2
+2021,9,_L_CM_171301_2,CUR_LCU,23123.5
+2022,9,_L_CM_171301_2,CUR_LCU,23952.0
+2015,0,_L_CM_171301_3,PT,5.7
+2016,0,_L_CM_171301_3,PT,4.5
+2017,0,_L_CM_171301_3,PT,3.5
+2018,0,_L_CM_171301_3,PT,4.0
+2019,0,_L_CM_171301_3,PT,3.5
+2020,0,_L_CM_171301_3,PT,0.5
+2021,0,_L_CM_171301_3,PT,3.3
+2022,0,_L_CM_171301_3,PT,3.6
+2015,9,_L_CM_171301_4,CUR_LCU,3066.8
+2016,9,_L_CM_171301_4,CUR_LCU,2778.8
+2017,9,_L_CM_171301_4,CUR_LCU,2727.9
+2018,9,_L_CM_171301_4,CUR_LCU,2981.0
+2019,9,_L_CM_171301_4,CUR_LCU,3305.5
+2020,9,_L_CM_171301_4,CUR_LCU,2442.4
+2021,9,_L_CM_171301_4,CUR_LCU,3113.4
+2022,9,_L_CM_171301_4,CUR_LCU,4188.4
+2015,9,_L_CM_171301_5,CUR_LCU,930.1
+2016,9,_L_CM_171301_5,CUR_LCU,1018.5
+2017,9,_L_CM_171301_5,CUR_LCU,1118.6
+2018,9,_L_CM_171301_5,CUR_LCU,1179.1
+2019,9,_L_CM_171301_5,CUR_LCU,1308.4
+2020,9,_L_CM_171301_5,CUR_LCU,1088.8
+2021,9,_L_CM_171301_5,CUR_LCU,1007.2
+2022,9,_L_CM_171301_5,CUR_LCU,1063.5
+2015,9,_L_CM_171301_6,CUR_LCU,3907.8
+2016,9,_L_CM_171301_6,CUR_LCU,3500.3
+2017,9,_L_CM_171301_6,CUR_LCU,3459.8
+2018,9,_L_CM_171301_6,CUR_LCU,3845.9
+2019,9,_L_CM_171301_6,CUR_LCU,4365.4
+2020,9,_L_CM_171301_6,CUR_LCU,3422.4
+2021,9,_L_CM_171301_6,CUR_LCU,4189.3
+2022,9,_L_CM_171301_6,CUR_LCU,5190.5
+2015,9,_L_CM_171301_7,CUR_LCU,767.5
+2016,9,_L_CM_171301_7,CUR_LCU,845.8
+2017,9,_L_CM_171301_7,CUR_LCU,910.1
+2018,9,_L_CM_171301_7,CUR_LCU,1005.9
+2019,9,_L_CM_171301_7,CUR_LCU,1103.4
+2020,9,_L_CM_171301_7,CUR_LCU,858.3
+2021,9,_L_CM_171301_7,CUR_LCU,858.2
+2022,9,_L_CM_171301_7,CUR_LCU,797.4
+2015,9,_L_CM_171301_8,CUR_LCU,2770.2
+2016,9,_L_CM_171301_8,CUR_LCU,2778.8
+2017,9,_L_CM_171301_8,CUR_LCU,2630.7
+2018,9,_L_CM_171301_8,CUR_LCU,2638.7
+2019,9,_L_CM_171301_8,CUR_LCU,2945.3
+2020,9,_L_CM_171301_8,CUR_LCU,2524.6
+2021,9,_L_CM_171301_8,CUR_LCU,2775.3
+2022,9,_L_CM_171301_8,CUR_LCU,2874.1
+2015,9,_L_CM_171301_9,CUR_LCU,919.0
+2016,9,_L_CM_171301_9,CUR_LCU,1018.5
+2017,9,_L_CM_171301_9,CUR_LCU,1106.9
+2018,9,_L_CM_171301_9,CUR_LCU,1179.8
+2019,9,_L_CM_171301_9,CUR_LCU,1300.4
+2020,9,_L_CM_171301_9,CUR_LCU,1074.4
+2021,9,_L_CM_171301_9,CUR_LCU,985.9
+2022,9,_L_CM_171301_9,CUR_LCU,1012.3
+2015,9,_L_CM_171301_10,CUR_LCU,3503.1
+2016,9,_L_CM_171301_10,CUR_LCU,3500.3
+2017,9,_L_CM_171301_10,CUR_LCU,3394.7
+2018,9,_L_CM_171301_10,CUR_LCU,3740.6
+2019,9,_L_CM_171301_10,CUR_LCU,4219.1
+2020,9,_L_CM_171301_10,CUR_LCU,3534.9
+2021,9,_L_CM_171301_10,CUR_LCU,4141.2
+2022,9,_L_CM_171301_10,CUR_LCU,4414.4
+2015,9,_L_CM_171301_11,CUR_LCU,792.8
+2016,9,_L_CM_171301_11,CUR_LCU,845.8
+2017,9,_L_CM_171301_11,CUR_LCU,899.0
+2018,9,_L_CM_171301_11,CUR_LCU,916.3
+2019,9,_L_CM_171301_11,CUR_LCU,970.1
+2020,9,_L_CM_171301_11,CUR_LCU,765.2
+2021,9,_L_CM_171301_11,CUR_LCU,736.8
+2022,9,_L_CM_171301_11,CUR_LCU,656.1
+2011,0,FP_CPI_TOTL_ZG,PT,2.9
+2012,0,FP_CPI_TOTL_ZG,PT,2.4
+2013,0,FP_CPI_TOTL_ZG,PT,2.1
+2014,0,FP_CPI_TOTL_ZG,PT,1.9
+2015,0,FP_CPI_TOTL_ZG,PT,2.7
+2016,0,FP_CPI_TOTL_ZG,PT,0.9
+2017,0,FP_CPI_TOTL_ZG,PT,0.6
+2018,0,FP_CPI_TOTL_ZG,PT,1.1
+2019,0,FP_CPI_TOTL_ZG,PT,2.5
+2020,0,FP_CPI_TOTL_ZG,PT,2.5
+2021,0,FP_CPI_TOTL_ZG,PT,2.3
+2022,0,FP_CPI_TOTL_ZG,PT,6.2

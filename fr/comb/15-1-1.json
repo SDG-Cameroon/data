@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2017,2017],"SDG Series":["Forest area (Permanent forests), as a percentage of the total land area (%)","Forest area (Non-permanent forests), as a percentage of the total land area (%)","Forest area as a proportion of total land area [15.1.1]"],"Value":[24.76,21.49,46.25]},"edges":[]}
+{"data":{"Year":[2017,2017,2017],"SERIES":["_L_CM_150101_1","_L_CM_150101_2","AG_LND_FRST"],"Value":[24.76,21.49,46.25]},"edges":[]}

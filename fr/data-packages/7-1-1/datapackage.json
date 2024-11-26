@@ -16,50 +16,48 @@
             "title": "Année"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population with access to electricity [7.1.1]",
-                "Proportion of the population using clean technologies (LPG, Natural gas, Biogas, Agricultural residues, Bouses) for cooking (%)",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "ADAMAWA",
-                "EAST",
-                "FAR NORTH",
-                "North",
-                "North West",
-                "West",
-                "South",
-                "South-West",
-                "Centre Excluding Yaounde",
-                "Littoral Excluding Douala",
-                "Yaounde",
-                "Douala",
+                "CM_AD",
+                "CM_ES",
+                "CM_EN",
+                "CM_NO",
+                "CM_NW",
+                "CM_OU",
+                "CM_SU",
+                "CM_SW",
+                "CM_CE_Sans_YDE",
+                "CM_LT_Sans_DLA",
+                "CM_YDE",
+                "CM_DLA",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "REF_AREA"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

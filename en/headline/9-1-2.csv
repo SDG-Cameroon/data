@@ -1,1 +1,11 @@
-Year,Value,Unit multiplier
+Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
+2011,1487,Thousands,Number,Number of passengers by rail transport (in thousands)
+2012,1451,Thousands,Number,Number of passengers by rail transport (in thousands)
+2013,1419,Thousands,Number,Number of passengers by rail transport (in thousands)
+2014,1559,Thousands,Number,Number of passengers by rail transport (in thousands)
+2015,1663,Thousands,Number,Number of passengers by rail transport (in thousands)
+2011,1541,Units,Metric Tons,Freight volume by rail transport (in tons)
+2012,1617,Units,Metric Tons,Freight volume by rail transport (in tons)
+2013,1664,Units,Metric Tons,Freight volume by rail transport (in tons)
+2014,1664,Units,Metric Tons,Freight volume by rail transport (in tons)
+2015,2113,Units,Metric Tons,Freight volume by rail transport (in tons)

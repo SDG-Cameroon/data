@@ -1,7 +1,7 @@
-Year,Sex,Degree of urbanisation,Value
-2014,,Urban,85
-2014,,Rural,48
-2014,Female,,68
-2014,Male,,83
+Year,SEX,URBANISATION,Value
+2014,,U,85
+2014,,R,48
+2014,F,,68
+2014,M,,83
 2014,,,80
 2017,,,83

@@ -16,27 +16,13 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Extent of wetlands",
-                "Extent of forest",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Hectares",
-                "Square kilometers",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

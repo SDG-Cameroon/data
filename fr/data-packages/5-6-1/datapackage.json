@@ -16,43 +16,35 @@
             "title": "Année"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",
-                "Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",
-                "Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Never attended an education programme / No schooling",
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
-                "Tertiary education",
+                "ISCED11A_01",
+                "ISCED11_1",
+                "AGG_2_3",
+                "AGG_5T8",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "EDUCATION_LEV"
           },
           {
             "name": "Value",

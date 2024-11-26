@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Under-five mortality rate [3.2.1]",
-                "Infant mortality rate [3.2.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

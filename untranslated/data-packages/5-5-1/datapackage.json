@@ -15,18 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of women in the Senate (%)",
-                "Proportion of women in the national assembly (%)",
-                "Proportion of women Mayors (%)",
-                "Proportion of women deputies to the mayor (%)",
-                "Proportion of women in the territorial command sphere (%)",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

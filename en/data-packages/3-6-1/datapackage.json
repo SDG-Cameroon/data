@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Burden of diseases  related to road accidents (%)",
-                "Death rate due to road traffic injuries [3.6.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

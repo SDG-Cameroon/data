@@ -15,25 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Never attended an education programme / No schooling",
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
-                "Tertiary education",
+                "ISCED11A_01",
+                "ISCED11_1",
+                "AGG_2_3",
+                "AGG_5T8",
                 ""
               ]
             }

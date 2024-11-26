@@ -26,36 +26,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GDP nominal (billions of CFA Francs)",
-                "GDP real (base period, year 2016) (billions of CFA Francs)",
-                "Real GDP growth rate (%)",
-                "Exports of goods (billions of CFA Francs) (current price)",
-                "Exports of services (billions of CFA Francs) (current price)",
-                "Imports of goods (billions of CFA Francs) (current price)",
-                "Imports of services (billions of CFA Francs) (current price)",
-                "Exports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",
-                "Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",
-                "Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",
-                "Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",
-                "Annual inflation, consumer prices (%) [17.13.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Local currency",
-                "Percent",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

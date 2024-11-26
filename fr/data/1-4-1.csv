@@ -1,11 +1,11 @@
-Year,SDG Series,Degree of urbanisation,Value
-2014,Proportion of population living in households with access to potable water (%),Urban,60.8
-2016,Proportion of population living in households with access to potable water (%),Urban,90.5
-2014,Proportion of population living in households with access to potable water (%),Rural,14.9
-2016,Proportion of population living in households with access to potable water (%),Rural,16.3
-2014,Proportion of population living in households with access to potable water (%),,33.4
-2016,Proportion of population living in households with access to potable water (%),,63.0
-2014,Proportion of population living in households with access to electricity (%),Urban,96.2
-2014,Proportion of population living in households with access to electricity (%),Rural,31.7
-2014,Proportion of population living in households with access to electricity (%),,58.4
-2016,Proportion of population living in households with access to electricity (%),,53.0
+Year,SERIES,URBANISATION,Value
+2014,_L_CM_010401_1,U,60.8
+2016,_L_CM_010401_1,U,90.5
+2014,_L_CM_010401_1,R,14.9
+2016,_L_CM_010401_1,R,16.3
+2014,_L_CM_010401_1,,33.4
+2016,_L_CM_010401_1,,63.0
+2014,_L_CM_010401_2,U,96.2
+2014,_L_CM_010401_2,R,31.7
+2014,_L_CM_010401_2,,58.4
+2016,_L_CM_010401_2,,53.0

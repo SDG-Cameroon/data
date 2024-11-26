@@ -1,15 +1,15 @@
-Year,SDG Series,Value
-2012,Annual growth rate of real GDP (%),4.5
-2013,Annual growth rate of real GDP (%),5.4
-2014,Annual growth rate of real GDP (%),5.9
-2015,Annual growth rate of real GDP (%),5.7
-2016,Annual growth rate of real GDP (%),4.6
-2017,Annual growth rate of real GDP (%),3.5
-2018,Annual growth rate of real GDP (%),4.1
-2012,Annual growth rate of real GDP per capita (%),2.0
-2013,Annual growth rate of real GDP per capita (%),2.9
-2014,Annual growth rate of real GDP per capita (%),3.2
-2015,Annual growth rate of real GDP per capita (%),3.2
-2016,Annual growth rate of real GDP per capita (%),2.0
-2017,Annual growth rate of real GDP per capita (%),2.7
-2018,Annual growth rate of real GDP per capita (%),2.9
+Year,SERIES,Value
+2012,_L_CM_080101_1,4.5
+2013,_L_CM_080101_1,5.4
+2014,_L_CM_080101_1,5.9
+2015,_L_CM_080101_1,5.7
+2016,_L_CM_080101_1,4.6
+2017,_L_CM_080101_1,3.5
+2018,_L_CM_080101_1,4.1
+2012,_L_CM_080101_2,2.0
+2013,_L_CM_080101_2,2.9
+2014,_L_CM_080101_2,3.2
+2015,_L_CM_080101_2,3.2
+2016,_L_CM_080101_2,2.0
+2017,_L_CM_080101_2,2.7
+2018,_L_CM_080101_2,2.9

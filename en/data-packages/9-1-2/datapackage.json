@@ -28,27 +28,13 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of passengers by rail transport (in thousands)",
-                "Freight volume by rail transport (in tons)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Metric Tons",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {
