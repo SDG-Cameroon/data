@@ -48,6 +48,7 @@ inputs:
       - REPORTING_TYPE
     import_series_attributes: true
     import_observation_attributes: true
+    import_codes: true
   - class : InputWordMeta
     path_pattern : meta/*-*.docm
   - class: InputYamlMeta
