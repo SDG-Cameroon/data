@@ -171,7 +171,7 @@ World Health Organization (WHO)
 World Bank (WB)",,,,,line
 #2-2-3,notstarted,World Health Organization (WHO),,,,,line
 #2-3-1,notstarted,Food and Agriculture Organization (FAO),,,,,line
-#2-3-2,complete,Food and Agriculture Organization (FAO),,,,,line
+#2-3-2,complete,Food and Agriculture Organization (FAO),,True,,,line
 #2-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #2-5-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #2-5-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -267,7 +267,7 @@ Organisation for Economic Co-operation and Development (OECD)",,,,,line
 #6-b-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,complete,World Bank Group,,,,,line
+#7-1-1,complete,World Bank Group,,True,,,line
 #7-1-2,complete,World Health Organization (WHO),,,,,line
 #7-2-1,complete,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
