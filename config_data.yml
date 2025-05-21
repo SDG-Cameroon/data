@@ -52,6 +52,9 @@ inputs:
     import_series_attributes: true
     import_observation_attributes: true
     import_codes: true
+    request_params: 
+      headers: 
+        User-Agent: Open-SDG-Build-1 
   - class : InputWordMeta
     path_pattern : meta/*-*.docm
   - class: InputYamlMeta
@@ -71,9 +74,7 @@ inputs:
     git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
-    request_params: 
-      headers: 
-        User-Agent: Open-SDG-Build-1 
+
 
 # Translations
 # ------------
@@ -96,9 +97,9 @@ translations:
     source: 'LocalRegistry.xml'
   - class: TranslationInputSdmx
     source: https://cm.sdmx.afdb.org/ns-ws/rest/datastructure/CM1/SDG/1.0/?detail=Full&references=Descendants
-      request_params:
-        headers:
-          User-Agent: Open-SDG-Build-1
+    request_params:
+      headers:
+        User-Agent: Open-SDG-Build-1
 
 # Reporting status extra fields
 # -----------------------------
