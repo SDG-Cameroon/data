@@ -1,11 +1,11 @@
-Year,SERIES,Degree of urbanisation,Value
-2014,Proportion of population living in households with access to potable water (%),Urban,60.8
-2016,Proportion of population living in households with access to potable water (%),Urban,90.5
-2014,Proportion of population living in households with access to potable water (%),Rural,14.9
-2016,Proportion of population living in households with access to potable water (%),Rural,16.3
-2014,Proportion of population living in households with access to potable water (%),,33.4
-2016,Proportion of population living in households with access to potable water (%),,63.0
-2014,Proportion of population living in households with access to electricity (%),Urban,96.2
-2014,Proportion of population living in households with access to electricity (%),Rural,31.7
-2014,Proportion of population living in households with access to electricity (%),,58.4
-2016,Proportion of population living in households with access to electricity (%),,53.0
+Year,SERIES,Degree of urbanisation,Time period details,Value
+2014,Proportion of population living in households with access to potable water (%),,2016,33.4
+2016,Proportion of population living in households with access to potable water (%),,2016,63.0
+2014,Proportion of population living in households with access to potable water (%),Rural,2016,14.9
+2016,Proportion of population living in households with access to potable water (%),Rural,2016,16.3
+2014,Proportion of population living in households with access to potable water (%),Urban,2016,60.8
+2016,Proportion of population living in households with access to potable water (%),Urban,2016,90.5
+2014,Proportion of population living in households with access to electricity (%),,2016,58.4
+2016,Proportion of population living in households with access to electricity (%),,2016,53.0
+2014,Proportion of population living in households with access to electricity (%),Rural,2014,31.7
+2014,Proportion of population living in households with access to electricity (%),Urban,2014,96.2

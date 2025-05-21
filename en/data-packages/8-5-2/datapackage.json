@@ -37,12 +37,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016",
+                "2014",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "Value",

@@ -1,7 +1,10 @@
 Year,SERIES,Value
+2013,Burden of cardiovascular diseases in all diseases(%),4.7
+2013,Death rate due to chronic respiratory diseases (%),1.5
 2013,Death rate due to mental diseases and substance abuse (%),0.9
 2013,Death rate due to diarrheal diseases (%),5.0
-2013,Burden of cardiovascular diseases in all diseases(%),4.7
+2013,Death rate due to low respiratory infections (%),10.5
+2013,Death rate due to unintentional accidents (%),2.9
 2013,Burden of cancers in all diseases (%),2.0
 2013,Burden of chronic respiratory diseases in all diseases (%),1.4
 2013,Burden of mental diseases and substance abuse in all diseases (%),3.5
@@ -10,6 +13,3 @@ Year,SERIES,Value
 2013,Burden of unintentional accidents in all diseases (%),2.9
 2013,Death rate due to cardiovascular diseases (%),11.6
 2013,Death rate due to cancer (%),4.5
-2013,Death rate due to chronic respiratory diseases (%),1.5
-2013,Death rate due to low respiratory infections (%),10.5
-2013,Death rate due to unintentional accidents (%),2.9

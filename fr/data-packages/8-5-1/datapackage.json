@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
                 "R",
+                "U",
                 ""
               ]
             },
@@ -44,11 +44,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
+                "AGG_5T8",
                 "ISCED11_1",
                 "ISCED11_2",
                 "ISCED11_3",
-                "AGG_5T8",
+                "ISCED11A_01",
                 ""
               ]
             },

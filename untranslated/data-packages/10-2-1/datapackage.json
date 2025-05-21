@@ -20,17 +20,17 @@
             "constraints": {
               "enum": [
                 "CM_AD",
-                "CM_ES",
+                "CM_CE_Sans_YDE",
+                "CM_DLA",
                 "CM_EN",
+                "CM_ES",
+                "CM_LT_Sans_DLA",
                 "CM_NO",
                 "CM_NW",
                 "CM_OU",
                 "CM_SU",
                 "CM_SW",
-                "CM_CE_Sans_YDE",
-                "CM_LT_Sans_DLA",
                 "CM_YDE",
-                "CM_DLA",
                 ""
               ]
             }

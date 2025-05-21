@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             },
@@ -44,11 +44,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Never attended an education programme / No schooling",
+                "Tertiary education",
                 "Primary education",
                 "Lower secondary education",
                 "Upper secondary education",
-                "Tertiary education",
+                "Never attended an education programme / No schooling",
                 ""
               ]
             },

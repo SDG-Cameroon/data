@@ -1,14 +1,14 @@
-Year,SERIES,Sex,Degree of urbanisation,Value
-2014,unemployment rate (ILO) (%),,Urban,7.1
-2016,unemployment rate (ILO) (%),,Urban,6.7
-2014,unemployment rate (ILO) (%),,Rural,0.9
-2016,unemployment rate (ILO) (%),,Rural,0.6
-2014,unemployment rate (ILO) (%),Female,,3.8
-2016,unemployment rate (ILO) (%),Female,,3.0
-2014,unemployment rate (ILO) (%),Male,,2.9
-2016,unemployment rate (ILO) (%),Male,,2.3
-2014,unemployment rate (ILO) (%),,,3.3
-2016,unemployment rate (ILO) (%),,,2.6
-2014,unemployment rate (ILO) (15-24 years) (%),,,6.3
-2016,unemployment rate (ILO) (15-24 years) (%),,,6.3
-2014,Underemployment rate of persons over 15 years (%),,,77.6
+Year,SERIES,Sex,Degree of urbanisation,Time period details,Value
+2014,unemployment rate (ILO) (%),,,2016,3.3
+2016,unemployment rate (ILO) (%),,,2016,2.6
+2014,unemployment rate (ILO) (%),,Rural,2016,0.9
+2016,unemployment rate (ILO) (%),,Rural,2016,0.6
+2014,unemployment rate (ILO) (%),,Urban,2016,7.1
+2016,unemployment rate (ILO) (%),,Urban,2016,6.7
+2014,unemployment rate (ILO) (%),Female,,2016,3.8
+2016,unemployment rate (ILO) (%),Female,,2016,3.0
+2014,unemployment rate (ILO) (%),Male,,2016,2.9
+2016,unemployment rate (ILO) (%),Male,,2016,2.3
+2014,unemployment rate (ILO) (15-24 years) (%),,,2016,6.3
+2016,unemployment rate (ILO) (15-24 years) (%),,,2016,6.3
+2014,Underemployment rate of persons over 15 years (%),,,2014,77.6

@@ -1,12 +1,12 @@
-Year,Sex,Education level,Value
-2014,Female,,85.3
-2016,Female,,76.1
-2014,Male,,75.8
-2016,Male,,69.1
-2014,,Never attended an education programme / No schooling,95.5
-2014,,Primary education,92.9
-2014,,Lower secondary education,86.4
-2014,,Upper secondary education,67.1
-2014,,Tertiary education,42.6
-2014,,,79.9
-2016,,,72.2
+Year,Sex,Education level,Time period details,Value
+2014,,,2016,79.9
+2016,,,2016,72.2
+2014,,Tertiary education,2014,42.6
+2014,,Primary education,2014,92.9
+2014,,Lower secondary education,2014,86.4
+2014,,Upper secondary education,2014,67.1
+2014,,Never attended an education programme / No schooling,2014,95.5
+2014,Female,,2016,85.3
+2016,Female,,2016,76.1
+2014,Male,,2016,75.8
+2016,Male,,2016,69.1

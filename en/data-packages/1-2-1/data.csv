@@ -1,11 +1,11 @@
 Year,Sex,Degree of urbanisation,Value
-2007,,Urban,12.2
-2014,,Urban,8.9
+2007,,,39.9
+2014,,,37.5
 2007,,Rural,55.0
 2014,,Rural,56.8
+2007,,Urban,12.2
+2014,,Urban,8.9
 2007,Female,,40.2
 2014,Female,,37.7
 2007,Male,,39.5
 2014,Male,,37.2
-2007,,,39.9
-2014,,,37.5

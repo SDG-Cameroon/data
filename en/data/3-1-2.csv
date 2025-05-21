@@ -1,13 +1,13 @@
-Year,Degree of urbanisation,Education level,Value
-2014,Urban,,87.9
-2018,Urban,,89.5
-2014,Rural,,48.8
-2018,Rural,,52.5
-2014,,Never attended an education programme / No schooling,29.5
-2014,,Primary education,65.4
-2014,,Secondary education (lower and upper secondary education),91.9
-2014,,Tertiary education,97.4
-2006,,,58.9
-2011,,,63.6
-2014,,,64.7
-2018,,,69.0
+Year,Degree of urbanisation,Education level,Time period details,Value
+2006,,,2018,58.9
+2011,,,2018,63.6
+2014,,,2018,64.7
+2018,,,2018,69.0
+2014,,Secondary education (lower and upper secondary education),2014,91.9
+2014,,Tertiary education,2014,97.4
+2014,,Primary education,2014,65.4
+2014,,Never attended an education programme / No schooling,2014,29.5
+2014,Rural,,2018,48.8
+2018,Rural,,2018,52.5
+2014,Urban,,2018,87.9
+2018,Urban,,2018,89.5

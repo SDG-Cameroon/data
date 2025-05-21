@@ -1,1 +1,1 @@
-{"Year":[2014,2014,2014,2014,2014,2017],"Sex":[null,null,"Female","Male",null,null],"Degree of urbanisation":["Urban","Rural",null,null,null,null],"Value":[85,48,68,83,80,83]}
+{"Year":[2014,2017,2014,2014,2014,2014],"Sex":[null,null,null,null,"Female","Male"],"Degree of urbanisation":[null,null,"Rural","Urban",null,null],"Time period details":["2017","2017","2014","2014","2014","2014"],"Value":[80,83,48,85,68,83]}

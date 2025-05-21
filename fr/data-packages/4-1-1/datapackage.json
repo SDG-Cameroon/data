@@ -33,6 +33,19 @@
             "title": "SEX"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2016",
+                "2015",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

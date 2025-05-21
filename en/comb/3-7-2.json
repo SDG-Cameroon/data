@@ -1,1 +1,1 @@
-{"data":{"Year":[2014,2014,2014],"Degree of urbanisation":["Urban","Rural",null],"Value":[169,76,119]},"edges":[]}
+{"data":{"Year":[2014,2014,2014],"Degree of urbanisation":[null,"Rural","Urban"],"Value":[119,76,169]},"edges":[]}

@@ -7,6 +7,22 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2020,Billions,GDP nominal (billions of CFA Francs),Local currency,23486.5
 2021,Billions,GDP nominal (billions of CFA Francs),Local currency,24950.3
 2022,Billions,GDP nominal (billions of CFA Francs),Local currency,27223.4
+2015,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3503.1
+2016,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3500.3
+2017,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3394.7
+2018,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3740.6
+2019,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4219.1
+2020,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3534.9
+2021,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4141.2
+2022,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4414.4
+2015,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,792.8
+2016,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,845.8
+2017,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,899.0
+2018,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,916.3
+2019,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,970.1
+2020,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,765.2
+2021,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,736.8
+2022,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,656.1
 2015,Billions,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,19169.1
 2016,Billions,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,20038.6
 2017,Billions,"GDP real (base period, year 2016) (billions of CFA Francs)",Local currency,20748.2
@@ -71,22 +87,6 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2020,Billions,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1074.4
 2021,Billions,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,985.9
 2022,Billions,"Exports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,1012.3
-2015,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3503.1
-2016,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3500.3
-2017,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3394.7
-2018,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3740.6
-2019,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4219.1
-2020,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,3534.9
-2021,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4141.2
-2022,Billions,"Imports of goods (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,4414.4
-2015,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,792.8
-2016,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,845.8
-2017,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,899.0
-2018,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,916.3
-2019,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,970.1
-2020,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,765.2
-2021,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,736.8
-2022,Billions,"Imports of services (billions of CFA francs) (Constant price, Base period Year 2016)",Local currency,656.1
 2011,Units,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.9
 2012,Units,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.4
 2013,Units,"Annual inflation, consumer prices (%) [17.13.1]",Percent,2.1

@@ -1,7 +1,7 @@
-Year,Sex,Degree of urbanisation,Value
-2016,,Urban,45.8
-2016,,Rural,9.3
-2016,Female,,19.2
-2016,Male,,27.4
-2016,,,23.2
-2018,,,35.0
+Year,Sex,Degree of urbanisation,Time period details,Value
+2016,,,2018,23.2
+2018,,,2018,35.0
+2016,,Rural,2016,9.3
+2016,,Urban,2016,45.8
+2016,Female,,2016,19.2
+2016,Male,,2016,27.4

@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2016,2016,2016,2016,2018],"Sex":[null,null,"Female","Male",null,null],"Degree of urbanisation":["Urban","Rural",null,null,null,null],"Value":[45.8,9.3,19.2,27.4,23.2,35.0]},"edges":[]}
+{"data":{"Year":[2016,2018,2016,2016,2016,2016],"Sex":[null,null,null,null,"Female","Male"],"Degree of urbanisation":[null,null,"Rural","Urban",null,null],"Time period details":["2018","2018","2016","2016","2016","2016"],"Value":[23.2,35.0,9.3,45.8,19.2,27.4]},"edges":{"From":["Time period details","Time period details"],"To":["Sex","Degree of urbanisation"]}}
