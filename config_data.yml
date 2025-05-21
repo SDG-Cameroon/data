@@ -93,8 +93,8 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
-  - class: TranslationInputSdmx
-    source: 'LocalRegistry.xml'
+  #- class: TranslationInputSdmx
+  #  source: 'LocalRegistry.xml'
   - class: TranslationInputSdmx
     source: https://cm.sdmx.afdb.org/ns-ws/rest/datastructure/CM1/SDG/1.0/?detail=Full&references=Descendants
     request_params:
