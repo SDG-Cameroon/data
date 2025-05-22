@@ -1,5 +1,5 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"URBANISATION, SEX",2
+#1-2-1,"URBANISATION, TIME_DETAIL, SEX",3
 #1-4-1,"URBANISATION, TIME_DETAIL",2
 #1-4-2,URBANISATION,1
 #10-2-1,REF_AREA,1
@@ -10,7 +10,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-7-1,TIME_DETAIL,1
 #16-9-1,URBANISATION,1
 #16-b-1,SEX,1
-#17-13-1,UNIT_MULT,1
+#17-13-1,TIME_DETAIL,1
 #17-8-1,"URBANISATION, TIME_DETAIL, SEX",3
 #2-2-1,"TIME_DETAIL, SEX",2
 #2-3-2,REF_AREA,1
@@ -40,6 +40,4 @@ Indicator,Disaggregations,Number of disaggregations
 #8-6-1,"URBANISATION, SEX",2
 #8-7-1,"URBANISATION, TIME_DETAIL, SEX",3
 #9-1-1,REF_AREA,1
-#9-1-2,UNIT_MULT,1
-#9-2-1,UNIT_MULT,1
 #9-c-1,"URBANISATION, SEX",2

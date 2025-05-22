@@ -16,18 +16,6 @@
             "title": "Année"
           },
           {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3",
-                "0",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"

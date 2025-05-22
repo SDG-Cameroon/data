@@ -1,14 +1,14 @@
-Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
-2010,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.5
-2011,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.7
-2012,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,15.1
-2013,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,15.0
-2014,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.4
-2015,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.7
-2016,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.9
-2017,Units,Manufacturing value added as a proportion of GDP [9.2.1],Percent,15.1
-2010,Thousands,Manufacturing value added per capita [9.2.1],Local currency,659.011
-2012,Thousands,Manufacturing value added per capita [9.2.1],Local currency,108.6
-2013,Thousands,Manufacturing value added per capita [9.2.1],Local currency,113.3
-2015,Thousands,Manufacturing value added per capita [9.2.1],Local currency,120.9
-2017,Thousands,Manufacturing value added per capita [9.2.1],Local currency,132.2
+Year,SERIES,UNIT_MEASURE,Value
+2010,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.5
+2011,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.7
+2012,Manufacturing value added as a proportion of GDP [9.2.1],Percent,15.1
+2013,Manufacturing value added as a proportion of GDP [9.2.1],Percent,15.0
+2014,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.4
+2015,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.7
+2016,Manufacturing value added as a proportion of GDP [9.2.1],Percent,14.9
+2017,Manufacturing value added as a proportion of GDP [9.2.1],Percent,15.1
+2010,Manufacturing value added per capita [9.2.1],Local currency,659.011
+2012,Manufacturing value added per capita [9.2.1],Local currency,108.6
+2013,Manufacturing value added per capita [9.2.1],Local currency,113.3
+2015,Manufacturing value added per capita [9.2.1],Local currency,120.9
+2017,Manufacturing value added per capita [9.2.1],Local currency,132.2

@@ -16,18 +16,6 @@
             "title": "Année"
           },
           {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9",
-                "0",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -36,6 +24,18 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                "2023",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

@@ -1,15 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
-CM_AD,7,5
-CM_CE,3,2
+CM_AD,8,5
+CM_CE,4,2
 CM_CE_Sans_YDE,4,3
 CM_DLA,4,3
-CM_EN,7,5
-CM_ES,7,5
-CM_LT,3,2
+CM_EN,8,5
+CM_ES,8,5
+CM_LT,4,2
 CM_LT_Sans_DLA,4,3
-CM_NO,7,5
-CM_NW,7,5
-CM_OU,7,5
-CM_SU,7,5
-CM_SW,7,5
+CM_NO,8,5
+CM_NW,8,5
+CM_OU,8,5
+CM_SU,8,5
+CM_SW,8,5
 CM_YDE,4,3

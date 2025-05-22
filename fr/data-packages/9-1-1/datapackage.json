@@ -16,6 +16,11 @@
             "title": "Année"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {

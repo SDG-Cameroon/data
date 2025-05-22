@@ -15,6 +15,10 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
