@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
                 "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -32,26 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Never attended an education programme / No schooling",
+                "Primary education",
                 "Secondary education (lower and upper secondary education)",
                 "Tertiary education",
-                "Primary education",
-                "Never attended an education programme / No schooling",
                 ""
               ]
             },
             "title": "Education level"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                "2014",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

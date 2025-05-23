@@ -1,1 +1,1 @@
-{"data":{"Year":[2014,2018,2018,2018],"Sex":[null,null,"Female","Male"],"Value":[85.8,65.3,65.9,64.7]},"edges":[]}
+{"data":{"Year":[2018,2018,2014,2018],"Sex":["Female","Male",null,null],"Value":[65.9,64.7,85.8,65.3]},"edges":[]}

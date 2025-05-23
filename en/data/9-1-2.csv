@@ -1,11 +1,11 @@
-Year,SERIES,UNIT_MEASURE,Value
-2011,Number of passengers by rail transport (in thousands),Number,1487
-2012,Number of passengers by rail transport (in thousands),Number,1451
-2013,Number of passengers by rail transport (in thousands),Number,1419
-2014,Number of passengers by rail transport (in thousands),Number,1559
-2015,Number of passengers by rail transport (in thousands),Number,1663
-2011,Freight volume by rail transport (in tons),Metric Tons,1541
-2012,Freight volume by rail transport (in tons),Metric Tons,1617
-2013,Freight volume by rail transport (in tons),Metric Tons,1664
-2014,Freight volume by rail transport (in tons),Metric Tons,1664
-2015,Freight volume by rail transport (in tons),Metric Tons,2113
+Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
+2011,Thousands,Number of passengers by rail transport (in thousands),Number,1487
+2012,Thousands,Number of passengers by rail transport (in thousands),Number,1451
+2013,Thousands,Number of passengers by rail transport (in thousands),Number,1419
+2014,Thousands,Number of passengers by rail transport (in thousands),Number,1559
+2015,Thousands,Number of passengers by rail transport (in thousands),Number,1663
+2011,Units,Freight volume by rail transport (in tons),Metric Tons,1541
+2012,Units,Freight volume by rail transport (in tons),Metric Tons,1617
+2013,Units,Freight volume by rail transport (in tons),Metric Tons,1664
+2014,Units,Freight volume by rail transport (in tons),Metric Tons,1664
+2015,Units,Freight volume by rail transport (in tons),Metric Tons,2113

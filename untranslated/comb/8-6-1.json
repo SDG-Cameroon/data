@@ -1,1 +1,1 @@
-{"data":{"Year":[2014,2014,2014,2014,2014],"SEX":[null,null,null,"F","M"],"URBANISATION":[null,"R","U",null,null],"Value":[0.4,0.4,0.4,0.5,0.2]},"edges":[]}
+{"data":{"Year":[2014,2014,2014,2014,2014],"SEX":[null,null,"F","M",null],"URBANISATION":["U","R",null,null,null],"Value":[0.4,0.4,0.5,0.2,0.4]},"edges":[]}

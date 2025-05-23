@@ -25,8 +25,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
                 "U",
+                "R",
                 ""
               ]
             },
@@ -37,26 +37,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ISCED11A_01",
+                "ISCED11_1",
                 "AGG_2_3",
                 "AGG_5T8",
-                "ISCED11_1",
-                "ISCED11A_01",
                 ""
               ]
             },
             "title": "EDUCATION_LEV"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                "2014",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

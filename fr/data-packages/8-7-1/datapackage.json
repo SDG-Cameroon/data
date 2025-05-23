@@ -37,8 +37,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
                 "U",
+                "R",
                 ""
               ]
             },
@@ -48,18 +48,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016",
-                "2014",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

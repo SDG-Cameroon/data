@@ -1,6 +1,6 @@
-Year,Sex,Time period details,Value
-2014,,2014,72.3
-2014,Female,2018,66.3
-2018,Female,2018,63.6
-2014,Male,2018,79.4
-2018,Male,2018,77.3
+Year,Sex,Value
+2014,Female,66.3
+2018,Female,63.6
+2014,Male,79.4
+2018,Male,77.3
+2014,,72.3

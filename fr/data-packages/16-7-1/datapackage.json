@@ -21,19 +21,6 @@
             "title": "SERIES"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                "2020",
-                "2017",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

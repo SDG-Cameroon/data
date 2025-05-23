@@ -1,1 +1,1 @@
-{"Year":[2014,2017,2014,2014,2014,2014],"SEX":[null,null,null,null,"F","M"],"URBANISATION":[null,null,"R","U",null,null],"TIME_DETAIL":["2017","2017","2014","2014","2014","2014"],"Value":[80,83,48,85,68,83]}
+{"Year":[2014,2014,2014,2014,2014,2017],"SEX":[null,null,"F","M",null,null],"URBANISATION":["U","R",null,null,null,null],"Value":[85,48,68,83,80,83]}

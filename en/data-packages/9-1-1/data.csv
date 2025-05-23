@@ -1,23 +1,12 @@
-Year,SERIES,Reference area,GeoCode,Value
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",,,33.0
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",ADAMAWA,CM_AD,42.6
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",CENTRE,CM_CE,54.2
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",FAR NORTH,CM_EN,20.1
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",EAST,CM_ES,34.1
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",LittoraL,CM_LT,62.8
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",North,CM_NO,20.5
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",North West,CM_NW,41.5
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",West,CM_OU,30.7
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",South,CM_SU,62.5
-2014,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",South-West,CM_SW,28.7
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,,33.0
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],ADAMAWA,CM_AD,42.6
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],CENTRE,CM_CE,54.2
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],FAR NORTH,CM_EN,20.1
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],EAST,CM_ES,34.1
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],LittoraL,CM_LT,62.8
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],North,CM_NO,20.5
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],North West,CM_NW,41.5
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],West,CM_OU,30.7
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],South,CM_SU,62.5
-2014,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],South-West,CM_SW,28.7
+Year,Reference area,GeoCode,Value
+2014,,,33.0
+2014,ADAMAWA,CM_AD,42.6
+2014,CENTRE,CM_CE,54.2
+2014,EAST,CM_ES,34.1
+2014,FAR NORTH,CM_EN,20.1
+2014,LittoraL,CM_LT,62.8
+2014,North,CM_NO,20.5
+2014,North West,CM_NW,41.5
+2014,West,CM_OU,30.7
+2014,South,CM_SU,62.5
+2014,South-West,CM_SW,28.7

@@ -23,8 +23,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
                 "U",
+                "R",
                 ""
               ]
             }

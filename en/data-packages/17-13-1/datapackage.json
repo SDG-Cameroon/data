@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Billions",
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -24,18 +36,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                "2023",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

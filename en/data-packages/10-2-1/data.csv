@@ -1,14 +1,14 @@
 Year,Reference area,GeoCode,Value
 2014,,,31.4
 2014,ADAMAWA,CM_AD,38.8
-2014,Centre Excluding Yaounde,CM_CE_Sans_YDE,20.3
-2014,Douala,CM_DLA,4.1
-2014,FAR NORTH,CM_EN,60.4
 2014,EAST,CM_ES,27.6
-2014,Littoral Excluding Douala,CM_LT_Sans_DLA,23.9
+2014,FAR NORTH,CM_EN,60.4
 2014,North,CM_NO,44.0
 2014,North West,CM_NW,53.1
 2014,West,CM_OU,26.3
 2014,South,CM_SU,13.2
 2014,South-West,CM_SW,25.5
+2014,Centre Excluding Yaounde,CM_CE_Sans_YDE,20.3
+2014,Littoral Excluding Douala,CM_LT_Sans_DLA,23.9
 2014,Yaounde,CM_YDE,6.6
+2014,Douala,CM_DLA,4.1

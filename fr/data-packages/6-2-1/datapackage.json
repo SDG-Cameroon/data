@@ -25,24 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
                 "U",
+                "R",
                 ""
               ]
             },
             "title": "URBANISATION"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014",
-                "2016",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

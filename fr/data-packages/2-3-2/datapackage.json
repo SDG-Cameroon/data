@@ -27,8 +27,8 @@
               "enum": [
                 "CM_AD",
                 "CM_CE",
-                "CM_EN",
                 "CM_ES",
+                "CM_EN",
                 "CM_LT",
                 "CM_NO",
                 "CM_NW",

@@ -16,19 +16,14 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "ADAMAWA",
                 "CENTRE",
-                "FAR NORTH",
                 "EAST",
+                "FAR NORTH",
                 "LittoraL",
                 "North",
                 "North West",
