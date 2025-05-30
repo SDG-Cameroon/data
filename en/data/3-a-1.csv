@@ -1,3 +1,3 @@
-Year,Sex,Value
-2014,Female,0.3
-2014,Male,11.0
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Prevalence of current tobacco use among persons aged 15-49 years old (%),,Female,Percent,2014,,0.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Prevalence of current tobacco use among persons aged 15-49 years old (%),,Male,Percent,2014,,11.0

@@ -1,3 +1,1 @@
-Year,Value,SERIES
-2016,106,Nombre d'espèces animales en danger
-2016,132,Nombre d'espèces végétale en danger
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

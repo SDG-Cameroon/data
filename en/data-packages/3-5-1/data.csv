@@ -1,2 +1,2 @@
-Year,Value
-2013,3.5
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2013,Normal value,Units,Country Data,National_SDG_Report,Burden of mental illnesses and substance abuse (%),,Percent,2013,,3.5

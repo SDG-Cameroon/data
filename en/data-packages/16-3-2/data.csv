@@ -1,5 +1,5 @@
-Year,Value
-2013,60.1
-2014,61.2
-2015,55.8
-2017,58.0
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2013,Normal value,Units,Country Data,National_SDG_Report,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2017,,60.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2017,,61.2
+2015,Normal value,Units,Country Data,National_SDG_Report,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2017,,55.8
+2017,Normal value,Units,Country Data,National_SDG_Report,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2017,,58.0

@@ -1,3 +1,1 @@
-Year,Value,SERIES
-2016,12000,Area of degraded land between 2008 and 2016 (Thousands of hectares)
-2016,26,Land area restored from 2008 to 2016 (Thousand Hectares)
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

@@ -1,6 +1,1 @@
-Year,Value,SERIES
-2015,76.3,Primary completion rate (%)
-2016,76.7,Primary completion rate (%)
-2017,72.5,Primary completion rate (%)
-2015,53.2,Completion rate at lower secondary level General Education (%)
-2015,59.3,Completion rate at the lower secondary level Technical Education (%)
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

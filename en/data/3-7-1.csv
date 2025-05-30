@@ -1,11 +1,11 @@
-Year,Degree of urbanisation,Education level,Value
-2014,Urban,,26.7
-2018,Urban,,26.1
-2014,Rural,,16.3
-2018,Rural,,13.1
-2014,,Never attended an education programme / No schooling,9.9
-2014,,Primary education,21.9
-2014,,Secondary education (lower and upper secondary education),28.8
-2014,,Tertiary education,36.3
-2014,,,21.0
-2018,,,19.3
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,,,Percent,2018,,21.0
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,,,Percent,2018,,19.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,,Secondary education (lower and upper secondary education),Percent,2014,,28.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,,Tertiary education,Percent,2014,,36.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,,Primary education,Percent,2014,,21.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,,Never attended an education programme / No schooling,Percent,2014,,9.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,Rural,,Percent,2018,,16.3
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,Rural,,Percent,2018,,13.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,Urban,,Percent,2018,,26.7
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women of reproductive age (aged 15-49 years) using modern methods of family planning (any modern method) (%),,Urban,,Percent,2018,,26.1

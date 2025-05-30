@@ -1,4 +1,4 @@
-Year,Degree of urbanisation,Value
-2014,Urban,84.2
-2014,Rural,53.1
-2014,,66.1
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Percent,2014,,66.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Rural,Percent,2014,,53.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Urban,Percent,2014,,84.2

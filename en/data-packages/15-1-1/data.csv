@@ -1,4 +1,4 @@
-Year,SERIES,Value
-2017,"Forest area (Permanent forests), as a percentage of the total land area (%)",24.76
-2017,"Forest area (Non-permanent forests), as a percentage of the total land area (%)",21.49
-2017,Forest area as a proportion of total land area [15.1.1],46.25
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2017,Normal value,Units,Country Data,National_SDG_Report,"Forest area (Permanent forests), as a percentage of the total land area (%)",,Percent,2017,,24.76
+2017,Normal value,Units,Country Data,National_SDG_Report,"Forest area (Non-permanent forests), as a percentage of the total land area (%)",,Percent,2017,,21.49
+2017,Normal value,Units,Country Data,National_SDG_Report,Forest area as a proportion of total land area [15.1.1],,Percent,2017,,46.25

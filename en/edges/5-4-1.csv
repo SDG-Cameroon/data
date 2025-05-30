@@ -1,2 +1,5 @@
 From,To
+Nature of data points,Source details
+Source details,Sex
 Sex,Degree of urbanisation
+Degree of urbanisation,Time period details

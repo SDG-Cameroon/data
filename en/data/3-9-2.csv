@@ -1,2 +1,2 @@
-Year,Value
-2013,5
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2013,Normal value,Units,Country Data,National_SDG_Report,Death rate due to diarrheal diseases (%),,Percent,2013,,5

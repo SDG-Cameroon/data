@@ -1,7 +1,7 @@
-Year,SERIES,Value
-2018,Proportion of women in government (%),13.0
-2017,Proportion of women in the national assembly (%),30.5
-2020,Proportion of women in the national assembly (%),33.9
-2017,Proportion of women in the municipal executive (Mayor) (%),8.0
-2017,Proportion of women in the Senate (%),20.0
-2020,Proportion of women in the Senate (%),26.0
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in government (%),,Percent,2018,,13.0
+2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,2020,,30.5
+2020,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,2020,,33.9
+2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the municipal executive (Mayor) (%),,Percent,2017,,8.0
+2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,2020,,20.0
+2020,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,2020,,26.0

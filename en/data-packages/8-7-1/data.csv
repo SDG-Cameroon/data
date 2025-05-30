@@ -1,16 +1,16 @@
-Year,SERIES,Sex,Degree of urbanisation,UNIT_MEASURE,Value
-2014,Proportion of children aged 5-17 years engaged in child labour (%),,Urban,Percent,7.4
-2016,Proportion of children aged 5-17 years engaged in child labour (%),,Urban,Percent,7.6
-2014,Proportion of children aged 5-17 years engaged in child labour (%),,Rural,Percent,22.3
-2016,Proportion of children aged 5-17 years engaged in child labour (%),,Rural,Percent,32.0
-2014,Proportion of children aged 5-17 years engaged in child labour (%),Female,,Percent,16.2
-2016,Proportion of children aged 5-17 years engaged in child labour (%),Female,,Percent,22.7
-2014,Proportion of children aged 5-17 years engaged in child labour (%),Male,,Percent,17.8
-2016,Proportion of children aged 5-17 years engaged in child labour (%),Male,,Percent,25.2
-2014,Proportion of children aged 5-17 years engaged in child labour (%),,,Percent,17.0
-2016,Proportion of children aged 5-17 years engaged in child labour (%),,,Percent,24.0
-2014,Number of children aged 5-17 years engaged in child labour,,Urban,Number,7232.0
-2014,Number of children aged 5-17 years engaged in child labour,,Rural,Number,8357.0
-2014,Number of children aged 5-17 years engaged in child labour,Female,,Number,7779.0
-2014,Number of children aged 5-17 years engaged in child labour,Male,,Number,7810.0
-2014,Number of children aged 5-17 years engaged in child labour,,,Number,15589.0
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,,,Percent,2016,,17.0
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,,,Percent,2016,,24.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,,Rural,Percent,2016,,22.3
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,,Rural,Percent,2016,,32.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,,Urban,Percent,2016,,7.4
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,,Urban,Percent,2016,,7.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,Female,,Percent,2016,,16.2
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,Female,,Percent,2016,,22.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,Male,,Percent,2016,,17.8
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 5-17 years engaged in child labour (%),,Male,,Percent,2016,,25.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Number of children aged 5-17 years engaged in child labour,,,,Number,2014,,15589.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Number of children aged 5-17 years engaged in child labour,,,Rural,Number,2014,,8357.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Number of children aged 5-17 years engaged in child labour,,,Urban,Number,2014,,7232.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Number of children aged 5-17 years engaged in child labour,,Female,,Number,2014,,7779.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Number of children aged 5-17 years engaged in child labour,,Male,,Number,2014,,7810.0

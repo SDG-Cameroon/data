@@ -1,4 +1,1 @@
-Year,Value,SERIES
-2017,24.76,"Forest area (Permanent forests), as a percentage of the total land area (%)"
-2017,21.49,"Forest area (Non-permanent forests), as a percentage of the total land area (%)"
-2017,46.25,Forest area as a proportion of total land area [15.1.1]
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

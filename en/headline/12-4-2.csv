@@ -1,6 +1,1 @@
-Year,Value,SERIES
-2014,64.4,Primary energy consumed (Biomass) (%)
-2014,5.7,Primary energy consumed (Hydropower) (%)
-2014,30.0,Primary energy consumed (Fossil fuel) (%)
-2014,22.5,Primary energy consumed (Petroleum products) (%)
-2014,5.3,Primary energy consumed (Gas) (%)
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

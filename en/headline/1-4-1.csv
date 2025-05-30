@@ -1,5 +1,1 @@
-Year,Value,SERIES
-2014,33.4,Proportion of population living in households with access to potable water (%)
-2016,63.0,Proportion of population living in households with access to potable water (%)
-2014,58.4,Proportion of population living in households with access to electricity (%)
-2016,53.0,Proportion of population living in households with access to electricity (%)
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

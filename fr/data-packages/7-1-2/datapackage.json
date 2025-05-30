@@ -16,22 +16,71 @@
             "title": "Année"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National_SDG_Report",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "CM_AD",
-                "CM_ES",
+                "CM_CE_Sans_YDE",
+                "CM_DLA",
                 "CM_EN",
+                "CM_ES",
+                "CM_LT_Sans_DLA",
                 "CM_NO",
                 "CM_NW",
                 "CM_OU",
                 "CM_SU",
                 "CM_SW",
-                "CM_CE_Sans_YDE",
-                "CM_LT_Sans_DLA",
                 "CM_YDE",
-                "CM_DLA",
                 ""
               ]
             },
@@ -42,12 +91,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
                 "R",
+                "U",
                 ""
               ]
             },
             "title": "URBANISATION"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "GeoCode",

@@ -1,1 +1,1 @@
-{"data":{"Year":[2014,2014],"SERIES":["_L_CM_100101_1","_L_CM_100101_2"],"Value":[69.0,36.4]},"edges":[]}
+{"data":{"Year":[2014,2014],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"NATURE":["C","C"],"SOURCE_DETAIL":["National_SDG_Report","National_SDG_Report"],"SERIES":["_L_CM_100101_1","_L_CM_100101_2"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"TIME_DETAIL":["2014","2014"],"GeoCode":[null,null],"Value":[69.0,36.4]},"edges":{"From":["OBS_STATUS","UNIT_MULT","NATURE","SOURCE_DETAIL"],"To":["UNIT_MULT","NATURE","SOURCE_DETAIL","TIME_DETAIL"]}}

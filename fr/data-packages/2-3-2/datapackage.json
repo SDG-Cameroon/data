@@ -16,6 +16,50 @@
             "title": "Année"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National_SDG_Report",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -27,8 +71,8 @@
               "enum": [
                 "CM_AD",
                 "CM_CE",
-                "CM_ES",
                 "CM_EN",
+                "CM_ES",
                 "CM_LT",
                 "CM_NO",
                 "CM_NW",
@@ -39,6 +83,22 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2012",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "GeoCode",

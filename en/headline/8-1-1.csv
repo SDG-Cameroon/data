@@ -1,15 +1,1 @@
-Year,Value,SERIES
-2012,4.5,Annual growth rate of real GDP (%)
-2013,5.4,Annual growth rate of real GDP (%)
-2014,5.9,Annual growth rate of real GDP (%)
-2015,5.7,Annual growth rate of real GDP (%)
-2016,4.6,Annual growth rate of real GDP (%)
-2017,3.5,Annual growth rate of real GDP (%)
-2018,4.1,Annual growth rate of real GDP (%)
-2012,2.0,Annual growth rate of real GDP per capita (%)
-2013,2.9,Annual growth rate of real GDP per capita (%)
-2014,3.2,Annual growth rate of real GDP per capita (%)
-2015,3.2,Annual growth rate of real GDP per capita (%)
-2016,2.0,Annual growth rate of real GDP per capita (%)
-2017,2.7,Annual growth rate of real GDP per capita (%)
-2018,2.9,Annual growth rate of real GDP per capita (%)
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

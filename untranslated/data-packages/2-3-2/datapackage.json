@@ -15,6 +15,46 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National_SDG_Report",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -25,14 +65,28 @@
               "enum": [
                 "CM_AD",
                 "CM_CE",
-                "CM_ES",
                 "CM_EN",
+                "CM_ES",
                 "CM_LT",
                 "CM_NO",
                 "CM_NW",
                 "CM_OU",
                 "CM_SU",
                 "CM_SW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2012",
                 ""
               ]
             }

@@ -15,22 +15,66 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National_SDG_Report",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "CM_AD",
-                "CM_ES",
+                "CM_CE_Sans_YDE",
+                "CM_DLA",
                 "CM_EN",
+                "CM_ES",
+                "CM_LT_Sans_DLA",
                 "CM_NO",
                 "CM_NW",
                 "CM_OU",
                 "CM_SU",
                 "CM_SW",
-                "CM_CE_Sans_YDE",
-                "CM_LT_Sans_DLA",
                 "CM_YDE",
-                "CM_DLA",
                 ""
               ]
             }
@@ -40,8 +84,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
                 "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014",
                 ""
               ]
             }

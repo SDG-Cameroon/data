@@ -1,11 +1,14 @@
-Year,Sex,Degree of urbanisation,Value
-2007,,Urban,12.2
-2014,,Urban,8.9
-2007,,Rural,55.0
-2014,,Rural,56.8
-2007,Female,,40.2
-2014,Female,,37.7
-2007,Male,,39.5
-2014,Male,,37.2
-2007,,,39.9
-2014,,,37.5
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2007,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,Percent,2021,,39.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,Percent,2021,,37.5
+2021,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,Percent,2021,,38.6
+2007,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,Rural,Percent,2021,,55.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,Rural,Percent,2021,,56.8
+2021,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,Rural,Percent,2021,,58.3
+2007,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,Urban,Percent,2021,,12.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,Urban,Percent,2021,,8.9
+2021,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,Urban,Percent,2021,,16.5
+2007,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,Female,,Percent,2014,,40.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,Female,,Percent,2014,,37.7
+2007,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,Male,,Percent,2014,,39.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,Male,,Percent,2014,,37.2

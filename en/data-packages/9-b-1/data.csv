@@ -1,9 +1,9 @@
-Year,Value
-2009,3.77
-2010,3.56
-2011,3.8
-2012,3.87
-2013,3.72
-2014,3.72
-2015,3.65
-2016,3.89
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2009,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.77
+2010,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.56
+2011,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.8
+2012,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.87
+2013,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.72
+2014,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.72
+2015,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.65
+2016,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,2016,,3.89

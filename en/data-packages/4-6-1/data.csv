@@ -1,7 +1,7 @@
-Year,Sex,Degree of urbanisation,Value
-2014,,Urban,85
-2014,,Rural,48
-2014,Female,,68
-2014,Male,,83
-2014,,,80
-2017,,,83
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Literacy rate of 15-24 year-olds (%),,,,Percent,2017,,80
+2017,Normal value,Units,Country Data,National_SDG_Report,Literacy rate of 15-24 year-olds (%),,,,Percent,2017,,83
+2014,Normal value,Units,Country Data,National_SDG_Report,Literacy rate of 15-24 year-olds (%),,,Rural,Percent,2014,,48
+2014,Normal value,Units,Country Data,National_SDG_Report,Literacy rate of 15-24 year-olds (%),,,Urban,Percent,2014,,85
+2014,Normal value,Units,Country Data,National_SDG_Report,Literacy rate of 15-24 year-olds (%),,Female,,Percent,2014,,68
+2014,Normal value,Units,Country Data,National_SDG_Report,Literacy rate of 15-24 year-olds (%),,Male,,Percent,2014,,83

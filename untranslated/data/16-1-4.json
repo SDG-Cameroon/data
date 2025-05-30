@@ -1,1 +1,1 @@
-{"Year":[2014,2014,2014],"SEX":["F","M",null],"Value":[23.9,30.3,26.9]}
+{"Year":[2014,2014,2014],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"NATURE":["C","C","C"],"SOURCE_DETAIL":["National_SDG_Report","National_SDG_Report","National_SDG_Report"],"SERIES":["_L_CM_160104_1","_L_CM_160104_1","_L_CM_160104_1"],"REF_AREA":[null,null,null],"SEX":[null,"F","M"],"UNIT_MEASURE":["PT","PT","PT"],"TIME_DETAIL":["2014","2014","2014"],"GeoCode":[null,null,null],"Value":[26.9,23.9,30.3]}

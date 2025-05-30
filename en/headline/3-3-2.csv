@@ -1,3 +1,1 @@
-Year,Value,SERIES
-2013,125,Number of notified tuberculosis cases (per 100 000 inhabitants)
-2013,72,Number of new cases of tuberculosis with positive microscopy (TPM +) (per 100 000 inhabitants)
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
