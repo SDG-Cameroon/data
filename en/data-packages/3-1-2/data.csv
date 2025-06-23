@@ -1,13 +1,13 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,Time period details,GeoCode,Value
-2006,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,2018,,58.9
-2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,2018,,63.6
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,2018,,64.7
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,2018,,69.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Secondary education (lower and upper secondary education),Percent,2014,,91.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Tertiary education,Percent,2014,,97.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Primary education,Percent,2014,,65.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Never attended an education programme / No schooling,Percent,2014,,29.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Rural,,Percent,2018,,48.8
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Rural,,Percent,2018,,52.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Urban,,Percent,2018,,87.9
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Urban,,Percent,2018,,89.5
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Urban,,Percent,,87.9
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Urban,,Percent,,89.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Rural,,Percent,,48.8
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,Rural,,Percent,,52.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Never attended an education programme / No schooling,Percent,,29.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Primary education,Percent,,65.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Secondary education (lower and upper secondary education),Percent,,91.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,Tertiary education,Percent,,97.4
+2006,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,,58.9
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,,63.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,,64.7
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,,69.0

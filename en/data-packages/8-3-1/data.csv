@@ -1,12 +1,12 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,,Percent,2016,,79.9
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,,Percent,2016,,72.2
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Tertiary education,Percent,2014,,42.6
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Primary education,Percent,2014,,92.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Lower secondary education,Percent,2014,,86.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Upper secondary education,Percent,2014,,67.1
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Never attended an education programme / No schooling,Percent,2014,,95.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Female,,Percent,2016,,85.3
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Female,,Percent,2016,,76.1
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Male,,Percent,2016,,75.8
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Male,,Percent,2016,,69.1
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Female,,Percent,,85.3
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Female,,Percent,,76.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Male,,Percent,,75.8
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,Male,,Percent,,69.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Never attended an education programme / No schooling,Percent,,95.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Primary education,Percent,,92.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Lower secondary education,Percent,,86.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Upper secondary education,Percent,,67.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,Tertiary education,Percent,,42.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,,Percent,,79.9
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of informal employment in non-agriculture sectors (%),,,,Percent,,72.2

@@ -1,23 +1,12 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",,Percent,2014,,33.0
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",ADAMAWA,Percent,2014,CM_AD,42.6
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",CENTRE,Percent,2014,CM_CE,54.2
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",FAR NORTH,Percent,2014,CM_EN,20.1
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",EAST,Percent,2014,CM_ES,34.1
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",LittoraL,Percent,2014,CM_LT,62.8
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",North,Percent,2014,CM_NO,20.5
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",North West,Percent,2014,CM_NW,41.5
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",West,Percent,2014,CM_OU,30.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",South,Percent,2014,CM_SU,62.5
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",South-West,Percent,2014,CM_SW,28.7
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,Percent,2014,,33.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],ADAMAWA,Percent,2014,CM_AD,42.6
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],CENTRE,Percent,2014,CM_CE,54.2
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],FAR NORTH,Percent,2014,CM_EN,20.1
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],EAST,Percent,2014,CM_ES,34.1
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],LittoraL,Percent,2014,CM_LT,62.8
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],North,Percent,2014,CM_NO,20.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],North West,Percent,2014,CM_NW,41.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],West,Percent,2014,CM_OU,30.7
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],South,Percent,2014,CM_SU,62.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],South-West,Percent,2014,CM_SW,28.7
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,Percent,,33.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],ADAMAWA,Percent,CM_AD,42.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],CENTRE,Percent,CM_CE,54.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],EAST,Percent,CM_ES,34.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],FAR NORTH,Percent,CM_EN,20.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],LittoraL,Percent,CM_LT,62.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],North,Percent,CM_NO,20.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],North West,Percent,CM_NW,41.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],West,Percent,CM_OU,30.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],South,Percent,CM_SU,62.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],South-West,Percent,CM_SW,28.7

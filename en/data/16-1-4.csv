@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of adults who feel overall safe (%),,,Percent,2014,,26.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of adults who feel overall safe (%),,Female,Percent,2014,,23.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of adults who feel overall safe (%),,Male,Percent,2014,,30.3
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of adults who feel overall safe (%),,Female,Percent,,23.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of adults who feel overall safe (%),,Male,Percent,,30.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of adults who feel overall safe (%),,,Percent,,26.9

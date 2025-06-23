@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
-2004,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,2018,,5.5
-2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,2018,,4.3
-2014,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,2018,,3.4
-2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,2018,,2.7
-2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,Female,Percent,2018,,3.4
-2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,Male,Percent,2018,,1.9
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,Female,Percent,,3.4
+2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,Male,Percent,,1.9
+2004,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,,5.5
+2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,,4.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,,3.4
+2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of HIV (%),,,Percent,,2.7

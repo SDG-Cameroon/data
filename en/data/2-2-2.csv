@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely wasted [2.2.2],,Percent,2018,,5.6
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely wasted [2.2.2],,Percent,2018,,5.2
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely wasted [2.2.2],,Percent,2018,,6.0
-2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely overweight [2.2.2],,Percent,2018,,6.2
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely overweight [2.2.2],,Percent,2018,,6.7
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely overweight [2.2.2],,Percent,2018,,11.0
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely wasted [2.2.2],,Percent,,5.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely wasted [2.2.2],,Percent,,5.2
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely wasted [2.2.2],,Percent,,6.0
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely overweight [2.2.2],,Percent,,6.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely overweight [2.2.2],,Percent,,6.7
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely overweight [2.2.2],,Percent,,11.0

@@ -91,11 +91,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tertiary education",
+                "Never attended an education programme / No schooling",
                 "Primary education",
                 "Lower secondary education",
                 "Upper secondary education",
-                "Never attended an education programme / No schooling",
+                "Tertiary education",
                 ""
               ]
             },
@@ -105,18 +105,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016",
-                "2014",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "GeoCode",

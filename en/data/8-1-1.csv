@@ -1,15 +1,15 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2012,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,2018,,4.5
-2013,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,2018,,5.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,2018,,5.9
-2015,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,2018,,5.7
-2016,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,2018,,4.6
-2017,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,2018,,3.5
-2018,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,2018,,4.1
-2012,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,2018,,2.0
-2013,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,2018,,2.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,2018,,3.2
-2015,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,2018,,3.2
-2016,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,2018,,2.0
-2017,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,2018,,2.7
-2018,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,2018,,2.9
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2012,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,,4.5
+2013,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,,5.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,,5.9
+2015,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,,5.7
+2016,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,,4.6
+2017,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,,3.5
+2018,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP (%),,Percent,,4.1
+2012,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,2.0
+2013,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,2.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,3.2
+2015,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,3.2
+2016,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,2.0
+2017,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,2.7
+2018,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,2.9

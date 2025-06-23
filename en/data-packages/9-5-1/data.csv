@@ -1,17 +1,17 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2007,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.1
-2010,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.05
-2011,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.07
-2012,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.06
-2013,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.08
-2014,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.08
-2015,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.08
-2016,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,2016,,0.09
-2007,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.5
-2010,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.2
-2011,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.3
-2012,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.22
-2013,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.32
-2014,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.32
-2015,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.33
-2016,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,2016,,0.42
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2007,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.1
+2010,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.05
+2011,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.07
+2012,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.06
+2013,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.08
+2014,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.08
+2015,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.08
+2016,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R & D) to GDP (%),,Percent,,0.09
+2007,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.5
+2010,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.2
+2011,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.3
+2012,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.22
+2013,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.32
+2014,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.32
+2015,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.33
+2016,Normal value,Units,Country Data,National_SDG_Report,Share of Research and Development (R & D) to total investment (%),,Percent,,0.42

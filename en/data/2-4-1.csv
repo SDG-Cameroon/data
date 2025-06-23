@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2007,Normal value,Units,Country Data,National_SDG_Report,Proportion of agricultural area (%),,Percent,2007,,20
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2007,Normal value,Units,Country Data,National_SDG_Report,Proportion of agricultural area (%),,Percent,,20

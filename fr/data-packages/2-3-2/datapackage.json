@@ -71,8 +71,8 @@
               "enum": [
                 "CM_AD",
                 "CM_CE",
-                "CM_EN",
                 "CM_ES",
+                "CM_EN",
                 "CM_LT",
                 "CM_NO",
                 "CM_NW",
@@ -88,17 +88,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2012",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "GeoCode",

@@ -1,14 +1,14 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
-2015,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,,Percent,2017,,76.3
-2016,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,,Percent,2017,,76.7
-2017,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,,Percent,2017,,72.5
-2015,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Female,Percent,2016,,72.8
-2016,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Female,Percent,2016,,72.6
-2015,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Male,Percent,2016,,79.7
-2016,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Male,Percent,2016,,79.4
-2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at lower secondary level General Education (%),,,Percent,2015,,53.2
-2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at lower secondary level General Education (%),,Female,Percent,2015,,48.9
-2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at lower secondary level General Education (%),,Male,Percent,2015,,57.4
-2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at the lower secondary level Technical Education (%),,,Percent,2015,,59.3
-2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at the lower secondary level Technical Education (%),,Female,Percent,2015,,55.9
-2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at the lower secondary level Technical Education (%),,Male,Percent,2015,,62.6
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Female,Percent,,72.8
+2016,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Female,Percent,,72.6
+2015,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Male,Percent,,79.7
+2016,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,Male,Percent,,79.4
+2015,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,,Percent,,76.3
+2016,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,,Percent,,76.7
+2017,Normal value,Units,Country Data,National_SDG_Report,Primary completion rate (%),,,Percent,,72.5
+2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at lower secondary level General Education (%),,Female,Percent,,48.9
+2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at lower secondary level General Education (%),,Male,Percent,,57.4
+2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at lower secondary level General Education (%),,,Percent,,53.2
+2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at the lower secondary level Technical Education (%),,Female,Percent,,55.9
+2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at the lower secondary level Technical Education (%),,Male,Percent,,62.6
+2015,Normal value,Units,Country Data,National_SDG_Report,Completion rate at the lower secondary level Technical Education (%),,,Percent,,59.3

@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,2014,,0.4
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,2014,,0.4
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,2014,,0.4
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,2014,,0.5
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,2014,,0.2
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,,0.4
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,,0.4
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,,0.5
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,,0.2
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,,0.4

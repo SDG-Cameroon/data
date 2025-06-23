@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,,Percent,2018,,23.2
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,,Percent,2018,,35.0
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,Rural,Percent,2016,,9.3
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,Urban,Percent,2016,,45.8
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,Female,,Percent,2016,,19.2
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,Male,,Percent,2016,,27.4
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,Urban,Percent,,45.8
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,Rural,Percent,,9.3
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,Female,,Percent,,19.2
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,Male,,Percent,,27.4
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,,Percent,,23.2
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,,Percent,,35.0

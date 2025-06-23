@@ -29,7 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "3",
                 ""
               ]
             }
@@ -70,16 +70,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016",
-                ""
-              ]
-            }
           },
           {
             "name": "GeoCode",

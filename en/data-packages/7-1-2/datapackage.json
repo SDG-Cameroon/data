@@ -70,17 +70,17 @@
             "constraints": {
               "enum": [
                 "ADAMAWA",
-                "Centre Excluding Yaounde",
-                "Douala",
-                "FAR NORTH",
                 "EAST",
-                "Littoral Excluding Douala",
+                "FAR NORTH",
                 "North",
                 "North West",
                 "West",
                 "South",
                 "South-West",
+                "Centre Excluding Yaounde",
+                "Littoral Excluding Douala",
                 "Yaounde",
+                "Douala",
                 ""
               ]
             },
@@ -91,8 +91,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
                 "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -102,17 +102,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "GeoCode",

@@ -1,14 +1,14 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),,Percent,2014,,31.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),ADAMAWA,Percent,2014,CM_AD,38.8
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Centre Excluding Yaounde,Percent,2014,CM_CE_Sans_YDE,20.3
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Douala,Percent,2014,CM_DLA,4.1
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),FAR NORTH,Percent,2014,CM_EN,60.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),EAST,Percent,2014,CM_ES,27.6
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Littoral Excluding Douala,Percent,2014,CM_LT_Sans_DLA,23.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),North,Percent,2014,CM_NO,44.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),North West,Percent,2014,CM_NW,53.1
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),West,Percent,2014,CM_OU,26.3
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),South,Percent,2014,CM_SU,13.2
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),South-West,Percent,2014,CM_SW,25.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Yaounde,Percent,2014,CM_YDE,6.6
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),,Percent,,31.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),ADAMAWA,Percent,CM_AD,38.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),EAST,Percent,CM_ES,27.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),FAR NORTH,Percent,CM_EN,60.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),North,Percent,CM_NO,44.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),North West,Percent,CM_NW,53.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),West,Percent,CM_OU,26.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),South,Percent,CM_SU,13.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),South-West,Percent,CM_SW,25.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Centre Excluding Yaounde,Percent,CM_CE_Sans_YDE,20.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Littoral Excluding Douala,Percent,CM_LT_Sans_DLA,23.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Yaounde,Percent,CM_YDE,6.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),Douala,Percent,CM_DLA,4.1
