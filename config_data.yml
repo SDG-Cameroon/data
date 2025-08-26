@@ -122,11 +122,11 @@ map_layers:
     id_property: ID_
     output_subfolder: national_level1
     filename_prefix: indicator_
-  #- geojson_file: GeoJSON/RegionsEnq_Subnational_Level2_For_Surveys_Data.geojson
-  #  name_property: NAME1_
-  #  id_property: ID_
-  #  output_subfolder: regions_1
-  #  filename_prefix: indicator_
+  - geojson_file: GeoJSON/RegionsEnq_Subnational_Level2_For_Surveys_Data.geojson
+    name_property: NAME1_
+    id_property: ID_
+    output_subfolder: regions_1
+    filename_prefix: indicator_
   - geojson_file: GeoJSON/RegionsAdmin_Subnational_Level2.geojson
     name_property: Regions
     id_property: ID_Regions
