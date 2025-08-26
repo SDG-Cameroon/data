@@ -1,5 +1,6 @@
 From,To
 Nature of data points,Source details
-Source details,Sex
-Source details,Degree of urbanisation
-Source details,Education level
+Source details,Time period details
+Time period details,Sex
+Time period details,Degree of urbanisation
+Time period details,Education level

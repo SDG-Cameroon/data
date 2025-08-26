@@ -91,11 +91,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
+                "AGG_5T8",
                 "ISCED11_1",
                 "ISCED11_2",
                 "ISCED11_3",
-                "AGG_5T8",
+                "ISCED11A_01",
                 ""
               ]
             },
@@ -105,6 +105,18 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016",
+                "2014",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "GeoCode",

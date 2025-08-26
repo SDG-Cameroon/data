@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2011,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1487
-2012,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1451
-2013,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1419
-2014,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1559
-2015,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1663
-2011,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,,1541
-2012,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,,1617
-2013,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,,1664
-2014,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,,1664
-2015,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,,2113
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2011,Normal value,Units,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,2015,,1487
+2012,Normal value,Units,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,2015,,1451
+2013,Normal value,Units,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,2015,,1419
+2014,Normal value,Units,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,2015,,1559
+2015,Normal value,Units,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,2015,,1663
+2011,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,2015,,1541
+2012,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,2015,,1617
+2013,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,2015,,1664
+2014,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,2015,,1664
+2015,Normal value,Units,Country Data,National_SDG_Report,Freight volume by rail transport (in tons),,Metric Tons,2015,,2113

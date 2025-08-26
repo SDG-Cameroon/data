@@ -1,16 +1,16 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",,Urban,Percent,,41.0
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",,Rural,Percent,,92.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",,,Percent,,71.9
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",ADAMAWA,,Percent,CM_AD,83.6
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",EAST,,Percent,CM_ES,90.3
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",FAR NORTH,,Percent,CM_EN,93.8
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",North,,Percent,CM_NO,93.2
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",North West,,Percent,CM_NW,88.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",West,,Percent,CM_OU,88.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",South,,Percent,CM_SU,77.9
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",South-West,,Percent,CM_SW,69.6
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Centre Excluding Yaounde,,Percent,CM_CE_Sans_YDE,81.6
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Littoral Excluding Douala,,Percent,CM_LT_Sans_DLA,76.5
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Yaounde,,Percent,CM_YDE,26.0
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Douala,,Percent,CM_DLA,25.2
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",,,Percent,2014,,71.9
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",,Rural,Percent,2014,,92.7
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",,Urban,Percent,2014,,41.0
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",ADAMAWA,,Percent,2014,CM_AD,83.6
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Centre Excluding Yaounde,,Percent,2014,CM_CE_Sans_YDE,81.6
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Douala,,Percent,2014,CM_DLA,25.2
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",FAR NORTH,,Percent,2014,CM_EN,93.8
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",EAST,,Percent,2014,CM_ES,90.3
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Littoral Excluding Douala,,Percent,2014,CM_LT_Sans_DLA,76.5
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",North,,Percent,2014,CM_NO,93.2
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",North West,,Percent,2014,CM_NW,88.7
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",West,,Percent,2014,CM_OU,88.7
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",South,,Percent,2014,CM_SU,77.9
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",South-West,,Percent,2014,CM_SW,69.6
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of the population using wood or its derivatives (sawdust / wood chips, etc.) for cooking (%)",Yaounde,,Percent,2014,CM_YDE,26.0

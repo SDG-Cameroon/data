@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Country Data,National_SDG_Report,Forest area under development as a percentage of land area (%),,Percent,,14.41
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2017,Normal value,Units,Country Data,National_SDG_Report,Forest area under development as a percentage of land area (%),,Percent,2017,,14.41

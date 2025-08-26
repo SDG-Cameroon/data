@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,Urban,,Local currency,,627.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,Rural,,Local currency,,482.2
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,Female,,,Local currency,,496.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,Male,,,Local currency,,627.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Never attended an education programme / No schooling,Local currency,,659.9
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Primary education,Local currency,,341.7
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Lower secondary education,Local currency,,415.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Upper secondary education,Local currency,,492.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Tertiary education,Local currency,,1048.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,,Local currency,,589.6
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,Education level,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,,Local currency,2014,,589.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Tertiary education,Local currency,2014,,1048.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Primary education,Local currency,2014,,341.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Lower secondary education,Local currency,2014,,415.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Upper secondary education,Local currency,2014,,492.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,,Never attended an education programme / No schooling,Local currency,2014,,659.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,Rural,,Local currency,2014,,482.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,,Urban,,Local currency,2014,,627.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,Female,,,Local currency,2014,,496.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings [8.5.1],,Male,,,Local currency,2014,,627.4

@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "9",
                 "0",
                 ""
               ]
@@ -71,6 +70,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                "2023",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

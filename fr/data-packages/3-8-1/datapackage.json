@@ -92,6 +92,17 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2018",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
+          },
+          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

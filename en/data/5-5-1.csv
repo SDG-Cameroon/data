@@ -1,12 +1,12 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,,20.0
-2020,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,,26.0
-2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,,33.0
-2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,,30.6
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,,31.11
-2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,,33.89
-2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women Mayors (%),,Percent,,8.3
-2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women Mayors (%),,Percent,,10.16
-2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women deputies to the mayor (%),,Percent,,31.8
-2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women deputies to the mayor (%),,Percent,,34.13
-2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the territorial command sphere (%),,Percent,,6.0
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,2023,,20.0
+2020,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,2023,,26.0
+2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the Senate (%),,Percent,2023,,33.0
+2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,2023,,30.6
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,2023,,31.11
+2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the national assembly (%),,Percent,2023,,33.89
+2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women Mayors (%),,Percent,2023,,8.3
+2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women Mayors (%),,Percent,2023,,10.16
+2017,Normal value,Units,Country Data,National_SDG_Report,Proportion of women deputies to the mayor (%),,Percent,2023,,31.8
+2023,Normal value,Units,Country Data,National_SDG_Report,Proportion of women deputies to the mayor (%),,Percent,2023,,34.13
+2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of women in the territorial command sphere (%),,Percent,2015,,6.0

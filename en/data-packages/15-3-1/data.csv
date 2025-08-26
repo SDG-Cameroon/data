@@ -1,3 +1,3 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Thousands,Country Data,National_SDG_Report,Area of degraded land between 2008 and 2016 (Thousands of hectares),,Hectares,,12000
-2016,Normal value,Thousands,Country Data,National_SDG_Report,Land area restored from 2008 to 2016 (Thousand Hectares),,Hectares,,26
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2016,Normal value,Units,Country Data,National_SDG_Report,Area of degraded land between 2008 and 2016 (Thousands of hectares),,Hectares,2016,,12000
+2016,Normal value,Units,Country Data,National_SDG_Report,Land area restored from 2008 to 2016 (Thousand Hectares),,Hectares,2016,,26

@@ -83,8 +83,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
                 "R",
+                "U",
                 ""
               ]
             }
@@ -92,6 +92,17 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                "2014",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

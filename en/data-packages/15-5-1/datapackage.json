@@ -80,6 +80,17 @@
             "title": "Unit of measure"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

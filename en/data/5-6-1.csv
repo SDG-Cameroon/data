@@ -1,31 +1,31 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Urban,,Percent,,15.6
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Urban,,Percent,,5.4
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Rural,,Percent,,11.4
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Rural,,Percent,,2.5
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Never attended an education programme / No schooling,Percent,,5.0
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Primary education,Percent,,15.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Secondary education (lower and upper secondary education),Percent,,18.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Tertiary education,Percent,,12.3
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,,Percent,,13.3
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,,Percent,,3.9
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Urban,,Percent,,26.7
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Urban,,Percent,,20.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Rural,,Percent,,16.3
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Rural,,Percent,,10.6
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Never attended an education programme / No schooling,Percent,,9.9
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Primary education,Percent,,21.9
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Secondary education (lower and upper secondary education),Percent,,28.8
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Tertiary education,Percent,,36.3
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,,Percent,,21.0
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,,Percent,,15.4
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Urban,,Percent,,42.4
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Urban,,Percent,,26.1
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Rural,,Percent,,27.7
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Rural,,Percent,,13.1
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Never attended an education programme / No schooling,Percent,,14.9
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Primary education,Percent,,37.7
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Secondary education (lower and upper secondary education),Percent,,47.6
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Tertiary education,Percent,,48.5
-2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,,Percent,,34.4
-2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,,Percent,,19.3
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,,Percent,2018,,13.3
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,,Percent,2018,,3.9
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Secondary education (lower and upper secondary education),Percent,2014,,18.7
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Tertiary education,Percent,2014,,12.3
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Primary education,Percent,2014,,15.7
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,,Never attended an education programme / No schooling,Percent,2014,,5.0
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Rural,,Percent,2018,,11.4
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Rural,,Percent,2018,,2.5
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Urban,,Percent,2018,,15.6
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Urban,,Percent,2018,,5.4
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,,Percent,2018,,21.0
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,,Percent,2018,,15.4
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Secondary education (lower and upper secondary education),Percent,2014,,28.8
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Tertiary education,Percent,2014,,36.3
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Primary education,Percent,2014,,21.9
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,,Never attended an education programme / No schooling,Percent,2014,,9.9
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Rural,,Percent,2018,,16.3
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Rural,,Percent,2018,,10.6
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Urban,,Percent,2018,,26.7
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern method of contraception (%)",,Urban,,Percent,2018,,20.7
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,,Percent,2018,,34.4
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,,Percent,2018,,19.3
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Secondary education (lower and upper secondary education),Percent,2014,,47.6
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Tertiary education,Percent,2014,,48.5
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Primary education,Percent,2014,,37.7
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,,Never attended an education programme / No schooling,Percent,2014,,14.9
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Rural,,Percent,2018,,27.7
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Rural,,Percent,2018,,13.1
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Urban,,Percent,2018,,42.4
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a modern or traditional method of contraception (%)",,Urban,,Percent,2018,,26.1

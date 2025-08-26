@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,"Adolescent fertility rate (aged 15–19 years) (per 1,000 adolescent in that age group)",,Urban,"Per 1,000 population",,169
-2014,Normal value,Units,Country Data,National_SDG_Report,"Adolescent fertility rate (aged 15–19 years) (per 1,000 adolescent in that age group)",,Rural,"Per 1,000 population",,76
-2014,Normal value,Units,Country Data,National_SDG_Report,"Adolescent fertility rate (aged 15–19 years) (per 1,000 adolescent in that age group)",,,"Per 1,000 population",,119
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,"Adolescent fertility rate (aged 15–19 years) (per 1,000 adolescent in that age group)",,,"Per 1,000 population",2014,,119
+2014,Normal value,Units,Country Data,National_SDG_Report,"Adolescent fertility rate (aged 15–19 years) (per 1,000 adolescent in that age group)",,Rural,"Per 1,000 population",2014,,76
+2014,Normal value,Units,Country Data,National_SDG_Report,"Adolescent fertility rate (aged 15–19 years) (per 1,000 adolescent in that age group)",,Urban,"Per 1,000 population",2014,,169

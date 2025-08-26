@@ -1,3 +1,3 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Intensité énergétique [rapport entre énergie primaire et produit intérieur brut (PIB),,Ratio,,614.8
-2015,Normal value,Units,Country Data,National_SDG_Report,Intensité énergétique [rapport entre énergie primaire et produit intérieur brut (PIB),,Ratio,,598.5
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,Intensité énergétique [rapport entre énergie primaire et produit intérieur brut (PIB),,Ratio,2015,,614.8
+2015,Normal value,Units,Country Data,National_SDG_Report,Intensité énergétique [rapport entre énergie primaire et produit intérieur brut (PIB),,Ratio,2015,,598.5

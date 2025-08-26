@@ -1,14 +1,16 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Urban,Percent,,7.1
-2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Urban,Percent,,6.7
-2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Rural,Percent,,0.9
-2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Rural,Percent,,0.6
-2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Female,,Percent,,3.8
-2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Female,,Percent,,3.0
-2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Male,,Percent,,2.9
-2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Male,,Percent,,2.3
-2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,,Percent,,3.3
-2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,,Percent,,2.6
-2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (15-24 years) (%),,,,Percent,,6.3
-2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (15-24 years) (%),,,,Percent,,6.3
-2014,Normal value,Units,Country Data,National_SDG_Report,Underemployment rate of persons over 15 years (%),,,,Percent,,77.6
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,,Percent,2016,,3.3
+2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,,Percent,2016,,2.6
+2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Rural,Percent,2016,,0.9
+2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Rural,Percent,2016,,0.6
+2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Urban,Percent,2016,,7.1
+2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,,Urban,Percent,2016,,6.7
+2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Female,,Percent,2016,,3.8
+2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Female,,Percent,2016,,3.0
+2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Male,,Percent,2016,,2.9
+2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (%),,Male,,Percent,2016,,2.3
+2014,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (15-24 years) (%),,,,Percent,2016,,6.3
+2016,Normal value,Units,Country Data,National_SDG_Report,unemployment rate (ILO) (15-24 years) (%),,,,Percent,2016,,6.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Underemployment rate of persons over 15 years (%),,,,Percent,2014,,77.6
+2014,Normal value,Units,Country Data,National_SDG_Report,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]",,,,Percent,2021,,4.3
+2021,Normal value,Units,Country Data,National_SDG_Report,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]",,,,Percent,2021,,6.1

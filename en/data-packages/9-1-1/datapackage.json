@@ -71,8 +71,8 @@
               "enum": [
                 "ADAMAWA",
                 "CENTRE",
-                "EAST",
                 "FAR NORTH",
+                "EAST",
                 "LittoraL",
                 "North",
                 "North West",
@@ -88,6 +88,17 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "GeoCode",
