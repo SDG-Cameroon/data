@@ -42,8 +42,8 @@ inputs:
  #   path_pattern: data/*.xml
  #   dsd: 'LocalRegistry.xml'
   - class: InputSdmxMl_Structure
-    source: https://cm.sdmx.afdb.org/ns-ws/rest/data/CM1,DF_SDG_CAMEROON,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
-    dsd: https://cm.sdmx.afdb.org/ns-ws/rest/datastructure/CM1/SDG/1.0/?detail=Full&references=Descendants
+    source: https://cm.sdmx.afdb.org/ns-ws/rest/data/CM1,DF_SDG_CM_08_25,1.0/A.N............./ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://cm.sdmx.afdb.org/ns-ws/rest/dataflow/CM1/DF_SDG_CM_08_25/1.0/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|CM: ''
     drop_dimensions:
@@ -97,7 +97,7 @@ translations:
   #- class: TranslationInputSdmx
   #  source: 'LocalRegistry.xml'
   - class: TranslationInputSdmx
-    source: https://cm.sdmx.afdb.org/ns-ws/rest/datastructure/CM1/SDG/1.0/?detail=Full&references=Descendants
+    source: https://cm.sdmx.afdb.org/ns-ws/rest/dataflow/CM1/DF_SDG_CM_08_25/1.0/?detail=Full&references=Descendants
     request_params:
       headers:
         User-Agent: Open-SDG-Build-1
