@@ -31,6 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Billions",
                 "Units",
                 ""
               ]
@@ -84,8 +85,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
                 "2023",
+                "2022",
+                "2024",
                 ""
               ]
             },

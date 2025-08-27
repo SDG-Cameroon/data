@@ -31,6 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Thousands",
                 "Units",
                 ""
               ]

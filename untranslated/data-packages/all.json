@@ -3643,7 +3643,6 @@
               "enum": [
                 "2016",
                 "2014",
-                "2021",
                 ""
               ]
             }
@@ -3777,109 +3776,6 @@
       "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "C",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National_SDG_Report",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CM_AD",
-                "CM_CE",
-                "CM_EN",
-                "CM_ES",
-                "CM_LT",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
-    },
-    {
       "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
@@ -3908,6 +3804,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "3",
                 "0",
                 ""
               ]
@@ -5069,7 +4966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "3",
                 ""
               ]
             }
@@ -5255,7 +5152,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "9",
                 ""
               ]
             }
@@ -5930,6 +5827,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "9",
                 "0",
                 ""
               ]
@@ -5977,8 +5875,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
                 "2023",
+                "2022",
+                "2024",
                 ""
               ]
             }
@@ -6525,6 +6424,7 @@
             "constraints": {
               "enum": [
                 "0",
+                "3",
                 ""
               ]
             }
@@ -8076,6 +7976,109 @@
         ]
       },
       "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+    },
+    {
+      "path": "9-1-1/data.csv",
+      "name": "9-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National_SDG_Report",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CM_AD",
+                "CM_CE",
+                "CM_EN",
+                "CM_ES",
+                "CM_LT",
+                "CM_NO",
+                "CM_NW",
+                "CM_OU",
+                "CM_SU",
+                "CM_SW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "16-1-1/data.csv",
