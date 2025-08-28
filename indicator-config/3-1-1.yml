@@ -1,4 +1,5 @@
-﻿composite_breakdown_label: ''
+auto_progress_calculation: true
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -23,6 +24,7 @@ graph_target_lines: []
 graph_title: global_indicators.3-1-1-title
 graph_titles: []
 graph_type: line
+graph_types: []
 indicator_available: ''
 indicator_name: global_indicators.3-1-1-title
 indicator_number: 3.1.1
@@ -37,6 +39,12 @@ page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
+progress_calculation_options:
+  base_year: 2015
+  direction: negative
+  target: 70
+  target_year: 2030
+  unit: Deaths per 100 000 live births
 progress_status: not_available
 proxy: ''
 proxy_series: []
