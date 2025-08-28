@@ -87,17 +87,17 @@ Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME
 2020,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1074.4
 2021,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,985.9
 2022,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1012.3
-2011,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,2.9
-2012,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,2.4
-2013,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,2.1
-2014,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,1.9
-2015,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,2.7
-2016,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,0.9
-2017,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,0.6
-2018,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,1.1
-2019,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,2.5
-2020,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,2.5
-2021,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,2.3
-2022,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,6.3
-2023,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,7.4
-2024,A,0,C,National_SDG_Report,FP_CPI_TOTL_ZG,,PT,2024,,4.5
+2011,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.9
+2012,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.4
+2013,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.1
+2014,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,1.9
+2015,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.7
+2016,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,0.9
+2017,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,0.6
+2018,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,1.1
+2019,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.5
+2020,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.5
+2021,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.3
+2022,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,6.3
+2023,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,7.4
+2024,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,4.5
