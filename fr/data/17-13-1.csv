@@ -1,103 +1,103 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2016,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,20038.566
-2017,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,20960.865
-2018,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,22203.329
-2019,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,23243.662
-2020,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,23468.507
-2021,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,24960.496
-2022,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,27662.02
-2023,A,9,C,National_SDG_Report,_L_CM_171301_1,,CUR_LCU,2023,,29891.403
-2015,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,3503.1
-2016,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,3500.3
-2017,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,3394.7
-2018,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,3740.6
-2019,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,4219.1
-2020,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,3534.9
-2021,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,4141.2
-2022,A,9,C,National_SDG_Report,_L_CM_171301_10,,CUR_LCU,2022,,4414.4
-2015,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,792.8
-2016,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,845.8
-2017,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,899.0
-2018,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,916.3
-2019,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,970.1
-2020,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,765.2
-2021,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,736.8
-2022,A,9,C,National_SDG_Report,_L_CM_171301_11,,CUR_LCU,2022,,656.1
-2016,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,20038.566
-2017,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,20748.167
-2018,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,21568.8637
-2019,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,22318.389793
-2020,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,22376.407505
-2021,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,23123.523859
-2022,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,23987.628883
-2023,A,9,C,National_SDG_Report,_L_CM_171301_2,,CUR_LCU,2023,,24766.767526
-2016,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,4.535794
-2017,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,3.541177
-2018,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,3.955514
-2019,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,3.475037
-2020,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,0.259955
-2021,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,3.338857
-2022,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,3.736909
-2023,A,0,C,National_SDG_Report,_L_CM_171301_3,,PT,2023,,3.248085
-2015,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,3066.8
-2016,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,2778.8
-2017,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,2727.9
-2018,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,2981.0
-2019,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,3305.5
-2020,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,2442.4
-2021,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,3113.4
-2022,A,9,C,National_SDG_Report,_L_CM_171301_4,,CUR_LCU,2022,,4188.4
-2015,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,930.1
-2016,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,1018.5
-2017,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,1118.6
-2018,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,1179.1
-2019,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,1308.4
-2020,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,1088.8
-2021,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,1007.2
-2022,A,9,C,National_SDG_Report,_L_CM_171301_5,,CUR_LCU,2022,,1063.5
-2015,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,3907.8
-2016,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,3500.3
-2017,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,3459.8
-2018,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,3845.9
-2019,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,4365.4
-2020,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,3422.4
-2021,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,4189.3
-2022,A,9,C,National_SDG_Report,_L_CM_171301_6,,CUR_LCU,2022,,5190.5
-2015,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,767.5
-2016,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,845.8
-2017,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,910.1
-2018,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,1005.9
-2019,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,1103.4
-2020,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,858.3
-2021,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,858.2
-2022,A,9,C,National_SDG_Report,_L_CM_171301_7,,CUR_LCU,2022,,797.4
-2015,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2770.2
-2016,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2778.8
-2017,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2630.7
-2018,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2638.7
-2019,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2945.3
-2020,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2524.6
-2021,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2775.3
-2022,A,9,C,National_SDG_Report,_L_CM_171301_8,,CUR_LCU,2022,,2874.1
-2015,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,919.0
-2016,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1018.5
-2017,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1106.9
-2018,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1179.8
-2019,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1300.4
-2020,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1074.4
-2021,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,985.9
-2022,A,9,C,National_SDG_Report,_L_CM_171301_9,,CUR_LCU,2022,,1012.3
-2011,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.9
-2012,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.4
-2013,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.1
-2014,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,1.9
-2015,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.7
-2016,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,0.9
-2017,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,0.6
-2018,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,1.1
-2019,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.5
-2020,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.5
-2021,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,2.3
-2022,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,6.3
-2023,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,7.4
-2024,A,0,C,National_SDG_Report,Taux d'inflation annuel,,PT,2024,,4.5
+2016,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,20038.566
+2017,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,20960.865
+2018,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,22203.329
+2019,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,23243.662
+2020,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,23468.507
+2021,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,24960.496
+2022,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,27662.02
+2023,A,9,C,National_SDG_Report,PIB Courant (en milliards de Francs CFA),,CUR_LCU,2023,,29891.403
+2015,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,3503.1
+2016,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,3500.3
+2017,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,3394.7
+2018,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,3740.6
+2019,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,4219.1
+2020,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,3534.9
+2021,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,4141.2
+2022,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,4414.4
+2015,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,792.8
+2016,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,845.8
+2017,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,899.0
+2018,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,916.3
+2019,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,970.1
+2020,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,765.2
+2021,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,736.8
+2022,A,9,C,National_SDG_Report,Importations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,656.1
+2016,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,20038.566
+2017,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,20748.167
+2018,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,21568.8637
+2019,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,22318.389793
+2020,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,22376.407505
+2021,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,23123.523859
+2022,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,23987.628883
+2023,A,9,C,National_SDG_Report,PIB Réel (Base 100 Année 2016) en Milliards de Francs CFA,,CUR_LCU,2023,,24766.767526
+2016,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,4.535794
+2017,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,3.541177
+2018,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,3.955514
+2019,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,3.475037
+2020,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,0.259955
+2021,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,3.338857
+2022,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,3.736909
+2023,A,0,C,National_SDG_Report,Taux de croissance réel du PIB (%),,PT,2023,,3.248085
+2015,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3066.8
+2016,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,2778.8
+2017,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,2727.9
+2018,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,2981.0
+2019,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3305.5
+2020,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,2442.4
+2021,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3113.4
+2022,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,4188.4
+2015,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,930.1
+2016,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1018.5
+2017,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1118.6
+2018,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1179.1
+2019,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1308.4
+2020,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1088.8
+2021,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1007.2
+2022,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1063.5
+2015,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3907.8
+2016,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3500.3
+2017,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3459.8
+2018,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3845.9
+2019,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,4365.4
+2020,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,3422.4
+2021,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,4189.3
+2022,A,9,C,National_SDG_Report,Importations des biens (en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,5190.5
+2015,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,767.5
+2016,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,845.8
+2017,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,910.1
+2018,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1005.9
+2019,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,1103.4
+2020,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,858.3
+2021,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,858.2
+2022,A,9,C,National_SDG_Report,Importations des services(en Milliards de Francs CFA) (Prix courant),,CUR_LCU,2022,,797.4
+2015,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2770.2
+2016,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2778.8
+2017,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2630.7
+2018,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2638.7
+2019,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2945.3
+2020,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2524.6
+2021,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2775.3
+2022,A,9,C,National_SDG_Report,Exportations des biens (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,2874.1
+2015,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,919.0
+2016,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,1018.5
+2017,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,1106.9
+2018,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,1179.8
+2019,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,1300.4
+2020,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,1074.4
+2021,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,985.9
+2022,A,9,C,National_SDG_Report,Exportations des services (en Milliards de Francs CFA) (Prix constant Base 100 Année 2016),,CUR_LCU,2022,,1012.3
+2011,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,2.9
+2012,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,2.4
+2013,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,2.1
+2014,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,1.9
+2015,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,2.7
+2016,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,0.9
+2017,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,0.6
+2018,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,1.1
+2019,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,2.5
+2020,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,2.5
+2021,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,2.3
+2022,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,6.3
+2023,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,7.4
+2024,A,0,C,National_SDG_Report,Taux d'inflation,,PT,2024,,4.5

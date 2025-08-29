@@ -1,4 +1,4 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2017,A,0,C,National_SDG_Report,_L_CM_150101_1,,PT,2017,,24.76
-2017,A,0,C,National_SDG_Report,_L_CM_150101_2,,PT,2017,,21.49
-2017,A,0,C,National_SDG_Report,AG_LND_FRST,,PT,2017,,46.25
+2017,A,0,C,National_SDG_Report,"Surface des zones forestières (Forêts permanentes), en pourcentage de la surface terrestre (%)",,PT,2017,,24.76
+2017,A,0,C,National_SDG_Report,"Surface des zones forestières (Forêts non permanentes), en pourcentage de la surface terrestre (%)",,PT,2017,,21.49
+2017,A,0,C,National_SDG_Report,Forest area as a proportion of total land area [15.1.1],,PT,2017,,46.25

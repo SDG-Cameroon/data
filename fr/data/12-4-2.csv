@@ -1,6 +1,6 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_120402_1,,PT,2014,,64.4
-2014,A,0,C,National_SDG_Report,_L_CM_120402_2,,PT,2014,,5.7
-2014,A,0,C,National_SDG_Report,_L_CM_120402_3,,PT,2014,,30.0
-2014,A,0,C,National_SDG_Report,_L_CM_120402_4,,PT,2014,,22.5
-2014,A,0,C,National_SDG_Report,_L_CM_120402_5,,PT,2014,,5.3
+2014,A,0,C,National_SDG_Report,Energie primaire consommée (Biomass) (%),,PT,2014,,64.4
+2014,A,0,C,National_SDG_Report,Energie primaire consommée (Energie Hydraulique) (%),,PT,2014,,5.7
+2014,A,0,C,National_SDG_Report,Energie primaire consommée (Combustible fossible) (%),,PT,2014,,30.0
+2014,A,0,C,National_SDG_Report,Energie primaire consommée (Produits pétroliers) (%),,PT,2014,,22.5
+2014,A,0,C,National_SDG_Report,Energie primaire consommée (Gas) (%),,PT,2014,,5.3

@@ -1,14 +1,14 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,,,PT,2016,,3.3
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,,,PT,2016,,2.6
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,,R,PT,2016,,0.9
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,,R,PT,2016,,0.6
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,,U,PT,2016,,7.1
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,,U,PT,2016,,6.7
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,F,,PT,2016,,3.8
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,F,,PT,2016,,3.0
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,M,,PT,2016,,2.9
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,M,,PT,2016,,2.3
-2014,A,0,C,National_SDG_Report,_L_CM_080502_2,,,,PT,2016,,6.3
-2016,A,0,C,National_SDG_Report,_L_CM_080502_2,,,,PT,2016,,6.3
-2014,A,0,C,National_SDG_Report,_L_CM_080502_3,,,,PT,2014,,77.6
+2014,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,,,PT,2016,,3.3
+2016,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,,,PT,2016,,2.6
+2014,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,,R,PT,2016,,0.9
+2016,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,,R,PT,2016,,0.6
+2014,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,,U,PT,2016,,7.1
+2016,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,,U,PT,2016,,6.7
+2014,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,F,,PT,2016,,3.8
+2016,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,F,,PT,2016,,3.0
+2014,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,M,,PT,2016,,2.9
+2016,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (%),,M,,PT,2016,,2.3
+2014,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (15-24 ans) (%),,,,PT,2016,,6.3
+2016,A,0,C,National_SDG_Report,Taux de chômage au sens du BIT (15-24 ans) (%),,,,PT,2016,,6.3
+2014,A,0,C,National_SDG_Report,Taux de sous emploi des personnes âgées de plus de 15 ans (%),,,,PT,2014,,77.6

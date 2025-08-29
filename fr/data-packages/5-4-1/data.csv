@@ -1,5 +1,5 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,SL_DOM_TSPDDC,,F,R,PT,2014,,28.2
-2014,A,0,C,National_SDG_Report,SL_DOM_TSPDDC,,F,U,PT,2014,,22.7
-2014,A,0,C,National_SDG_Report,SL_DOM_TSPDDC,,M,R,PT,2014,,23.9
-2014,A,0,C,National_SDG_Report,SL_DOM_TSPDDC,,M,U,PT,2014,,22.9
+2014,A,0,C,National_SDG_Report,Proportion of time spent on unpaid domestic chores [5.4.1],,F,R,PT,2014,,28.2
+2014,A,0,C,National_SDG_Report,Proportion of time spent on unpaid domestic chores [5.4.1],,F,U,PT,2014,,22.7
+2014,A,0,C,National_SDG_Report,Proportion of time spent on unpaid domestic chores [5.4.1],,M,R,PT,2014,,23.9
+2014,A,0,C,National_SDG_Report,Proportion of time spent on unpaid domestic chores [5.4.1],,M,U,PT,2014,,22.9

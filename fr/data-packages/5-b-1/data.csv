@@ -1,6 +1,6 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,IT_MOB_OWN,,,PT,2014,,72.3
-2014,A,0,C,National_SDG_Report,IT_MOB_OWN,,F,PT,2018,,66.3
-2018,A,0,C,National_SDG_Report,IT_MOB_OWN,,F,PT,2018,,63.6
-2014,A,0,C,National_SDG_Report,IT_MOB_OWN,,M,PT,2018,,79.4
-2018,A,0,C,National_SDG_Report,IT_MOB_OWN,,M,PT,2018,,77.3
+2014,A,0,C,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,,PT,2014,,72.3
+2014,A,0,C,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,F,PT,2018,,66.3
+2018,A,0,C,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,F,PT,2018,,63.6
+2014,A,0,C,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,M,PT,2018,,79.4
+2018,A,0,C,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,M,PT,2018,,77.3

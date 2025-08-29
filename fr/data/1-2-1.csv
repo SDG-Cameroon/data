@@ -1,12 +1,12 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2007,A,0,C,National_SDG_Report,SI_POV_NAHC,,,,PT,2021,,39.9
-2014,A,0,C,National_SDG_Report,SI_POV_NAHC,,,,PT,2021,,37.5
-2021,A,0,C,National_SDG_Report,SI_POV_NAHC,,,,PT,2021,,38.6
-2007,A,0,C,National_SDG_Report,SI_POV_NAHC,,,R,PT,2014,,55.0
-2014,A,0,C,National_SDG_Report,SI_POV_NAHC,,,R,PT,2014,,56.8
-2007,A,0,C,National_SDG_Report,SI_POV_NAHC,,,U,PT,2014,,12.2
-2014,A,0,C,National_SDG_Report,SI_POV_NAHC,,,U,PT,2014,,8.9
-2007,A,0,C,National_SDG_Report,SI_POV_NAHC,,F,,PT,2014,,40.2
-2014,A,0,C,National_SDG_Report,SI_POV_NAHC,,F,,PT,2014,,37.7
-2007,A,0,C,National_SDG_Report,SI_POV_NAHC,,M,,PT,2014,,39.5
-2014,A,0,C,National_SDG_Report,SI_POV_NAHC,,M,,PT,2014,,37.2
+2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,PT,2021,,39.9
+2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,PT,2021,,37.5
+2021,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,PT,2021,,38.6
+2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,R,PT,2014,,55.0
+2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,R,PT,2014,,56.8
+2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,U,PT,2014,,12.2
+2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,U,PT,2014,,8.9
+2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,F,,PT,2014,,40.2
+2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,F,,PT,2014,,37.7
+2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,M,,PT,2014,,39.5
+2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,M,,PT,2014,,37.2

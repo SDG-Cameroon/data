@@ -1,15 +1,15 @@
 Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2013,A,0,C,National_SDG_Report,_L_CM_030401_1,,PT,2013,,4.7
-2013,A,0,C,National_SDG_Report,_L_CM_030401_10,,PT,2013,,1.5
-2013,A,0,C,National_SDG_Report,_L_CM_030401_11,,PT,2013,,0.9
-2013,A,0,C,National_SDG_Report,_L_CM_030401_12,,PT,2013,,5.0
-2013,A,0,C,National_SDG_Report,_L_CM_030401_13,,PT,2013,,10.5
-2013,A,0,C,National_SDG_Report,_L_CM_030401_14,,PT,2013,,2.9
-2013,A,0,C,National_SDG_Report,_L_CM_030401_2,,PT,2013,,2.0
-2013,A,0,C,National_SDG_Report,_L_CM_030401_3,,PT,2013,,1.4
-2013,A,0,C,National_SDG_Report,_L_CM_030401_4,,PT,2013,,3.5
-2013,A,0,C,National_SDG_Report,_L_CM_030401_5,,PT,2013,,5.6
-2013,A,0,C,National_SDG_Report,_L_CM_030401_6,,PT,2013,,10.1
-2013,A,0,C,National_SDG_Report,_L_CM_030401_7,,PT,2013,,2.9
-2013,A,0,C,National_SDG_Report,_L_CM_030401_8,,PT,2013,,11.6
-2013,A,0,C,National_SDG_Report,_L_CM_030401_9,,PT,2013,,4.5
+2013,A,0,C,National_SDG_Report,Poids des maladies cardiovasculaires dans l'ensemble des maladies (%),,PT,2013,,4.7
+2013,A,0,C,National_SDG_Report,Poids des décès dus aux maladies respiratoires chroniques (%),,PT,2013,,1.5
+2013,A,0,C,National_SDG_Report,Poids des décès dus aux maladies mentales et abus de substances (%),,PT,2013,,0.9
+2013,A,0,C,National_SDG_Report,Poids des décès dus aux maladies diarrhéiques (%),,PT,2013,,5.0
+2013,A,0,C,National_SDG_Report,Poids des décès dus aux infections respiratoires basses (%),,PT,2013,,10.5
+2013,A,0,C,National_SDG_Report,Poids des décès dus aux accidents non intentionnels (%),,PT,2013,,2.9
+2013,A,0,C,National_SDG_Report,Poids des cancers dans l'ensemble des maladies (%),,PT,2013,,2.0
+2013,A,0,C,National_SDG_Report,Poids des maladies respiratoires chroniques dans l'ensemble des maladies (%),,PT,2013,,1.4
+2013,A,0,C,National_SDG_Report,Poids des maladies mentales et abus de substances dans l'ensemble des maladies (%),,PT,2013,,3.5
+2013,A,0,C,National_SDG_Report,Poids des maladies diarrhéiques dans l'ensemble des maladies (%),,PT,2013,,5.6
+2013,A,0,C,National_SDG_Report,Poids des infections respiratoires basses dans l'ensemble des maladies (%),,PT,2013,,10.1
+2013,A,0,C,National_SDG_Report,Poids des accidents non intentionnels dans l'ensemble des maladies (%),,PT,2013,,2.9
+2013,A,0,C,National_SDG_Report,Poids des décès dus aux maladies cardiovasculaires (%),,PT,2013,,11.6
+2013,A,0,C,National_SDG_Report,Poids des décès dus aux cancers (%),,PT,2013,,4.5
