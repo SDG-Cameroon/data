@@ -55,7 +55,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: CameroonSND30/ProductionData
+        REPOSITORY_NAME: opensdg-cameroon/ProductionData
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site
