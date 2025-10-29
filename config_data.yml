@@ -38,12 +38,12 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
- # - class: InputSdmxMl_Multiple
- #   path_pattern: data/*.xml
- #   dsd: 'LocalRegistry.xml'
-  - class: InputSdmxMl_Structure
-    source: https://cm.sdmx.afdb.org/ns-ws/rest/data/CM1,DF_SDG_CM_08_25,1.0/A.N............./ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
-    dsd: https://cm.sdmx.afdb.org/ns-ws/rest/dataflow/CM1/DF_SDG_CM_08_25/1.0/?detail=Full&references=Descendants
+  - class: InputSdmxMl_Multiple
+    path_pattern: data/*.xml
+    dsd: 'LocalRegistry.xml'
+ # - class: InputSdmxMl_Structure
+ #  source: https://cm.sdmx.afdb.org/ns-ws/rest/data/CM1,DF_SDG_CM_08_25,1.0/A.N............./ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+ #  dsd: https://cm.sdmx.afdb.org/ns-ws/rest/dataflow/CM1/DF_SDG_CM_08_25/1.0/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|CM: ''
     drop_dimensions:
