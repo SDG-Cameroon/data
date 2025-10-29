@@ -1,3 +1,3 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2013,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030601_01,,Percent,,4.0
-2013,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030601_02,,Percent,,4.4
+2013,Normal value,Units,Country Data,National_SDG_Report,Burden of diseases  related to road accidents (%),,Percent,,4.0
+2013,Normal value,Units,Country Data,National_SDG_Report,Death rate  due to road accidents (%),,Percent,,4.4

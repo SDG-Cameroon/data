@@ -73,12 +73,12 @@
                 "CENTRE",
                 "EAST",
                 "FAR NORTH",
-                "LittoraL",
-                "North",
-                "North West",
-                "West",
-                "South",
-                "South-West",
+                "LITTORAL",
+                "NORTH",
+                "NORTH WEST",
+                "WEST",
+                "SOUTH",
+                "SOUTH WEST",
                 ""
               ]
             },

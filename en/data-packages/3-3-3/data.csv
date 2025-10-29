@@ -1,13 +1,13 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_01,,Urban,Percent,,20.6
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_01,,Rural,Percent,,37.1
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_01,,,Percent,,30.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_01,,,Percent,,30.0
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_01,,,Percent,,24.0
-2004,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_02,,Urban,Percent,,58.9
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_02,,Urban,Percent,,29.3
-2004,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_02,,Rural,Percent,,48.0
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_02,,Rural,Percent,,18.9
-2004,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_02,,,Percent,,53.1
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_02,,,Percent,,23.1
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_030303_02,,,Percent,,59.0
+2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,Urban,Percent,,20.6
+2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,Rural,Percent,,37.1
+2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,,Percent,,30.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,,Percent,,30.0
+2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,,Percent,,24.0
+2004,Normal value,Units,Country Data,National_SDG_Report,Prevalence of antimalarial treatment (%),,Urban,Percent,,58.9
+2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of antimalarial treatment (%),,Urban,Percent,,29.3
+2004,Normal value,Units,Country Data,National_SDG_Report,Prevalence of antimalarial treatment (%),,Rural,Percent,,48.0
+2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of antimalarial treatment (%),,Rural,Percent,,18.9
+2004,Normal value,Units,Country Data,National_SDG_Report,Prevalence of antimalarial treatment (%),,,Percent,,53.1
+2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of antimalarial treatment (%),,,Percent,,23.1
+2018,Normal value,Units,Country Data,National_SDG_Report,Prevalence of antimalarial treatment (%),,,Percent,,59.0

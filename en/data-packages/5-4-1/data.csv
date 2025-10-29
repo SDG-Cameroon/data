@@ -1,5 +1,5 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050401_01,,Female,Urban,Percent,,22.7
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050401_01,,Male,Urban,Percent,,22.9
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050401_01,,Female,Rural,Percent,,28.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050401_01,,Male,Rural,Percent,,23.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of time spent on unpaid domestic chores and care work,,Female,Urban,Percent,,22.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of time spent on unpaid domestic chores and care work,,Male,Urban,Percent,,22.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of time spent on unpaid domestic chores and care work,,Female,Rural,Percent,,28.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of time spent on unpaid domestic chores and care work,,Male,Rural,Percent,,23.9

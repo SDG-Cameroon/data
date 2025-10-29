@@ -1,12 +1,12 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_01,,Urban,Percent,,36.7
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_02,,Rural,Percent,,80.6
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_03,,Urban,Percent,,13.0
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_03,,Rural,Percent,,7.0
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_03,,,Percent,,9.8
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_04,,Urban,Percent,,44.8
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_04,,Rural,Percent,,82.5
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_04,,,Percent,,64.7
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_05,,Urban,Percent,,4.7
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_05,,Rural,Percent,,2.4
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_010402_05,,,Percent,,3.5
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of households owning their home without a land title,,Urban,Percent,,36.7
+2011,Normal value,Units,Country Data,National_SDG_Report,Percentage of women aged 15-49 who own a house without a land title,,Rural,Percent,,80.6
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population thinking that they are at risk of being evicted from their home (%),,Urban,Percent,,13.0
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population thinking that they are at risk of being evicted from their home (%),,Rural,Percent,,7.0
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population thinking that they are at risk of being evicted from their home (%),,,Percent,,9.8
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population whose household does not have a secure dwelling (%),,Urban,Percent,,44.8
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population whose household does not have a secure dwelling (%),,Rural,Percent,,82.5
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population whose household does not have a secure dwelling (%),,,Percent,,64.7
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population evicted from their dwelling in the past 5 years (%),,Urban,Percent,,4.7
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population evicted from their dwelling in the past 5 years (%),,Rural,Percent,,2.4
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of the total adult population evicted from their dwelling in the past 5 years (%),,,Percent,,3.5

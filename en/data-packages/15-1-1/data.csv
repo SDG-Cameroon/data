@@ -1,4 +1,4 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Country Data,National_SDG_Report,_L_CM_150101_01,,Percent,,24.76
-2017,Normal value,Units,Country Data,National_SDG_Report,_L_CM_150101_02,,Percent,,21.49
-2017,Normal value,Units,Country Data,National_SDG_Report,_L_CM_150101_03,,Percent,,46.25
+2017,Normal value,Units,Country Data,National_SDG_Report,"Forest area (Permanent forests), as a percentage of the total land area (%)",,Percent,,24.76
+2017,Normal value,Units,Country Data,National_SDG_Report,"Forest area (Non-permanent forests), as a percentage of the total land area (%)",,Percent,,21.49
+2017,Normal value,Units,Country Data,National_SDG_Report,"Total Forest area, as a percentage of the total land area (%)",,Percent,,46.25

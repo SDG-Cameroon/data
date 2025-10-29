@@ -1,17 +1,17 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,Urban,,Percent,,5.3
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,Rural,,Percent,,16.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,,Never attended an education programme / No schooling,Percent,,21.7
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,,Primary education,Percent,,19.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,,Secondary education (lower and upper secondary education),Percent,,3.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,,Tertiary education,Percent,,0.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,,,Percent,,10.2
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_01,,,,Percent,,10.7
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,Urban,,Percent,,20.8
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,Rural,,Percent,,43.3
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,,Never attended an education programme / No schooling,Percent,,59.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,,Primary education,Percent,,49.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,,Secondary education (lower and upper secondary education),Percent,,15.9
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,,Tertiary education,Percent,,0.8
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,,,Percent,,31.0
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050301_02,,,,Percent,,29.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,Urban,,Percent,,5.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,Rural,,Percent,,16.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,,Never attended an education programme / No schooling,Percent,,21.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,,Primary education,Percent,,19.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,,Secondary education (lower and upper secondary education),Percent,,3.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,,Tertiary education,Percent,,0.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,,,Percent,,10.2
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,,,Percent,,10.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,Urban,,Percent,,20.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,Rural,,Percent,,43.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,,Never attended an education programme / No schooling,Percent,,59.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,,Primary education,Percent,,49.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,,Secondary education (lower and upper secondary education),Percent,,15.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,,Tertiary education,Percent,,0.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,,,Percent,,31.0
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 (%),,,,Percent,,29.8

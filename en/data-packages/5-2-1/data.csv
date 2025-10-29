@@ -1,9 +1,9 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_01,,Percent,,52.6
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_01,,Percent,,31.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_02,,Percent,,13.5
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_02,,Percent,,6.9
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_03,,Percent,,30.8
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_03,,Percent,,19.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_04,,Percent,,47.2
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050201_04,,Percent,,22.4
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",,Percent,,52.6
+2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or emotional/psychological violence (%)",,Percent,,31.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of ever-partnered women and girls aged 15 years and older subjected sexual violence (%),,Percent,,13.5
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of ever-partnered women and girls aged 15 years and older subjected sexual violence (%),,Percent,,6.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of ever-partnered women and girls aged 15 years and older subjected to physical violence (%),,Percent,,30.8
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of ever-partnered women and girls aged 15 years and older subjected to physical violence (%),,Percent,,19.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of ever-partnered women and girls aged 15 years and older subjected to emotional/psychological violence (%),,Percent,,47.2
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of ever-partnered women and girls aged 15 years and older subjected to emotional/psychological violence (%),,Percent,,22.4

@@ -1,12 +1,12 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,Urban,,Local currency,,627.9
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,Rural,,Local currency,,482.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,Female,,,Local currency,,496.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,Male,,,Local currency,,627.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,,Never attended an education programme / No schooling,Local currency,,659.9
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,,Primary education,Local currency,,341.7
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,,Lower secondary education,Local currency,,415.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,,Upper secondary education,Local currency,,492.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,,Tertiary education,Local currency,,1048.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,,,Local currency,,589.6
-2021,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080501_01,,,,,Local currency,,579.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,Urban,,Local currency,,627.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,Rural,,Local currency,,482.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,Female,,,Local currency,,496.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,Male,,,Local currency,,627.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,,Never attended an education programme / No schooling,Local currency,,659.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,,Primary education,Local currency,,341.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,,Lower secondary education,Local currency,,415.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,,Upper secondary education,Local currency,,492.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,,Tertiary education,Local currency,,1048.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,,,Local currency,,589.6
+2021,Normal value,Units,Country Data,National_SDG_Report,Average hourly earnings of employees (CFA Francs XAF),,,,,Local currency,,579.0

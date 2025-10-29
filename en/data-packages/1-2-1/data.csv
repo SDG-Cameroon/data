@@ -1,28 +1,28 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2007,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,Urban,Percent,,12.2
-2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,Urban,Percent,,8.9
-2007,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,Rural,Percent,,55.0
-2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,Rural,Percent,,56.8
-2007,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,Female,,Percent,,40.2
-2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,Female,,Percent,,37.7
-2007,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,Male,,Percent,,39.5
-2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,Male,,Percent,,37.2
-2007,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,,Percent,,39.9
-2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,,Percent,,37.5
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,,Percent,,37.7
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,Urban,Percent,,21.6
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,,Rural,Percent,,56.3
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,Female,,Percent,,38.0
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,,Male,,Percent,,37.3
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,ADAMAWA,,,Percent,CM_AD,45.1
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,EAST,,,Percent,CM_ES,41.5
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,FAR NORTH,,,Percent,CM_EN,69.2
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,North,,,Percent,CM_NO,61.1
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,North West,,,Percent,CM_NW,66.8
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,West,,,Percent,CM_OU,30.4
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,South,,,Percent,CM_SU,14.9
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,South-West,,,Percent,CM_SW,20.4
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,Douala,,,Percent,CM_DLA,8.3
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,Yaounde,,,Percent,CM_YDE,10.8
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,Littoral Excluding Douala,,,Percent,CM_LT_Sans_DLA,23.8
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010201_01,Centre Excluding Yaounde,,,Percent,CM_CE_Sans_YDE,19.1
+2007,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Urban,Percent,,12.2
+2014,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Urban,Percent,,8.9
+2007,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Rural,Percent,,55.0
+2014,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Rural,Percent,,56.8
+2007,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,Female,,Percent,,40.2
+2014,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,Female,,Percent,,37.7
+2007,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,Male,,Percent,,39.5
+2014,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,Male,,Percent,,37.2
+2007,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,,Percent,,39.9
+2014,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,,Percent,,37.5
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,,Percent,,37.7
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Urban,Percent,,21.6
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Rural,Percent,,56.3
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,Female,,Percent,,38.0
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,Male,,Percent,,37.3
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),ADAMAWA,,,Percent,CM_AD,45.1
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),EAST,,,Percent,CM_ES,41.5
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),FAR NORTH,,,Percent,CM_EN,69.2
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),NORTH,,,Percent,CM_NO,61.1
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),NORTH WEST,,,Percent,CM_NW,66.8
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),WEST,,,Percent,CM_OU,30.4
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),SOUTH,,,Percent,CM_SU,14.9
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),SOUTH WEST,,,Percent,CM_SW,20.4
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),DOUALA,,,Percent,CM_DLA,8.3
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),YAOUNDE,,,Percent,CM_YDE,10.8
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),LITTORAL (Excluding DOUALA),,,Percent,CM_LT_Sans_DLA,23.8
+2022,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),CENTRE (Excluding YAOUNDE),,,Percent,CM_CE_Sans_YDE,19.1

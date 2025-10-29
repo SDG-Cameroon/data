@@ -1,4 +1,4 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_171101_01,,Percent,,0.031
-2017,Normal value,Units,Country Data,National_SDG_Report,_L_CM_171101_01,,Percent,,0.028
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_171101_01,,Percent,,0.024
+2016,Normal value,Units,Country Data,National_SDG_Report,Share of Cameroon's exports in global exports (%),,Percent,,0.031
+2017,Normal value,Units,Country Data,National_SDG_Report,Share of Cameroon's exports in global exports (%),,Percent,,0.028
+2018,Normal value,Units,Country Data,National_SDG_Report,Share of Cameroon's exports in global exports (%),,Percent,,0.024

@@ -1,4 +1,4 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_160901_01,,Urban,Percent,,84.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_160901_01,,Rural,Percent,,53.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_160901_01,,,Percent,,66.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years whose birth was registered with the civil authorities (%),,Urban,Percent,,84.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years whose birth was registered with the civil authorities (%),,Rural,Percent,,53.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years whose birth was registered with the civil authorities (%),,,Percent,,66.1

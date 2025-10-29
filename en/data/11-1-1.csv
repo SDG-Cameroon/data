@@ -1,7 +1,7 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_110101_01,,Urban,Percent,,6.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_110101_01,,Urban,Percent,,6.4
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_110101_01,,Rural,Percent,,13.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_110101_01,,Rural,Percent,,13.6
-2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_110101_01,,,Percent,,10.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_110101_01,,,Percent,,10.2
+2011,Normal value,Units,Country Data,National_SDG_Report,Percentage of the population of households occupying dwellings considered unsustainable (%),,Urban,Percent,,6.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Percentage of the population of households occupying dwellings considered unsustainable (%),,Urban,Percent,,6.4
+2011,Normal value,Units,Country Data,National_SDG_Report,Percentage of the population of households occupying dwellings considered unsustainable (%),,Rural,Percent,,13.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Percentage of the population of households occupying dwellings considered unsustainable (%),,Rural,Percent,,13.6
+2011,Normal value,Units,Country Data,National_SDG_Report,Percentage of the population of households occupying dwellings considered unsustainable (%),,,Percent,,10.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Percentage of the population of households occupying dwellings considered unsustainable (%),,,Percent,,10.2

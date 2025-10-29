@@ -1,14 +1,14 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,,Percent,,31.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,ADAMAWA,Percent,CM_AD,38.8
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,EAST,Percent,CM_ES,27.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,FAR NORTH,Percent,CM_EN,60.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,North,Percent,CM_NO,44.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,North West,Percent,CM_NW,53.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,West,Percent,CM_OU,26.3
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,South,Percent,CM_SU,13.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,South-West,Percent,CM_SW,25.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,Centre Excluding Yaounde,Percent,CM_CE_Sans_YDE,20.3
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,Littoral Excluding Douala,Percent,CM_LT_Sans_DLA,23.9
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,Yaounde,Percent,CM_YDE,6.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_100201_01,Douala,Percent,CM_DLA,4.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),,Percent,,31.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),ADAMAWA,Percent,CM_AD,38.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),EAST,Percent,CM_ES,27.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),FAR NORTH,Percent,CM_EN,60.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),NORTH,Percent,CM_NO,44.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),NORTH WEST,Percent,CM_NW,53.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),WEST,Percent,CM_OU,26.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),SOUTH,Percent,CM_SU,13.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),SOUTH WEST,Percent,CM_SW,25.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),CENTRE (Excluding YAOUNDE),Percent,CM_CE_Sans_YDE,20.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),LITTORAL (Excluding DOUALA),Percent,CM_LT_Sans_DLA,23.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),YAOUNDE,Percent,CM_YDE,6.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),DOUALA,Percent,CM_DLA,4.1

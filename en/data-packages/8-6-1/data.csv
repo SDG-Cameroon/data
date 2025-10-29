@@ -1,7 +1,7 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080601_01,,,Urban,Percent,,0.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080601_01,,,Rural,Percent,,0.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080601_01,,Female,,Percent,,0.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080601_01,,Male,,Percent,,0.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080601_01,,,,Percent,,0.4
-2021,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080601_01,,,,Percent,,3.6
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth (aged 15-24 years) not in education, employment or training  (%)",,,Urban,Percent,,0.4
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth (aged 15-24 years) not in education, employment or training  (%)",,,Rural,Percent,,0.4
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth (aged 15-24 years) not in education, employment or training  (%)",,Female,,Percent,,0.5
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth (aged 15-24 years) not in education, employment or training  (%)",,Male,,Percent,,0.2
+2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth (aged 15-24 years) not in education, employment or training  (%)",,,,Percent,,0.4
+2021,Normal value,Units,Country Data,National_SDG_Report,"Proportion of youth (aged 15-24 years) not in education, employment or training  (%)",,,,Percent,,3.6

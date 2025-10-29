@@ -1,4 +1,4 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_160201_01,,Female,Percent,,84.8
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_160201_01,,Male,Percent,,85.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_160201_01,,,Percent,,85.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 1 to 14 years old who experienced psychological aggression or corporal punishment (%),,Female,Percent,,84.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 1 to 14 years old who experienced psychological aggression or corporal punishment (%),,Male,Percent,,85.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 1 to 14 years old who experienced psychological aggression or corporal punishment (%),,,Percent,,85.0

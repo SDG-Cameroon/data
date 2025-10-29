@@ -1,19 +1,19 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,,Urban,Percent,,96.2
-2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,,Urban,Percent,,95.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,,Rural,Percent,,32.8
-2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,,Rural,Percent,,28.4
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,,,Percent,,58.4
-2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,,,Percent,,53.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,ADAMAWA,,Percent,CM_AD,41.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,EAST,,Percent,CM_ES,33.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,FAR NORTH,,Percent,CM_EN,22.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,North,,Percent,CM_NO,23.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,North West,,Percent,CM_NW,49.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,West,,Percent,CM_OU,68.9
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,South,,Percent,CM_SU,72.3
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,South-West,,Percent,CM_SW,66.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,Centre Excluding Yaounde,,Percent,CM_CE_Sans_YDE,69.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,Littoral Excluding Douala,,Percent,CM_LT_Sans_DLA,80.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,Yaounde,,Percent,CM_YDE,99.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070101_01,Douala,,Percent,CM_DLA,98.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),,Urban,Percent,,96.2
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),,Urban,Percent,,95.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),,Rural,Percent,,32.8
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),,Rural,Percent,,28.4
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),,,Percent,,58.4
+2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),,,Percent,,53.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),ADAMAWA,,Percent,CM_AD,41.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),EAST,,Percent,CM_ES,33.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),FAR NORTH,,Percent,CM_EN,22.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),NORTH,,Percent,CM_NO,23.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),NORTH WEST,,Percent,CM_NW,49.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),WEST,,Percent,CM_OU,68.9
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),SOUTH,,Percent,CM_SU,72.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),SOUTH WEST,,Percent,CM_SW,66.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),CENTRE (Excluding YAOUNDE),,Percent,CM_CE_Sans_YDE,69.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),LITTORAL (Excluding DOUALA),,Percent,CM_LT_Sans_DLA,80.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),YAOUNDE,,Percent,CM_YDE,99.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with access to electricity (%),DOUALA,,Percent,CM_DLA,98.4

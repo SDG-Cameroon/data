@@ -1,6 +1,6 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Female,Percent,,66.3
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Female,Percent,,63.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Male,Percent,,79.4
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Male,Percent,,77.3
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,,Percent,,72.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,Female,Percent,,66.3
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,Female,Percent,,63.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,Male,Percent,,79.4
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,Male,Percent,,77.3
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,,Percent,,72.3

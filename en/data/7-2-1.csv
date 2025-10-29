@@ -1,5 +1,5 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070201_01,,Percent,,0.045
-2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070201_01,,Percent,,0.051
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070201_02,,Percent,,0.07
-2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_070201_02,,Percent,,0.52
+2014,Normal value,Units,Country Data,National_SDG_Report,Share of renewable energy excluding wood energy in the consumer energy mix,,Percent,,0.045
+2015,Normal value,Units,Country Data,National_SDG_Report,Share of renewable energy excluding wood energy in the consumer energy mix,,Percent,,0.051
+2014,Normal value,Units,Country Data,National_SDG_Report,Share of renewable energy in the electricity production mix,,Percent,,0.07
+2015,Normal value,Units,Country Data,National_SDG_Report,Share of renewable energy in the electricity production mix,,Percent,,0.52

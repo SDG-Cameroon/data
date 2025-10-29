@@ -1,17 +1,17 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,3.541177
-2018,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,3.955514
-2019,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,3.475037
-2020,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,0.259955
-2021,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,3.338857
-2022,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,3.736909
-2023,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,3.347348
-2024,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_080101_01,,Percent,,3.52466
-2017,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,0.6
-2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,1.1
-2019,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,0.6
-2020,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,-2.4
-2021,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,1.0
-2022,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,0.9
-2023,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,1.5
-2024,Normal value,Units,Country Data,National_SDG_Report,_L_CM_080101_02,,Percent,,1.8
+2017,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.541177
+2018,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.955514
+2019,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.475037
+2020,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,0.259955
+2021,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.338857
+2022,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.736909
+2023,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.347348
+2024,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.52466
+2017,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,0.6
+2018,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,1.1
+2019,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,0.6
+2020,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,-2.4
+2021,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,1.0
+2022,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,0.9
+2023,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,1.5
+2024,Normal value,Units,Country Data,National_SDG_Report,Annual growth rate of real GDP per capita (%),,Percent,,1.8

@@ -1,12 +1,12 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,,Percent,,33.0
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,ADAMAWA,Percent,CM_AD,42.6
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,CENTRE,Percent,CM_CE,54.2
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,EAST,Percent,CM_ES,34.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,FAR NORTH,Percent,CM_EN,20.1
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,LittoraL,Percent,CM_LT,62.8
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,North,Percent,CM_NO,20.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,North West,Percent,CM_NW,41.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,West,Percent,CM_OU,30.7
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,South,Percent,CM_SU,62.5
-2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_090101_01,South-West,Percent,CM_SW,28.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),,Percent,,33.0
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),ADAMAWA,Percent,CM_AD,42.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),CENTRE,Percent,CM_CE,54.2
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),EAST,Percent,CM_ES,34.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),FAR NORTH,Percent,CM_EN,20.1
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),LITTORAL,Percent,CM_LT,62.8
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),NORTH,Percent,CM_NO,20.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),NORTH WEST,Percent,CM_NW,41.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),WEST,Percent,CM_OU,30.7
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),SOUTH,Percent,CM_SU,62.5
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),SOUTH WEST,Percent,CM_SW,28.7
