@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-1991,A,0,C,National_SDG_Report,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,33
-1998,A,0,C,National_SDG_Report,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,37
-2004,A,0,C,National_SDG_Report,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,29
-2011,A,0,C,National_SDG_Report,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,31
-2014,A,0,C,National_SDG_Report,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,31
-2018,A,0,C,National_SDG_Report,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,28
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+1991,A,0,C,National Institute of Statistics,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,,33
+1998,A,0,C,National Institute of Statistics,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,,37
+2004,A,0,C,National Institute of Statistics,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,,29
+2011,A,0,C,National Institute of Statistics,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,,31
+2014,A,0,C,National Institute of Statistics,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,,31
+2018,A,0,C,National Institute of Statistics,Taux de mortalité néonatale (Pour 1000 naissances vivantes),,PER_1000_LIVE_BIRTHS,,28

@@ -1,13 +1,13 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2011,A,0,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,,PT,2018,,30.0
-2014,A,0,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,,PT,2018,,30.0
-2018,A,0,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,,PT,2018,,24.0
-2011,A,0,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,R,PT,2011,,37.1
-2011,A,0,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,U,PT,2011,,20.6
-2004,A,0,C,National_SDG_Report,Prévalence du traitement aux antipaludéens (%),,,PT,2018,,53.1
-2011,A,0,C,National_SDG_Report,Prévalence du traitement aux antipaludéens (%),,,PT,2018,,23.1
-2018,A,0,C,National_SDG_Report,Prévalence du traitement aux antipaludéens (%),,,PT,2018,,59.0
-2004,A,0,C,National_SDG_Report,Prévalence du traitement aux antipaludéens (%),,R,PT,2011,,48.0
-2011,A,0,C,National_SDG_Report,Prévalence du traitement aux antipaludéens (%),,R,PT,2011,,18.9
-2004,A,0,C,National_SDG_Report,Prévalence du traitement aux antipaludéens (%),,U,PT,2011,,58.9
-2011,A,0,C,National_SDG_Report,Prévalence du traitement aux antipaludéens (%),,U,PT,2011,,29.3
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2011,A,0,C,National_SDG_Report,_L_CM_030303_01,,U,PT,,20.6
+2011,A,0,C,National_SDG_Report,_L_CM_030303_01,,R,PT,,37.1
+2011,A,0,C,National_SDG_Report,_L_CM_030303_01,,,PT,,30.0
+2014,A,0,C,National_SDG_Report,_L_CM_030303_01,,,PT,,30.0
+2018,A,0,C,National_SDG_Report,_L_CM_030303_01,,,PT,,24.0
+2004,A,0,C,National_SDG_Report,_L_CM_030303_02,,U,PT,,58.9
+2011,A,0,C,National_SDG_Report,_L_CM_030303_02,,U,PT,,29.3
+2004,A,0,C,National_SDG_Report,_L_CM_030303_02,,R,PT,,48.0
+2011,A,0,C,National_SDG_Report,_L_CM_030303_02,,R,PT,,18.9
+2004,A,0,C,National_SDG_Report,_L_CM_030303_02,,,PT,,53.1
+2011,A,0,C,National_SDG_Report,_L_CM_030303_02,,,PT,,23.1
+2018,A,0,C,National_SDG_Report,_L_CM_030303_02,,,PT,,59.0

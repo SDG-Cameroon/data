@@ -1,13 +1,13 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of primary schools with access to water (%),,Percent,2016,,42
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of primary schools with access to water (%),,Percent,2016,,48
-2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of primary schools with access to electricity (%),,Percent,2016,,23
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of primary schools with access to electricity (%),,Percent,2016,,28
-2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of primary schools with access to sanitation facilities (%),,Percent,2016,,57
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of primary schools with access to sanitation facilities (%),,Percent,2016,,59
-2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of pre-schools with access to water (%),,Percent,2016,,60
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of pre-schools with access to water (%),,Percent,2016,,60
-2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of preschools with access to electricity (%),,Percent,2016,,46
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of preschools with access to electricity (%),,Percent,2016,,45
-2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of preschools with access to sanitation facilities (%),,Percent,2016,,73
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of preschools with access to sanitation facilities (%),,Percent,2016,,70
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_01,,Percent,,42
+2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_01,,Percent,,48
+2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_02,,Percent,,23
+2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_02,,Percent,,28
+2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_03,,Percent,,57
+2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_03,,Percent,,59
+2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_04,,Percent,,60
+2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_04,,Percent,,60
+2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_05,,Percent,,46
+2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_05,,Percent,,45
+2015,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_06,,Percent,,73
+2016,Normal value,Units,Country Data,National_SDG_Report,_L_CM_040a01_06,,Percent,,70

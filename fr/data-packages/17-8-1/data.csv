@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2016,A,0,C,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,,PT,2018,,23.2
-2018,A,0,C,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,,PT,2018,,35.0
-2016,A,0,C,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,R,PT,2016,,9.3
-2016,A,0,C,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,,U,PT,2016,,45.8
-2016,A,0,C,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,F,,PT,2016,,19.2
-2016,A,0,C,National_SDG_Report,Proportion of individuals using the Internet [17.8.1],,M,,PT,2016,,27.4
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,,U,PT,,45.8
+2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,,R,PT,,9.3
+2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,F,,PT,,19.2
+2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,M,,PT,,27.4
+2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,,,PT,,23.2
+2018,A,0,C,National_SDG_Report,_L_CM_170801_01,,,,PT,,35.0

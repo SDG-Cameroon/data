@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-1991,Normal value,Units,Country Data,National_SDG_Report,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",2018,,33
-1998,Normal value,Units,Country Data,National_SDG_Report,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",2018,,37
-2004,Normal value,Units,Country Data,National_SDG_Report,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",2018,,29
-2011,Normal value,Units,Country Data,National_SDG_Report,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",2018,,31
-2014,Normal value,Units,Country Data,National_SDG_Report,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",2018,,31
-2018,Normal value,Units,Country Data,National_SDG_Report,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",2018,,28
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+1991,Normal value,Units,Country Data,National Institute of Statistics,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",,33
+1998,Normal value,Units,Country Data,National Institute of Statistics,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",,37
+2004,Normal value,Units,Country Data,National Institute of Statistics,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",,29
+2011,Normal value,Units,Country Data,National Institute of Statistics,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",,31
+2014,Normal value,Units,Country Data,National Institute of Statistics,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",,31
+2018,Normal value,Units,Country Data,National Institute of Statistics,Neonatal mortality rate [3.2.2],,"Per 1,000 live births",,28

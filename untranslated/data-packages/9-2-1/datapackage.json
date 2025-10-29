@@ -73,16 +73,6 @@
             "type": "string"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

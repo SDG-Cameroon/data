@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2009,Normal value,Units,Country Data,National_SDG_Report,Proportion of companies/enterprises that are victims of corruption (%),,Percent,2009,,50.6
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2009,Normal value,Units,Country Data,National_SDG_Report,_L_CM_160502_01,,Percent,,50.6

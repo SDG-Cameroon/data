@@ -1,12 +1,28 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,PT,2021,,39.9
-2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,PT,2021,,37.5
-2021,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,,PT,2021,,38.6
-2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,R,PT,2014,,55.0
-2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,R,PT,2014,,56.8
-2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,U,PT,2014,,12.2
-2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,,U,PT,2014,,8.9
-2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,F,,PT,2014,,40.2
-2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,F,,PT,2014,,37.7
-2007,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,M,,PT,2014,,39.5
-2014,A,0,C,National_SDG_Report,Proportion of population living below the national poverty line [1.2.1],,M,,PT,2014,,37.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,U,PT,,12.2
+2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,U,PT,,8.9
+2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,R,PT,,55.0
+2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,R,PT,,56.8
+2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,F,,PT,,40.2
+2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,F,,PT,,37.7
+2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,M,,PT,,39.5
+2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,M,,PT,,37.2
+2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,,PT,,39.9
+2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,,PT,,37.5
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,,PT,,37.7
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,U,PT,,21.6
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,R,PT,,56.3
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,F,,PT,,38.0
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,M,,PT,,37.3
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_AD,,,PT,CM_AD,45.1
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_ES,,,PT,CM_ES,41.5
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_EN,,,PT,CM_EN,69.2
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_NO,,,PT,CM_NO,61.1
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_NW,,,PT,CM_NW,66.8
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_OU,,,PT,CM_OU,30.4
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_SU,,,PT,CM_SU,14.9
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_SW,,,PT,CM_SW,20.4
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_DLA,,,PT,CM_DLA,8.3
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_YDE,,,PT,CM_YDE,10.8
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_LT_Sans_DLA,,,PT,CM_LT_Sans_DLA,23.8
+2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_CE_Sans_YDE,,,PT,CM_CE_Sans_YDE,19.1

@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-1998,Normal value,Units,Country Data,National_SDG_Report,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",2018,,511
-2004,Normal value,Units,Country Data,National_SDG_Report,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",2018,,669
-2011,Normal value,Units,Country Data,National_SDG_Report,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",2018,,782
-2018,Normal value,Units,Country Data,National_SDG_Report,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",2018,,467
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+1998,Normal value,Units,Country Data,National Institute of Statistics,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,511
+2004,Normal value,Units,Country Data,National Institute of Statistics,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,669
+2011,Normal value,Units,Country Data,National Institute of Statistics,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,782
+2018,Normal value,Units,Country Data,National Institute of Statistics,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,467

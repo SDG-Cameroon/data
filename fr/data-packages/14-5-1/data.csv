@@ -1,6 +1,6 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2016,A,0,C,National_SDG_Report,"Surface des aires protégées, en proportion de la surperficie nationale (%)",,PT,2016,,20.21
-2016,A,0,C,National_SDG_Report,"Surface des aires protégées (ZIC et ZIC GC), en proportion de la surperficie nationale (%)",,PT,2016,,11.98
-2016,A,0,C,National_SDG_Report,"Surface des aires protégées (Sanctuaires) , en proportion de la surperficie nationale (%)",,PT,2016,,0.22
-2016,A,0,C,National_SDG_Report,"Surface des aires protégées (Réserves de faune), en proportion de la surperficie nationale  (%)",,PT,2016,,1.8
-2016,A,0,C,National_SDG_Report,"Surface des aires protégées (Parcs Nationaux), en proportion de la surperficie nationale  (%)",,PT,2016,,6.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,A,0,C,National_SDG_Report,_L_CM_140501_01,,PT,,20.21
+2016,A,0,C,National_SDG_Report,_L_CM_140501_02,,PT,,11.98
+2016,A,0,C,National_SDG_Report,_L_CM_140501_03,,PT,,0.22
+2016,A,0,C,National_SDG_Report,_L_CM_140501_04,,PT,,1.8
+2016,A,0,C,National_SDG_Report,_L_CM_140501_05,,PT,,6.2

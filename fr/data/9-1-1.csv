@@ -1,12 +1,12 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],,PT,2014,,33.0
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_AD,PT,2014,CM_AD,42.6
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_CE,PT,2014,CM_CE,54.2
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_EN,PT,2014,CM_EN,20.1
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_ES,PT,2014,CM_ES,34.1
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_LT,PT,2014,CM_LT,62.8
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_NO,PT,2014,CM_NO,20.5
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_NW,PT,2014,CM_NW,41.5
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_OU,PT,2014,CM_OU,30.7
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_SU,PT,2014,CM_SU,62.5
-2014,A,0,C,National_SDG_Report,Proportion of the rural population who live within 2Â km of an all-season road [9.1.1],CM_SW,PT,2014,CM_SW,28.7
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,,PT,,33.0
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_AD,PT,CM_AD,42.6
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_CE,PT,CM_CE,54.2
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_ES,PT,CM_ES,34.1
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_EN,PT,CM_EN,20.1
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_LT,PT,CM_LT,62.8
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_NO,PT,CM_NO,20.5
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_NW,PT,CM_NW,41.5
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_OU,PT,CM_OU,30.7
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_SU,PT,CM_SU,62.5
+2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_SW,PT,CM_SW,28.7

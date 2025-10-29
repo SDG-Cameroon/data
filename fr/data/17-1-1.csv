@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2016,A,0,C,National_SDG_Report,Total government revenue as a proportion of GDP [17.1.1],,PT,2018,,14.6
-2017,A,0,C,National_SDG_Report,Total government revenue as a proportion of GDP [17.1.1],,PT,2018,,15.0
-2018,A,0,C,National_SDG_Report,Total government revenue as a proportion of GDP [17.1.1],,PT,2018,,15.7
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,A,0,C,National_SDG_Report,_L_CM_170101_01,,PT,,14.6
+2017,A,0,C,National_SDG_Report,_L_CM_170101_01,,PT,,15.0
+2018,A,0,C,National_SDG_Report,_L_CM_170101_01,,PT,,15.7

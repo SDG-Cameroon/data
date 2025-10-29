@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,2014,,72.3
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,2018,,66.3
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,2018,,63.6
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,2018,,79.4
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,2018,,77.3
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Female,Percent,,66.3
+2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Female,Percent,,63.6
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Male,Percent,,79.4
+2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,Male,Percent,,77.3
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_050b01_01,,,Percent,,72.3

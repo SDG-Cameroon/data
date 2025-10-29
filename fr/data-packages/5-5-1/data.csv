@@ -1,12 +1,12 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2017,A,0,C,National_SDG_Report,Proportion des femmes au sénat (%),,PT,2023,,20.0
-2020,A,0,C,National_SDG_Report,Proportion des femmes au sénat (%),,PT,2023,,26.0
-2023,A,0,C,National_SDG_Report,Proportion des femmes au sénat (%),,PT,2023,,33.0
-2017,A,0,C,National_SDG_Report,Proportion des femmes à l'assemblée nationale (%),,PT,2023,,30.6
-2018,A,0,C,National_SDG_Report,Proportion des femmes à l'assemblée nationale (%),,PT,2023,,31.11
-2023,A,0,C,National_SDG_Report,Proportion des femmes à l'assemblée nationale (%),,PT,2023,,33.89
-2017,A,0,C,National_SDG_Report,Proportion des femmes Maires (%),,PT,2023,,8.3
-2023,A,0,C,National_SDG_Report,Proportion des femmes Maires (%),,PT,2023,,10.16
-2017,A,0,C,National_SDG_Report,Proportion des femmes adjoints au maire (%),,PT,2023,,31.8
-2023,A,0,C,National_SDG_Report,Proportion des femmes adjoints au maire (%),,PT,2023,,34.13
-2015,A,0,C,National_SDG_Report,Proportion des femmes dans la sphère du commandement territorial (%),,PT,2015,,6.0
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2017,A,0,C,National_SDG_Report,_L_CM_050501_01,,PT,,20.0
+2020,A,0,C,National_SDG_Report,_L_CM_050501_01,,PT,,26.0
+2023,A,0,C,National_SDG_Report,_L_CM_050501_01,,PT,,33.0
+2017,A,0,C,National_SDG_Report,_L_CM_050501_02,,PT,,30.6
+2018,A,0,C,National_SDG_Report,_L_CM_050501_02,,PT,,31.11
+2023,A,0,C,National_SDG_Report,_L_CM_050501_02,,PT,,33.89
+2017,A,0,C,National_SDG_Report,_L_CM_050501_03,,PT,,8.3
+2023,A,0,C,National_SDG_Report,_L_CM_050501_03,,PT,,10.16
+2017,A,0,C,National_SDG_Report,_L_CM_050501_04,,PT,,31.8
+2023,A,0,C,National_SDG_Report,_L_CM_050501_04,,PT,,34.13
+2015,A,0,C,National_SDG_Report,_L_CM_050501_05,,PT,,6.0

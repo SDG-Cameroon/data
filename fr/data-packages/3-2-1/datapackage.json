@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National_SDG_Report",
+                "National Institute of Statistics",
                 ""
               ]
             },
@@ -78,17 +78,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "GeoCode",

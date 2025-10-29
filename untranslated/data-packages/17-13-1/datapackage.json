@@ -50,7 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National_SDG_Report",
+                "National Institute of Statistics",
                 ""
               ]
             }
@@ -71,18 +71,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                "2022",
-                "2024",
-                ""
-              ]
-            }
           },
           {
             "name": "GeoCode",

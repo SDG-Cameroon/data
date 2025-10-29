@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
-2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely stunted [2.2.1],,,Percent,2018,,32.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely stunted [2.2.1],,,Percent,2018,,31.7
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely stunted [2.2.1],,,Percent,2018,,29.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely stunted [2.2.1],,Female,Percent,2014,,29.8
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children moderately or severely stunted [2.2.1],,Male,Percent,2014,,33.5
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_020201_01,,Female,Percent,,29.8
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_020201_01,,Male,Percent,,33.5
+2011,Normal value,Units,Country Data,National_SDG_Report,_L_CM_020201_01,,,Percent,,32.5
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_020201_01,,,Percent,,31.7
+2018,Normal value,Units,Country Data,National_SDG_Report,_L_CM_020201_01,,,Percent,,29.0

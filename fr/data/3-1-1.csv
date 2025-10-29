@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-1998,A,0,C,National_SDG_Report,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,511
-2004,A,0,C,National_SDG_Report,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,669
-2011,A,0,C,National_SDG_Report,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,782
-2018,A,0,C,National_SDG_Report,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_1000_LIVE_BIRTHS,2018,,467
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+1998,A,0,C,National Institute of Statistics,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_100000_LIVE_BIRTHS,,511
+2004,A,0,C,National Institute of Statistics,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_100000_LIVE_BIRTHS,,669
+2011,A,0,C,National Institute of Statistics,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_100000_LIVE_BIRTHS,,782
+2018,A,0,C,National Institute of Statistics,Taux de mortalité maternelle (pour 100 000 naissances vivantes),,PER_100000_LIVE_BIRTHS,,467

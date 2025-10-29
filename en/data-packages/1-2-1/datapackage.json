@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National_SDG_Report",
+                "National Institute of Statistics",
                 ""
               ]
             },
@@ -66,9 +66,21 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ADAMAWA",
+                "EAST",
+                "FAR NORTH",
+                "North",
+                "North West",
+                "West",
+                "South",
+                "South-West",
+                "Douala",
+                "Yaounde",
+                "Littoral Excluding Douala",
+                "Centre Excluding Yaounde",
                 ""
               ]
             },
@@ -91,8 +103,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
                 "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -104,20 +116,8 @@
             "title": "Unit of measure"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                "2014",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
             "name": "GeoCode",
-            "type": "number",
+            "type": "string",
             "title": "GeoCode"
           },
           {

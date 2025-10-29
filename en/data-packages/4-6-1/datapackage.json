@@ -91,8 +91,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
                 "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -104,25 +104,13 @@
             "title": "Unit of measure"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
-                "2014",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

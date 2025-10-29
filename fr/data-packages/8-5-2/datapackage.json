@@ -53,6 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "National Institute of Statistics",
                 "National_SDG_Report",
                 ""
               ]
@@ -66,9 +67,21 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "CM_AD",
+                "CM_ES",
+                "CM_EN",
+                "CM_NO",
+                "CM_NW",
+                "CM_OU",
+                "CM_SU",
+                "CM_SW",
+                "CM_DLA",
+                "CM_YDE",
+                "CM_LT_Sans_DLA",
+                "CM_CE_Sans_YDE",
                 ""
               ]
             },
@@ -91,8 +104,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
                 "U",
+                "R",
                 ""
               ]
             },
@@ -104,20 +117,8 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016",
-                "2014",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "GeoCode",
-            "type": "number",
+            "type": "string",
             "title": "GeoCode"
           },
           {

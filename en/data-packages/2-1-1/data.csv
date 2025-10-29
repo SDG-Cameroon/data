@@ -1,3 +1,3 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2002,Normal value,Units,Country Data,National_SDG_Report,Prevalence of undernourishment [2.1.1],,Percent,2016,,30.8
-2016,Normal value,Units,Country Data,National_SDG_Report,Prevalence of undernourishment [2.1.1],,Percent,2016,,9.9
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2002,Normal value,Units,Country Data,National_SDG_Report,Prevalence of undernourishment [2.1.1],,Percent,,30.8
+2016,Normal value,Units,Country Data,National_SDG_Report,Prevalence of undernourishment [2.1.1],,Percent,,9.9

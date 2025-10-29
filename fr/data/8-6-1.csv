@@ -1,6 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,PT,2014,,0.4
-2014,A,0,C,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,R,PT,2014,,0.4
-2014,A,0,C,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,U,PT,2014,,0.4
-2014,A,0,C,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,F,,PT,2014,,0.5
-2014,A,0,C,National_SDG_Report,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,M,,PT,2014,,0.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,,U,PT,,0.4
+2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,,R,PT,,0.4
+2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,F,,PT,,0.5
+2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,M,,PT,,0.2
+2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,,,PT,,0.4
+2021,A,0,C,National_SDG_Report,_L_CM_080601_01,,,,PT,,3.6

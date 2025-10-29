@@ -1,37 +1,19 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",,,PT,2016,,20.1
-2016,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",,,PT,2016,,21.9
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",,R,PT,2016,,3.8
-2016,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",,R,PT,2016,,3.7
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",,U,PT,2016,,44.1
-2016,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",,U,PT,2016,,53.2
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_AD,,PT,2014,CM_AD,9.6
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_CE_Sans_YDE,,PT,2014,CM_CE_Sans_YDE,12.5
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_DLA,,PT,2014,CM_DLA,55.2
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_EN,,PT,2014,CM_EN,1.2
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_ES,,PT,2014,CM_ES,5.4
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_LT_Sans_DLA,,PT,2014,CM_LT_Sans_DLA,16.7
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_NO,,PT,2014,CM_NO,2.5
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_NW,,PT,2014,CM_NW,8.4
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_OU,,PT,2014,CM_OU,7.0
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_SU,,PT,2014,CM_SU,15.7
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_SW,,PT,2014,CM_SW,23.5
-2014,A,0,C,National_SDG_Report,"""Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz",CM_YDE,,PT,2014,CM_YDE,59.0
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],,,PT,2016,,58.4
-2016,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],,,PT,2016,,53.0
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],,R,PT,2016,,32.8
-2016,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],,R,PT,2016,,28.4
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],,U,PT,2016,,96.2
-2016,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],,U,PT,2016,,95.4
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_AD,,PT,2014,CM_AD,41.5
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_CE_Sans_YDE,,PT,2014,CM_CE_Sans_YDE,69.1
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_DLA,,PT,2014,CM_DLA,98.4
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_EN,,PT,2014,CM_EN,22.1
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_ES,,PT,2014,CM_ES,33.0
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_LT_Sans_DLA,,PT,2014,CM_LT_Sans_DLA,80.1
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_NO,,PT,2014,CM_NO,23.0
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_NW,,PT,2014,CM_NW,49.6
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_OU,,PT,2014,CM_OU,68.9
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_SU,,PT,2014,CM_SU,72.3
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_SW,,PT,2014,CM_SW,66.1
-2014,A,0,C,National_SDG_Report,Proportion of population with access to electricity [7.1.1],CM_YDE,,PT,2014,CM_YDE,99.1
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,,U,PT,,96.2
+2016,A,0,C,National_SDG_Report,_L_CM_070101_01,,U,PT,,95.4
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,,R,PT,,32.8
+2016,A,0,C,National_SDG_Report,_L_CM_070101_01,,R,PT,,28.4
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,,,PT,,58.4
+2016,A,0,C,National_SDG_Report,_L_CM_070101_01,,,PT,,53.0
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_AD,,PT,CM_AD,41.5
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_ES,,PT,CM_ES,33.0
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_EN,,PT,CM_EN,22.1
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_NO,,PT,CM_NO,23.0
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_NW,,PT,CM_NW,49.6
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_OU,,PT,CM_OU,68.9
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_SU,,PT,CM_SU,72.3
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_SW,,PT,CM_SW,66.1
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_CE_Sans_YDE,,PT,CM_CE_Sans_YDE,69.1
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_LT_Sans_DLA,,PT,CM_LT_Sans_DLA,80.1
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_YDE,,PT,CM_YDE,99.1
+2014,A,0,C,National_SDG_Report,_L_CM_070101_01,CM_DLA,,PT,CM_DLA,98.4

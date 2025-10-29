@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,PT,2014,,66.1
-2014,A,0,C,National_SDG_Report,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,R,PT,2014,,53.1
-2014,A,0,C,National_SDG_Report,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,U,PT,2014,,84.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_160901_01,,U,PT,,84.2
+2014,A,0,C,National_SDG_Report,_L_CM_160901_01,,R,PT,,53.1
+2014,A,0,C,National_SDG_Report,_L_CM_160901_01,,,PT,,66.1

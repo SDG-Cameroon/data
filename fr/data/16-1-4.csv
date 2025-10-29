@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,Proportion d’adultes qui assurent se sentir globalement en sécurité (%),,,PT,2014,,26.9
-2014,A,0,C,National_SDG_Report,Proportion d’adultes qui assurent se sentir globalement en sécurité (%),,F,PT,2014,,23.9
-2014,A,0,C,National_SDG_Report,Proportion d’adultes qui assurent se sentir globalement en sécurité (%),,M,PT,2014,,30.3
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_160104_01,,F,PT,,23.9
+2014,A,0,C,National_SDG_Report,_L_CM_160104_01,,M,PT,,30.3
+2014,A,0,C,National_SDG_Report,_L_CM_160104_01,,,PT,,26.9

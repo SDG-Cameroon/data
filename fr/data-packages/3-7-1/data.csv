@@ -1,11 +1,11 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,,,PT,2018,,21.0
-2018,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,,,PT,2018,,19.3
-2014,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,,AGG_2_3,PT,2014,,28.8
-2014,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,,AGG_5T8,PT,2014,,36.3
-2014,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,,ISCED11_1,PT,2014,,21.9
-2014,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,,ISCED11A_01,PT,2014,,9.9
-2014,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,R,,PT,2018,,16.3
-2018,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,R,,PT,2018,,13.1
-2014,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,U,,PT,2018,,26.7
-2018,A,0,C,National_SDG_Report,Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale (n'importe quelle méthode moderne)( %),,U,,PT,2018,,26.1
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_030701_01,,U,,PT,,26.7
+2018,A,0,C,National_SDG_Report,_L_CM_030701_01,,U,,PT,,26.1
+2014,A,0,C,National_SDG_Report,_L_CM_030701_01,,R,,PT,,16.3
+2018,A,0,C,National_SDG_Report,_L_CM_030701_01,,R,,PT,,13.1
+2014,A,0,C,National_SDG_Report,_L_CM_030701_01,,,ISCED11A_01,PT,,9.9
+2014,A,0,C,National_SDG_Report,_L_CM_030701_01,,,ISCED11_1,PT,,21.9
+2014,A,0,C,National_SDG_Report,_L_CM_030701_01,,,AGG_2_3,PT,,28.8
+2014,A,0,C,National_SDG_Report,_L_CM_030701_01,,,AGG_5T8,PT,,36.3
+2014,A,0,C,National_SDG_Report,_L_CM_030701_01,,,,PT,,21.0
+2018,A,0,C,National_SDG_Report,_L_CM_030701_01,,,,PT,,19.3

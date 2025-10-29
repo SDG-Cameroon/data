@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National_SDG_Report",
+                "National Institute of Statistics",
                 ""
               ]
             },
@@ -79,8 +79,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
                 "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -91,10 +91,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Never attended an education programme / No schooling",
+                "Primary education",
                 "Secondary education (lower and upper secondary education)",
                 "Tertiary education",
-                "Primary education",
-                "Never attended an education programme / No schooling",
                 ""
               ]
             },
@@ -104,18 +104,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018",
-                "2014",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "GeoCode",

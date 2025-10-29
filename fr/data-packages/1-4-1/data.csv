@@ -1,11 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,PT,2016,,33.4
-2016,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,PT,2016,,63.0
-2014,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,R,PT,2016,,14.9
-2016,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,R,PT,2016,,16.3
-2014,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,U,PT,2016,,60.8
-2016,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,U,PT,2016,,90.5
-2014,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'electricité (%),,,PT,2016,,58.4
-2016,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'electricité (%),,,PT,2016,,53.0
-2014,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'electricité (%),,R,PT,2014,,31.7
-2014,A,0,C,National_SDG_Report,Proportion de la population vivant dans des ménages ayant accès à l'electricité (%),,U,PT,2014,,96.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,U,PT,,60.8
+2016,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,U,PT,,90.5
+2014,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,R,PT,,14.9
+2016,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,R,PT,,16.3
+2014,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,,PT,,33.4
+2016,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,,PT,,63.0
+2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,,PT,,79.7
+2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,F,,PT,,79.8
+2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,M,,PT,,79.7
+2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,U,PT,,91.2
+2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,R,PT,,65.1
+2014,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,U,PT,,96.2
+2014,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,R,PT,,31.7
+2014,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,,PT,,58.4
+2016,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,,PT,,53.0
+2021,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,,PT,,59.1

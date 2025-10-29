@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2024],"Observation status":["Normal value"],"Unit multiplier":["Units"],"Nature of data points":["Country Data"],"Source details":["OpenData Watch"],"SERIES":["Open Data Inventory (ODIN) Coverage Index [17.18.1]"],"Reference area":[null],"UNIT_MEASURE":["Percent"],"GeoCode":[null],"Value":[53]},"edges":{"From":["Nature of data points"],"To":["Source details"]}}

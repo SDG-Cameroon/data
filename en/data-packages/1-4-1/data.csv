@@ -1,11 +1,17 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to potable water (%),,,Percent,2016,,33.4
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to potable water (%),,,Percent,2016,,63.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to potable water (%),,Rural,Percent,2016,,14.9
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to potable water (%),,Rural,Percent,2016,,16.3
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to potable water (%),,Urban,Percent,2016,,60.8
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to potable water (%),,Urban,Percent,2016,,90.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to electricity (%),,,Percent,2016,,58.4
-2016,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to electricity (%),,,Percent,2016,,53.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to electricity (%),,Rural,Percent,2014,,31.7
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population living in households with access to electricity (%),,Urban,Percent,2014,,96.2
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,Urban,Percent,,60.8
+2016,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,Urban,Percent,,90.5
+2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,Rural,Percent,,14.9
+2016,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,Rural,Percent,,16.3
+2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,,Percent,,33.4
+2016,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,,Percent,,63.0
+2021,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,,Percent,,79.7
+2021,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,Female,,Percent,,79.8
+2021,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,Male,,Percent,,79.7
+2021,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,Urban,Percent,,91.2
+2021,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_01,,,Rural,Percent,,65.1
+2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_02,,,Urban,Percent,,96.2
+2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_02,,,Rural,Percent,,31.7
+2014,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_02,,,,Percent,,58.4
+2016,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_02,,,,Percent,,53.0
+2021,Normal value,Units,Country Data,National Institute of Statistics,_L_CM_010401_02,,,,Percent,,59.1

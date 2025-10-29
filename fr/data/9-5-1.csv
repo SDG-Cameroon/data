@@ -1,17 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2007,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.1
-2010,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.05
-2011,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.07
-2012,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.06
-2013,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.08
-2014,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.08
-2015,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.08
-2016,A,0,C,National_SDG_Report,Part de la Recherche-Développement (R&D) au PIB (%),,PT,2016,,0.09
-2007,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.5
-2010,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.2
-2011,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.3
-2012,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.22
-2013,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.32
-2014,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.32
-2015,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.33
-2016,A,0,C,National_SDG_Report,Part de la R&D à l’investissement global (en %),,PT,2016,,0.42
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2007,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.1
+2010,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.05
+2011,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.07
+2012,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.06
+2013,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.08
+2014,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.08
+2015,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.08
+2016,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.09
+2007,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.5
+2010,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.2
+2011,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.3
+2012,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.22
+2013,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.32
+2014,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.32
+2015,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.33
+2016,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.42

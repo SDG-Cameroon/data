@@ -1,14 +1,49 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,,,PT,2016,,3.3
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,,,PT,2016,,2.6
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,,R,PT,2016,,0.9
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,,R,PT,2016,,0.6
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,,U,PT,2016,,7.1
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,,U,PT,2016,,6.7
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,F,,PT,2016,,3.8
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,F,,PT,2016,,3.0
-2014,A,0,C,National_SDG_Report,_L_CM_080502_1,,M,,PT,2016,,2.9
-2016,A,0,C,National_SDG_Report,_L_CM_080502_1,,M,,PT,2016,,2.3
-2014,A,0,C,National_SDG_Report,_L_CM_080502_2,,,,PT,2016,,6.3
-2016,A,0,C,National_SDG_Report,_L_CM_080502_2,,,,PT,2016,,6.3
-2014,A,0,C,National_SDG_Report,_L_CM_080502_3,,,,PT,2014,,77.6
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,U,PT,,7.1
+2016,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,U,PT,,6.7
+2014,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,R,PT,,0.9
+2016,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,R,PT,,0.6
+2014,A,0,C,National Institute of Statistics,_L_CM_080502_01,,F,,PT,,3.8
+2016,A,0,C,National Institute of Statistics,_L_CM_080502_01,,F,,PT,,3.0
+2014,A,0,C,National Institute of Statistics,_L_CM_080502_01,,M,,PT,,2.9
+2016,A,0,C,National Institute of Statistics,_L_CM_080502_01,,M,,PT,,2.3
+2014,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,,PT,,3.3
+2016,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,,PT,,2.6
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,,PT,,3.8
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_AD,,,PT,CM_AD,4.3
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_ES,,,PT,CM_ES,3.0
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_EN,,,PT,CM_EN,0.4
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_NO,,,PT,CM_NO,1.8
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_NW,,,PT,CM_NW,3.6
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_OU,,,PT,CM_OU,1.8
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_SU,,,PT,CM_SU,5.5
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_SW,,,PT,CM_SW,4.4
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_DLA,,,PT,CM_DLA,9.1
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_YDE,,,PT,CM_YDE,10.0
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_LT_Sans_DLA,,,PT,CM_LT_Sans_DLA,2.0
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_CE_Sans_YDE,,,PT,CM_CE_Sans_YDE,1.5
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,,F,,PT,,4.5
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,,M,,PT,,3.1
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,U,PT,,8.1
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,R,PT,,1.4
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,,PT,,6.1
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_AD,,,PT,CM_AD,1.8
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_ES,,,PT,CM_ES,1.6
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_EN,,,PT,CM_EN,1.6
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_NO,,,PT,CM_NO,1.8
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_NW,,,PT,CM_NW,5.1
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_OU,,,PT,CM_OU,5.5
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_SU,,,PT,CM_SU,2.2
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_SW,,,PT,CM_SW,8.0
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_DLA,,,PT,CM_DLA,15.4
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_YDE,,,PT,CM_YDE,11.7
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_LT_Sans_DLA,,,PT,CM_LT_Sans_DLA,7.3
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,CM_CE_Sans_YDE,,,PT,CM_CE_Sans_YDE,2.9
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,,F,,PT,,7.5
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,,M,,PT,,5.1
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,U,PT,,9.4
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_01,,,R,PT,,1.6
+2005,A,0,C,National Institute of Statistics,_L_CM_080502_02,,,,PT,,7.6
+2010,A,0,C,National Institute of Statistics,_L_CM_080502_02,,,,PT,,6.4
+2021,A,0,C,National Institute of Statistics,_L_CM_080502_02,,,,PT,,10.1
+2014,A,0,C,National_SDG_Report,_L_CM_080502_03,,,,PT,,77.6

@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Biomass) (%),,Percent,2014,,64.4
-2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Hydropower) (%),,Percent,2014,,5.7
-2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Fossil fuel) (%),,Percent,2014,,30.0
-2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Petroleum products) (%),,Percent,2014,,22.5
-2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Gas) (%),,Percent,2014,,5.3
+Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_120402_01,,Percent,,64.4
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_120402_02,,Percent,,5.7
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_120402_03,,Percent,,30.0
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_120402_04,,Percent,,22.5
+2014,Normal value,Units,Country Data,National_SDG_Report,_L_CM_120402_05,,Percent,,5.3

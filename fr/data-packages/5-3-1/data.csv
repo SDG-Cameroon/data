@@ -1,17 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,,PT,2018,,10.2
-2018,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,,PT,2018,,10.7
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,AGG_2_3,PT,2014,,3.6
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,AGG_5T8,PT,2014,,0.4
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,ISCED11_1,PT,2014,,19.0
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,ISCED11A_01,PT,2014,,21.7
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,R,,PT,2014,,16.1
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,U,,PT,2014,,5.3
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,,PT,2018,,31.0
-2018,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,,PT,2018,,29.8
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,AGG_2_3,PT,2014,,15.9
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,AGG_5T8,PT,2014,,0.8
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,ISCED11_1,PT,2014,,49.6
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,ISCED11A_01,PT,2014,,59.4
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,R,,PT,2014,,43.3
-2014,A,0,C,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,U,,PT,2014,,20.8
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,U,,PT,,5.3
+2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,R,,PT,,16.1
+2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,ISCED11A_01,PT,,21.7
+2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,ISCED11_1,PT,,19.0
+2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,AGG_2_3,PT,,3.6
+2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,AGG_5T8,PT,,0.4
+2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,,PT,,10.2
+2018,A,0,C,National_SDG_Report,_L_CM_050301_01,,,,PT,,10.7
+2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,U,,PT,,20.8
+2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,R,,PT,,43.3
+2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,ISCED11A_01,PT,,59.4
+2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,ISCED11_1,PT,,49.6
+2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,AGG_2_3,PT,,15.9
+2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,AGG_5T8,PT,,0.8
+2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,,PT,,31.0
+2018,A,0,C,National_SDG_Report,_L_CM_050301_02,,,,PT,,29.8

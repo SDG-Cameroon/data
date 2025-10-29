@@ -1,9 +1,9 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,C,National_SDG_Report,"Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences sexuelles, physiques ou emotionnelles/psychologiques (%)",,PT,2018,,52.6
-2018,A,0,C,National_SDG_Report,"Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences sexuelles, physiques ou emotionnelles/psychologiques (%)",,PT,2018,,31.5
-2014,A,0,C,National_SDG_Report,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,PT,2018,,30.8
-2018,A,0,C,National_SDG_Report,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,PT,2018,,19.6
-2014,A,0,C,National_SDG_Report,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,PT,2018,,47.2
-2018,A,0,C,National_SDG_Report,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,PT,2018,,22.4
-2014,A,0,C,National_SDG_Report,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,PT,2018,,13.5
-2018,A,0,C,National_SDG_Report,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,PT,2018,,6.9
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2014,A,0,C,National_SDG_Report,_L_CM_050201_01,,PT,,52.6
+2018,A,0,C,National_SDG_Report,_L_CM_050201_01,,PT,,31.5
+2014,A,0,C,National_SDG_Report,_L_CM_050201_02,,PT,,13.5
+2018,A,0,C,National_SDG_Report,_L_CM_050201_02,,PT,,6.9
+2014,A,0,C,National_SDG_Report,_L_CM_050201_03,,PT,,30.8
+2018,A,0,C,National_SDG_Report,_L_CM_050201_03,,PT,,19.6
+2014,A,0,C,National_SDG_Report,_L_CM_050201_04,,PT,,47.2
+2018,A,0,C,National_SDG_Report,_L_CM_050201_04,,PT,,22.4
