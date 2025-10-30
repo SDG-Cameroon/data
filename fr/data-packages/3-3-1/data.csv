@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2018,A,0,C,National_SDG_Report,_L_CM_030301_01,,F,PT,,3.4
-2018,A,0,C,National_SDG_Report,_L_CM_030301_01,,M,PT,,1.9
-2004,A,0,C,National_SDG_Report,_L_CM_030301_01,,,PT,,5.5
-2011,A,0,C,National_SDG_Report,_L_CM_030301_01,,,PT,,4.3
-2014,A,0,C,National_SDG_Report,_L_CM_030301_01,,,PT,,3.4
-2018,A,0,C,National_SDG_Report,_L_CM_030301_01,,,PT,,2.7
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2018,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du VIH (%),,Féminin,Pour cent,,3.4
+2018,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du VIH (%),,Masculin,Pour cent,,1.9
+2004,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du VIH (%),,,Pour cent,,5.5
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du VIH (%),,,Pour cent,,4.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du VIH (%),,,Pour cent,,3.4
+2018,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du VIH (%),,,Pour cent,,2.7

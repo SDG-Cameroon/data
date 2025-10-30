@@ -1,14 +1,14 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2015,A,0,C,National_SDG_Report,_L_CM_040101_01,,F,PT,,72.8
-2016,A,0,C,National_SDG_Report,_L_CM_040101_01,,F,PT,,72.6
-2015,A,0,C,National_SDG_Report,_L_CM_040101_01,,M,PT,,79.7
-2016,A,0,C,National_SDG_Report,_L_CM_040101_01,,M,PT,,79.4
-2015,A,0,C,National_SDG_Report,_L_CM_040101_01,,,PT,,76.3
-2016,A,0,C,National_SDG_Report,_L_CM_040101_01,,,PT,,76.7
-2017,A,0,C,National_SDG_Report,_L_CM_040101_01,,,PT,,72.5
-2015,A,0,C,National_SDG_Report,_L_CM_040101_02,,F,PT,,48.9
-2015,A,0,C,National_SDG_Report,_L_CM_040101_02,,M,PT,,57.4
-2015,A,0,C,National_SDG_Report,_L_CM_040101_02,,,PT,,53.2
-2015,A,0,C,National_SDG_Report,_L_CM_040101_03,,F,PT,,55.9
-2015,A,0,C,National_SDG_Report,_L_CM_040101_03,,M,PT,,62.6
-2015,A,0,C,National_SDG_Report,_L_CM_040101_03,,,PT,,59.3
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au cycle primaire (%),,Féminin,Pour cent,,72.8
+2016,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au cycle primaire (%),,Féminin,Pour cent,,72.6
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au cycle primaire (%),,Masculin,Pour cent,,79.7
+2016,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au cycle primaire (%),,Masculin,Pour cent,,79.4
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au cycle primaire (%),,,Pour cent,,76.3
+2016,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au cycle primaire (%),,,Pour cent,,76.7
+2017,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au cycle primaire (%),,,Pour cent,,72.5
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au 1er cycle secondaire Enseignement Général (%),,Féminin,Pour cent,,48.9
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au 1er cycle secondaire Enseignement Général (%),,Masculin,Pour cent,,57.4
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au 1er cycle secondaire Enseignement Général (%),,,Pour cent,,53.2
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au 1er cycle secondaire Enseignement Technique (%),,Féminin,Pour cent,,55.9
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au 1er cycle secondaire Enseignement Technique (%),,Masculin,Pour cent,,62.6
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux d’achèvement au 1er cycle secondaire Enseignement Technique (%),,,Pour cent,,59.3

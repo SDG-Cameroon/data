@@ -1,16 +1,16 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_080701_01,,,U,PT,,7.4
-2016,A,0,C,National_SDG_Report,_L_CM_080701_01,,,U,PT,,7.6
-2014,A,0,C,National_SDG_Report,_L_CM_080701_01,,,R,PT,,22.3
-2016,A,0,C,National_SDG_Report,_L_CM_080701_01,,,R,PT,,32.0
-2014,A,0,C,National_SDG_Report,_L_CM_080701_01,,F,,PT,,16.2
-2016,A,0,C,National_SDG_Report,_L_CM_080701_01,,F,,PT,,22.7
-2014,A,0,C,National_SDG_Report,_L_CM_080701_01,,M,,PT,,17.8
-2016,A,0,C,National_SDG_Report,_L_CM_080701_01,,M,,PT,,25.2
-2014,A,0,C,National_SDG_Report,_L_CM_080701_01,,,,PT,,17.0
-2016,A,0,C,National_SDG_Report,_L_CM_080701_01,,,,PT,,24.0
-2014,A,0,C,National_SDG_Report,_L_CM_080701_02,,,U,NUMBER,,7232.0
-2014,A,0,C,National_SDG_Report,_L_CM_080701_02,,,R,NUMBER,,8357.0
-2014,A,0,C,National_SDG_Report,_L_CM_080701_02,,F,,NUMBER,,7779.0
-2014,A,0,C,National_SDG_Report,_L_CM_080701_02,,M,,NUMBER,,7810.0
-2014,A,0,C,National_SDG_Report,_L_CM_080701_02,,,,NUMBER,,15589.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,,Urbain,Pour cent,,7.4
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,,Urbain,Pour cent,,7.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,,Rural,Pour cent,,22.3
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,,Rural,Pour cent,,32.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,Féminin,,Pour cent,,16.2
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,Féminin,,Pour cent,,22.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,Masculin,,Pour cent,,17.8
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,Masculin,,Pour cent,,25.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,,,Pour cent,,17.0
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 5 à 17 ans qui travaillent (%),,,,Pour cent,,24.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Effectifs des enfants de 5 à 17 ans qui travaillent,,,Urbain,Nombre,,7232.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Effectifs des enfants de 5 à 17 ans qui travaillent,,,Rural,Nombre,,8357.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Effectifs des enfants de 5 à 17 ans qui travaillent,,Féminin,,Nombre,,7779.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Effectifs des enfants de 5 à 17 ans qui travaillent,,Masculin,,Nombre,,7810.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Effectifs des enfants de 5 à 17 ans qui travaillent,,,,Nombre,,15589.0

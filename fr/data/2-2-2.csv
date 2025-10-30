@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2011,A,0,C,National_SDG_Report,_L_CM_020202_01,,PT,,5.6
-2014,A,0,C,National_SDG_Report,_L_CM_020202_01,,PT,,5.2
-2018,A,0,C,National_SDG_Report,_L_CM_020202_01,,PT,,6.0
-2011,A,0,C,National_SDG_Report,_L_CM_020202_02,,PT,,6.2
-2014,A,0,C,National_SDG_Report,_L_CM_020202_02,,PT,,6.7
-2018,A,0,C,National_SDG_Report,_L_CM_020202_02,,PT,,11.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de moins de 5 ans souffrant d'émaciation (%),,Pour cent,,5.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de moins de 5 ans souffrant d'émaciation (%),,Pour cent,,5.2
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de moins de 5 ans souffrant d'émaciation (%),,Pour cent,,6.0
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de moins de 5 ans en surpoids (%),,Pour cent,,6.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de moins de 5 ans en surpoids (%),,Pour cent,,6.7
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de moins de 5 ans en surpoids (%),,Pour cent,,11.0

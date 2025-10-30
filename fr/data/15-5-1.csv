@@ -1,3 +1,3 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,A,0,C,National_SDG_Report,_L_CM_150501_01,,NUMBER,,106
-2016,A,0,C,National_SDG_Report,_L_CM_150501_02,,NUMBER,,132
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2016,Valeur Normale,Unité,C,National_SDG_Report,Nombre d'espèces animales en danger,,Nombre,,106
+2016,Valeur Normale,Unité,C,National_SDG_Report,Nombre d'espèces végétale en danger,,Nombre,,132

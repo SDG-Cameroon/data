@@ -20,22 +20,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -69,25 +69,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_CE",
-                "CM_ES",
-                "CM_EN",
-                "CM_LT",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
+                "ADAMAOUA",
+                "CENTRE",
+                "EST",
+                "Extrême-Nord",
+                "LITTORAL",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",

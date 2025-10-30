@@ -1,12 +1,12 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2011,A,0,C,National_SDG_Report,_L_CM_010402_01,,U,PT,,36.7
-2011,A,0,C,National_SDG_Report,_L_CM_010402_02,,R,PT,,80.6
-2011,A,0,C,National_SDG_Report,_L_CM_010402_03,,U,PT,,13.0
-2011,A,0,C,National_SDG_Report,_L_CM_010402_03,,R,PT,,7.0
-2011,A,0,C,National_SDG_Report,_L_CM_010402_03,,,PT,,9.8
-2011,A,0,C,National_SDG_Report,_L_CM_010402_04,,U,PT,,44.8
-2011,A,0,C,National_SDG_Report,_L_CM_010402_04,,R,PT,,82.5
-2011,A,0,C,National_SDG_Report,_L_CM_010402_04,,,PT,,64.7
-2011,A,0,C,National_SDG_Report,_L_CM_010402_05,,U,PT,,4.7
-2011,A,0,C,National_SDG_Report,_L_CM_010402_05,,R,PT,,2.4
-2011,A,0,C,National_SDG_Report,_L_CM_010402_05,,,PT,,3.5
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de ménages propriétaires de leur logement sans un titre foncier,,Urbain,Pour cent,,36.7
+2011,Valeur Normale,Unité,C,National_SDG_Report,Pourcentage de femmes âgées de 15-49 ans qui sont propriétaires d'une maison sans titre foncier,,Rural,Pour cent,,80.6
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale pensant qu'elle risque d'être expulsée de son logement (%),,Urbain,Pour cent,,13.0
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale pensant qu'elle risque d'être expulsée de son logement (%),,Rural,Pour cent,,7.0
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale pensant qu'elle risque d'être expulsée de son logement (%),,,Pour cent,,9.8
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale dont le ménage ne dispose pas d'un logement sûr (%),,Urbain,Pour cent,,44.8
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale dont le ménage ne dispose pas d'un logement sûr (%),,Rural,Pour cent,,82.5
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale dont le ménage ne dispose pas d'un logement sûr (%),,,Pour cent,,64.7
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale expulsée de son logement au cours des 5 dernières années (%),,Urbain,Pour cent,,4.7
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale expulsée de son logement au cours des 5 dernières années (%),,Rural,Pour cent,,2.4
+2011,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population adulte totale expulsée de son logement au cours des 5 dernières années (%),,,Pour cent,,3.5

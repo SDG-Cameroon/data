@@ -1,17 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,U,PT,,60.8
-2016,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,U,PT,,90.5
-2014,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,R,PT,,14.9
-2016,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,R,PT,,16.3
-2014,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,,PT,,33.4
-2016,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,,PT,,63.0
-2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,,PT,,79.7
-2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,F,,PT,,79.8
-2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,M,,PT,,79.7
-2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,U,PT,,91.2
-2021,A,0,C,National Institute of Statistics,_L_CM_010401_01,,,R,PT,,65.1
-2014,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,U,PT,,96.2
-2014,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,R,PT,,31.7
-2014,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,,PT,,58.4
-2016,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,,PT,,53.0
-2021,A,0,C,National Institute of Statistics,_L_CM_010401_02,,,,PT,,59.1
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,Urbain,Pour cent,,60.8
+2016,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,Urbain,Pour cent,,90.5
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,Rural,Pour cent,,14.9
+2016,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,Rural,Pour cent,,16.3
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,,Pour cent,,33.4
+2016,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,,Pour cent,,63.0
+2021,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,,Pour cent,,79.7
+2021,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,Féminin,,Pour cent,,79.8
+2021,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,Masculin,,Pour cent,,79.7
+2021,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,Urbain,Pour cent,,91.2
+2021,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'eau potable (%),,,Rural,Pour cent,,65.1
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'électricité (%),,,Urbain,Pour cent,,96.2
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'électricité (%),,,Rural,Pour cent,,31.7
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'électricité (%),,,,Pour cent,,58.4
+2016,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'électricité (%),,,,Pour cent,,53.0
+2021,Valeur Normale,Unité,C,National Institute of Statistics,Proportion de la population vivant dans des ménages ayant accès à l'électricité (%),,,,Pour cent,,59.1

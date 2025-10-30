@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_060101_01,,U,PT,,93.2
-2016,A,0,C,National_SDG_Report,_L_CM_060101_01,,U,PT,,97.7
-2014,A,0,C,National_SDG_Report,_L_CM_060101_01,,R,PT,,54.2
-2016,A,0,C,National_SDG_Report,_L_CM_060101_01,,R,PT,,59.3
-2014,A,0,C,National_SDG_Report,_L_CM_060101_01,,,PT,,72.9
-2016,A,0,C,National_SDG_Report,_L_CM_060101_01,,,PT,,73.4
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population utilisant de l’eau de boisson de  source améliorée (%),,Urbain,Pour cent,,93.2
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population utilisant de l’eau de boisson de  source améliorée (%),,Urbain,Pour cent,,97.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population utilisant de l’eau de boisson de  source améliorée (%),,Rural,Pour cent,,54.2
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population utilisant de l’eau de boisson de  source améliorée (%),,Rural,Pour cent,,59.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population utilisant de l’eau de boisson de  source améliorée (%),,,Pour cent,,72.9
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population utilisant de l’eau de boisson de  source améliorée (%),,,Pour cent,,73.4

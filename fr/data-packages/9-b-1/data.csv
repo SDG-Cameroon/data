@@ -1,9 +1,9 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2009,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.77
-2010,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.56
-2011,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.8
-2012,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.87
-2013,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.72
-2014,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.72
-2015,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.65
-2016,A,0,C,National_SDG_Report,_L_CM_090b01_01,,PT,,3.89
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2009,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.77
+2010,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.56
+2011,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.8
+2012,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.87
+2013,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.72
+2014,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.72
+2015,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.65
+2016,Valeur Normale,Unité,C,National_SDG_Report,Part de la valeur ajoutée des secteurs de moyenne et haute technologie dans le PIB (en %),,Pour cent,,3.89

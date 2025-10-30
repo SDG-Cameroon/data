@@ -1,35 +1,35 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,,U,PT,,44.1
-2016,A,0,C,National_SDG_Report,_L_CM_070102_01,,U,PT,,53.2
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,,R,PT,,3.8
-2016,A,0,C,National_SDG_Report,_L_CM_070102_01,,R,PT,,3.7
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,,,PT,,20.1
-2016,A,0,C,National_SDG_Report,_L_CM_070102_01,,,PT,,21.9
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_AD,,PT,CM_AD,9.6
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_ES,,PT,CM_ES,5.4
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_EN,,PT,CM_EN,1.2
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_NO,,PT,CM_NO,2.5
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_NW,,PT,CM_NW,8.4
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_OU,,PT,CM_OU,7.0
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_SU,,PT,CM_SU,15.7
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_SW,,PT,CM_SW,23.5
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_CE_Sans_YDE,,PT,CM_CE_Sans_YDE,12.5
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_LT_Sans_DLA,,PT,CM_LT_Sans_DLA,16.7
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_YDE,,PT,CM_YDE,59.0
-2014,A,0,C,National_SDG_Report,_L_CM_070102_01,CM_DLA,,PT,CM_DLA,55.2
-2021,A,0,C,National_SDG_Report,_L_CM_070102_01,,,PT,,25.1
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,,U,PT,,41.0
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,,R,PT,,92.7
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,,,PT,,71.9
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_AD,,PT,CM_AD,83.6
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_ES,,PT,CM_ES,90.3
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_EN,,PT,CM_EN,93.8
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_NO,,PT,CM_NO,93.2
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_NW,,PT,CM_NW,88.7
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_OU,,PT,CM_OU,88.7
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_SU,,PT,CM_SU,77.9
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_SW,,PT,CM_SW,69.6
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_CE_Sans_YDE,,PT,CM_CE_Sans_YDE,81.6
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_LT_Sans_DLA,,PT,CM_LT_Sans_DLA,76.5
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_YDE,,PT,CM_YDE,26.0
-2014,A,0,C,National_SDG_Report,_L_CM_070102_02,CM_DLA,,PT,CM_DLA,25.2
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",,Urbain,Pour cent,,44.1
+2016,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",,Urbain,Pour cent,,53.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",,Rural,Pour cent,,3.8
+2016,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",,Rural,Pour cent,,3.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",,,Pour cent,,20.1
+2016,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",,,Pour cent,,21.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",ADAMAOUA,,Pour cent,CM_AD,9.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",EST,,Pour cent,CM_ES,5.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",Extrême-Nord,,Pour cent,CM_EN,1.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",NORD,,Pour cent,CM_NO,2.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",NORD-OUEST,,Pour cent,CM_NW,8.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",OUEST,,Pour cent,CM_OU,7.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",SUD,,Pour cent,CM_SU,15.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",SUD-OUEST,,Pour cent,CM_SW,23.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",CENTRE (Hormis YAOUNDE),,Pour cent,CM_CE_Sans_YDE,12.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",LITTORAL (Hormis DOUALA),,Pour cent,CM_LT_Sans_DLA,16.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",YAOUNDE,,Pour cent,CM_YDE,59.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",DOUALA,,Pour cent,CM_DLA,55.2
+2021,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant les technologies propres (GPL, Gaz naturel, Biogaz ; Résidus agricoles, Bouses) pour la cuisson (%)",,,Pour cent,,25.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",,Urbain,Pour cent,,41.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",,Rural,Pour cent,,92.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",,,Pour cent,,71.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",ADAMAOUA,,Pour cent,CM_AD,83.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",EST,,Pour cent,CM_ES,90.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",Extrême-Nord,,Pour cent,CM_EN,93.8
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",NORD,,Pour cent,CM_NO,93.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",NORD-OUEST,,Pour cent,CM_NW,88.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",OUEST,,Pour cent,CM_OU,88.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",SUD,,Pour cent,CM_SU,77.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",SUD-OUEST,,Pour cent,CM_SW,69.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",CENTRE (Hormis YAOUNDE),,Pour cent,CM_CE_Sans_YDE,81.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",LITTORAL (Hormis DOUALA),,Pour cent,CM_LT_Sans_DLA,76.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",YAOUNDE,,Pour cent,CM_YDE,26.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population utilisant le bois ou ses dérivés (sciures/copeau de bois, etc,) pour la cuisson (%)",DOUALA,,Pour cent,CM_DLA,25.2

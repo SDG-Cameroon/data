@@ -1,28 +1,28 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,U,PT,,12.2
-2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,U,PT,,8.9
-2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,R,PT,,55.0
-2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,R,PT,,56.8
-2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,F,,PT,,40.2
-2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,F,,PT,,37.7
-2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,M,,PT,,39.5
-2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,M,,PT,,37.2
-2007,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,,PT,,39.9
-2014,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,,PT,,37.5
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,,PT,,37.7
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,U,PT,,21.6
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,,R,PT,,56.3
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,F,,PT,,38.0
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,,M,,PT,,37.3
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_AD,,,PT,CM_AD,45.1
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_ES,,,PT,CM_ES,41.5
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_EN,,,PT,CM_EN,69.2
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_NO,,,PT,CM_NO,61.1
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_NW,,,PT,CM_NW,66.8
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_OU,,,PT,CM_OU,30.4
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_SU,,,PT,CM_SU,14.9
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_SW,,,PT,CM_SW,20.4
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_DLA,,,PT,CM_DLA,8.3
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_YDE,,,PT,CM_YDE,10.8
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_LT_Sans_DLA,,,PT,CM_LT_Sans_DLA,23.8
-2022,A,0,C,National Institute of Statistics,_L_CM_010201_01,CM_CE_Sans_YDE,,,PT,CM_CE_Sans_YDE,19.1
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2007,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,Urbain,Pour cent,,12.2
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,Urbain,Pour cent,,8.9
+2007,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,Rural,Pour cent,,55.0
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,Rural,Pour cent,,56.8
+2007,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,Féminin,,Pour cent,,40.2
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,Féminin,,Pour cent,,37.7
+2007,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,Masculin,,Pour cent,,39.5
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,Masculin,,Pour cent,,37.2
+2007,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,,Pour cent,,39.9
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,,Pour cent,,37.5
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,,Pour cent,,37.7
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,Urbain,Pour cent,,21.6
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,,Rural,Pour cent,,56.3
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,Féminin,,Pour cent,,38.0
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),,Masculin,,Pour cent,,37.3
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),ADAMAOUA,,,Pour cent,CM_AD,45.1
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),EST,,,Pour cent,CM_ES,41.5
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),Extrême-Nord,,,Pour cent,CM_EN,69.2
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),NORD,,,Pour cent,CM_NO,61.1
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),NORD-OUEST,,,Pour cent,CM_NW,66.8
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),OUEST,,,Pour cent,CM_OU,30.4
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),SUD,,,Pour cent,CM_SU,14.9
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),SUD-OUEST,,,Pour cent,CM_SW,20.4
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),DOUALA,,,Pour cent,CM_DLA,8.3
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),YAOUNDE,,,Pour cent,CM_YDE,10.8
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),LITTORAL (Hormis DOUALA),,,Pour cent,CM_LT_Sans_DLA,23.8
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de pauvreté (%),CENTRE (Hormis YAOUNDE),,,Pour cent,CM_CE_Sans_YDE,19.1

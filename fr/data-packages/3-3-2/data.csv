@@ -1,3 +1,3 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2013,A,0,C,National_SDG_Report,_L_CM_030302_01,,PER_100000_POP,,125
-2013,A,0,C,National_SDG_Report,_L_CM_030302_02,,PER_100000_POP,,72
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2013,Valeur Normale,Unité,C,National_SDG_Report,Nombtre de cas de tuberculoses notifiés pour 100 000 habitants),,Pour 100000 personnes,,125
+2013,Valeur Normale,Unité,C,National_SDG_Report,Nombre de nouveaux cas de tuberculoses avec TPM+ positif pour 100 000 Habitants,,Pour 100000 personnes,,72

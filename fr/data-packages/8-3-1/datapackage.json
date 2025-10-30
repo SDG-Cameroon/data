@@ -20,22 +20,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -72,39 +72,39 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
-                "AGG_5T8",
+                "Sans niveau scolaire",
+                "Primaire",
+                "Secondaire premier cycle",
+                "Secondaire second cycle",
+                "Enseignement Supérieur",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Niveau d'Etude"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",

@@ -1,10 +1,10 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2015,A,0,C,National_SDG_Report,_L_CM_040c01_01,,F,PT,,58.7
-2015,A,0,C,National_SDG_Report,_L_CM_040c01_01,,M,PT,,52.4
-2015,A,0,C,National_SDG_Report,_L_CM_040c01_01,,,PT,,55.8
-2015,A,0,C,National_SDG_Report,_L_CM_040c01_02,,,RO,,20.7
-2016,A,0,C,National_SDG_Report,_L_CM_040c01_02,,,RO,,20.6
-2018,A,0,C,National_SDG_Report,_L_CM_040c01_02,,,RO,,20.3
-2015,A,0,C,National_SDG_Report,_L_CM_040c01_03,,,RO,,49.1
-2016,A,0,C,National_SDG_Report,_L_CM_040c01_03,,,RO,,42.4
-2018,A,0,C,National_SDG_Report,_L_CM_040c01_03,,,RO,,44.7
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion des enseignants qualifiés  au primaire (%),,Féminin,Pour cent,,58.7
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion des enseignants qualifiés  au primaire (%),,Masculin,Pour cent,,52.4
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion des enseignants qualifiés  au primaire (%),,,Pour cent,,55.8
+2015,Valeur Normale,Unité,C,National_SDG_Report,Ratio élèves/enseignant au préscolaire,,,Ratio,,20.7
+2016,Valeur Normale,Unité,C,National_SDG_Report,Ratio élèves/enseignant au préscolaire,,,Ratio,,20.6
+2018,Valeur Normale,Unité,C,National_SDG_Report,Ratio élèves/enseignant au préscolaire,,,Ratio,,20.3
+2015,Valeur Normale,Unité,C,National_SDG_Report,Ratio élèves/enseignant au primaire,,,Ratio,,49.1
+2016,Valeur Normale,Unité,C,National_SDG_Report,Ratio élèves/enseignant au primaire,,,Ratio,,42.4
+2018,Valeur Normale,Unité,C,National_SDG_Report,Ratio élèves/enseignant au primaire,,,Ratio,,44.7

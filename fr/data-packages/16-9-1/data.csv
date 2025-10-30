@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_160901_01,,U,PT,,84.2
-2014,A,0,C,National_SDG_Report,_L_CM_160901_01,,R,PT,,53.1
-2014,A,0,C,National_SDG_Report,_L_CM_160901_01,,,PT,,66.1
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de moins de 5 ans dont la naissance a été enregistrée auprès des autorités civiles(%),,Urbain,Pour cent,,84.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de moins de 5 ans dont la naissance a été enregistrée auprès des autorités civiles(%),,Rural,Pour cent,,53.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de moins de 5 ans dont la naissance a été enregistrée auprès des autorités civiles(%),,,Pour cent,,66.1

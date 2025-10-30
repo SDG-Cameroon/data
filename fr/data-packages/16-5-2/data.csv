@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2009,A,0,C,National_SDG_Report,_L_CM_160502_01,,PT,,50.6
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2009,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’entreprises victimes de la corruption (%),,Pour cent,,50.6

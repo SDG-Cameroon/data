@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2018,A,0,C,National_SDG_Report,_L_CM_030801_01,,F,PT,,65.9
-2018,A,0,C,National_SDG_Report,_L_CM_030801_01,,M,PT,,64.7
-2014,A,0,C,National_SDG_Report,_L_CM_030801_01,,,PT,,85.8
-2018,A,0,C,National_SDG_Report,_L_CM_030801_01,,,PT,,65.3
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de 12 à 23 mois vaccinés contre la rougeole (%),,Féminin,Pour cent,,65.9
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de 12 à 23 mois vaccinés contre la rougeole (%),,Masculin,Pour cent,,64.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de 12 à 23 mois vaccinés contre la rougeole (%),,,Pour cent,,85.8
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion d'enfants de 12 à 23 mois vaccinés contre la rougeole (%),,,Pour cent,,65.3

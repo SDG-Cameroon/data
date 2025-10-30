@@ -1,6 +1,6 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_020201_01,,F,PT,,29.8
-2014,A,0,C,National_SDG_Report,_L_CM_020201_01,,M,PT,,33.5
-2011,A,0,C,National_SDG_Report,_L_CM_020201_01,,,PT,,32.5
-2014,A,0,C,National_SDG_Report,_L_CM_020201_01,,,PT,,31.7
-2018,A,0,C,National_SDG_Report,_L_CM_020201_01,,,PT,,29.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du retard de croissance chez les enfants de moins de 5 ans (%),,Féminin,Pour cent,,29.8
+2014,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du retard de croissance chez les enfants de moins de 5 ans (%),,Masculin,Pour cent,,33.5
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du retard de croissance chez les enfants de moins de 5 ans (%),,,Pour cent,,32.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du retard de croissance chez les enfants de moins de 5 ans (%),,,Pour cent,,31.7
+2018,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du retard de croissance chez les enfants de moins de 5 ans (%),,,Pour cent,,29.0

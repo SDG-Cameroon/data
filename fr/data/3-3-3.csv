@@ -1,13 +1,13 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2011,A,0,C,National_SDG_Report,_L_CM_030303_01,,U,PT,,20.6
-2011,A,0,C,National_SDG_Report,_L_CM_030303_01,,R,PT,,37.1
-2011,A,0,C,National_SDG_Report,_L_CM_030303_01,,,PT,,30.0
-2014,A,0,C,National_SDG_Report,_L_CM_030303_01,,,PT,,30.0
-2018,A,0,C,National_SDG_Report,_L_CM_030303_01,,,PT,,24.0
-2004,A,0,C,National_SDG_Report,_L_CM_030303_02,,U,PT,,58.9
-2011,A,0,C,National_SDG_Report,_L_CM_030303_02,,U,PT,,29.3
-2004,A,0,C,National_SDG_Report,_L_CM_030303_02,,R,PT,,48.0
-2011,A,0,C,National_SDG_Report,_L_CM_030303_02,,R,PT,,18.9
-2004,A,0,C,National_SDG_Report,_L_CM_030303_02,,,PT,,53.1
-2011,A,0,C,National_SDG_Report,_L_CM_030303_02,,,PT,,23.1
-2018,A,0,C,National_SDG_Report,_L_CM_030303_02,,,PT,,59.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,Urbain,Pour cent,,20.6
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,Rural,Pour cent,,37.1
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,,Pour cent,,30.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,,Pour cent,,30.0
+2018,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du paludisme chez les enfants de moins de 5 ans (%),,,Pour cent,,24.0
+2004,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du traitement anti paludique (%),,Urbain,Pour cent,,58.9
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du traitement anti paludique (%),,Urbain,Pour cent,,29.3
+2004,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du traitement anti paludique (%),,Rural,Pour cent,,48.0
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du traitement anti paludique (%),,Rural,Pour cent,,18.9
+2004,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du traitement anti paludique (%),,,Pour cent,,53.1
+2011,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du traitement anti paludique (%),,,Pour cent,,23.1
+2018,Valeur Normale,Unité,C,National_SDG_Report,Prévalence du traitement anti paludique (%),,,Pour cent,,59.0

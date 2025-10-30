@@ -1,3 +1,3 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_070301_01,,RO,,614.8
-2015,A,0,C,National_SDG_Report,_L_CM_070301_01,,RO,,598.5
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Intensité énergétique [rapport entre énergie primaire et produit intérieur brut (PIB),,Ratio,,614.8
+2015,Valeur Normale,Unité,C,National_SDG_Report,Intensité énergétique [rapport entre énergie primaire et produit intérieur brut (PIB),,Ratio,,598.5

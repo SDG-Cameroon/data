@@ -1,6 +1,6 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_050b01_01,,F,PT,,66.3
-2018,A,0,C,National_SDG_Report,_L_CM_050b01_01,,F,PT,,63.6
-2014,A,0,C,National_SDG_Report,_L_CM_050b01_01,,M,PT,,79.4
-2018,A,0,C,National_SDG_Report,_L_CM_050b01_01,,M,PT,,77.3
-2014,A,0,C,National_SDG_Report,_L_CM_050b01_01,,,PT,,72.3
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population possédant un téléphone portable (%),,Féminin,Pour cent,,66.3
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population possédant un téléphone portable (%),,Féminin,Pour cent,,63.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population possédant un téléphone portable (%),,Masculin,Pour cent,,79.4
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population possédant un téléphone portable (%),,Masculin,Pour cent,,77.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population possédant un téléphone portable (%),,,Pour cent,,72.3

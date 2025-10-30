@@ -1,12 +1,12 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,U,,CUR_LCU,,627.9
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,R,,CUR_LCU,,482.2
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,F,,,CUR_LCU,,496.4
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,M,,,CUR_LCU,,627.4
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,,ISCED11A_01,CUR_LCU,,659.9
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,,ISCED11_1,CUR_LCU,,341.7
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,,ISCED11_2,CUR_LCU,,415.0
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,,ISCED11_3,CUR_LCU,,492.5
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,,AGG_5T8,CUR_LCU,,1048.0
-2014,A,0,C,National_SDG_Report,_L_CM_080501_01,,,,,CUR_LCU,,589.6
-2021,A,0,C,National_SDG_Report,_L_CM_080501_01,,,,,CUR_LCU,,579.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,Niveau d'Etude,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,Urbain,,Francs CFA XAF,,627.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,Rural,,Francs CFA XAF,,482.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,Féminin,,,Francs CFA XAF,,496.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,Masculin,,,Francs CFA XAF,,627.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,,Sans niveau scolaire,Francs CFA XAF,,659.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,,Primaire,Francs CFA XAF,,341.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,,Secondaire premier cycle,Francs CFA XAF,,415.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,,Secondaire second cycle,Francs CFA XAF,,492.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,,Enseignement Supérieur,Francs CFA XAF,,1048.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,,,Francs CFA XAF,,589.6
+2021,Valeur Normale,Unité,C,National_SDG_Report,Rémunération horaire moyenne des salariés (Francs CFA XAF),,,,,Francs CFA XAF,,579.0

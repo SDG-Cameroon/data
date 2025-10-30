@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,,U,PT,,45.8
-2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,,R,PT,,9.3
-2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,F,,PT,,19.2
-2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,M,,PT,,27.4
-2016,A,0,C,National_SDG_Report,_L_CM_170801_01,,,,PT,,23.2
-2018,A,0,C,National_SDG_Report,_L_CM_170801_01,,,,PT,,35.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de personnes âgées de 10 ou plus ayant utilisé internet (%),,,Urbain,Pour cent,,45.8
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de personnes âgées de 10 ou plus ayant utilisé internet (%),,,Rural,Pour cent,,9.3
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de personnes âgées de 10 ou plus ayant utilisé internet (%),,Féminin,,Pour cent,,19.2
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de personnes âgées de 10 ou plus ayant utilisé internet (%),,Masculin,,Pour cent,,27.4
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de personnes âgées de 10 ou plus ayant utilisé internet (%),,,,Pour cent,,23.2
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de personnes âgées de 10 ou plus ayant utilisé internet (%),,,,Pour cent,,35.0

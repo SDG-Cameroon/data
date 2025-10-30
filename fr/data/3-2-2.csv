@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-1991,A,0,C,National Institute of Statistics,SH_DYN_NMRT,,PER_1000_LIVE_BIRTHS,,33
-1998,A,0,C,National Institute of Statistics,SH_DYN_NMRT,,PER_1000_LIVE_BIRTHS,,37
-2004,A,0,C,National Institute of Statistics,SH_DYN_NMRT,,PER_1000_LIVE_BIRTHS,,29
-2011,A,0,C,National Institute of Statistics,SH_DYN_NMRT,,PER_1000_LIVE_BIRTHS,,31
-2014,A,0,C,National Institute of Statistics,SH_DYN_NMRT,,PER_1000_LIVE_BIRTHS,,31
-2018,A,0,C,National Institute of Statistics,SH_DYN_NMRT,,PER_1000_LIVE_BIRTHS,,28
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+1991,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité néonatale,,"Pour 1,000 naissances vivantes",,33
+1998,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité néonatale,,"Pour 1,000 naissances vivantes",,37
+2004,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité néonatale,,"Pour 1,000 naissances vivantes",,29
+2011,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité néonatale,,"Pour 1,000 naissances vivantes",,31
+2014,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité néonatale,,"Pour 1,000 naissances vivantes",,31
+2018,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité néonatale,,"Pour 1,000 naissances vivantes",,28

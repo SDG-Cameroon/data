@@ -1,6 +1,6 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2017,A,0,C,National_SDG_Report,_L_CM_090c01_01,,,U,PT,,95.2
-2017,A,0,C,National_SDG_Report,_L_CM_090c01_01,,,R,PT,,77.4
-2017,A,0,C,National_SDG_Report,_L_CM_090c01_01,,F,,PT,,82.7
-2017,A,0,C,National_SDG_Report,_L_CM_090c01_01,,M,,PT,,85.6
-2017,A,0,C,National_SDG_Report,_L_CM_090c01_01,,,,PT,,84.9
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2017,Valeur Normale,Unité,C,National_SDG_Report,Proportion de ménages ayant accès à un réseau de téléphonie mobile (%),,,Urbain,Pour cent,,95.2
+2017,Valeur Normale,Unité,C,National_SDG_Report,Proportion de ménages ayant accès à un réseau de téléphonie mobile (%),,,Rural,Pour cent,,77.4
+2017,Valeur Normale,Unité,C,National_SDG_Report,Proportion de ménages ayant accès à un réseau de téléphonie mobile (%),,Féminin,,Pour cent,,82.7
+2017,Valeur Normale,Unité,C,National_SDG_Report,Proportion de ménages ayant accès à un réseau de téléphonie mobile (%),,Masculin,,Pour cent,,85.6
+2017,Valeur Normale,Unité,C,National_SDG_Report,Proportion de ménages ayant accès à un réseau de téléphonie mobile (%),,,,Pour cent,,84.9

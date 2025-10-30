@@ -22,22 +22,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -71,51 +71,51 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_ES",
-                "CM_EN",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
-                "CM_DLA",
-                "CM_YDE",
-                "CM_LT_Sans_DLA",
-                "CM_CE_Sans_YDE",
+                "ADAMAOUA",
+                "EST",
+                "Extrême-Nord",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
+                "DOUALA",
+                "YAOUNDE",
+                "LITTORAL (Hormis DOUALA)",
+                "CENTRE (Hormis YAOUNDE)",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -151,22 +151,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -203,36 +203,36 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -268,22 +268,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -320,24 +320,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -373,22 +373,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -425,12 +425,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -466,22 +466,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -518,12 +518,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -559,22 +559,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -611,24 +611,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -664,22 +664,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -716,12 +716,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -757,22 +757,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -806,25 +806,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_CE",
-                "CM_ES",
-                "CM_EN",
-                "CM_LT",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
+                "ADAMAOUA",
+                "CENTRE",
+                "EST",
+                "Extrême-Nord",
+                "LITTORAL",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -860,22 +860,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -912,12 +912,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -953,22 +953,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1005,12 +1005,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1046,22 +1046,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1098,38 +1098,38 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
-                "ISCED11_1",
-                "AGG_2_3",
-                "AGG_5T8",
+                "Sans niveau scolaire",
+                "Primaire",
+                "Secondaire",
+                "Enseignement Supérieur",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Niveau d'Etude"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1165,22 +1165,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1217,12 +1217,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1258,22 +1258,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1310,12 +1310,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1351,22 +1351,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1403,24 +1403,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1456,22 +1456,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1508,12 +1508,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1549,22 +1549,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1601,24 +1601,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1654,22 +1654,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1706,12 +1706,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1747,22 +1747,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1799,12 +1799,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1840,22 +1840,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1892,12 +1892,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -1933,22 +1933,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -1985,12 +1985,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2026,22 +2026,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2078,38 +2078,38 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
-                "ISCED11_1",
-                "AGG_2_3",
-                "AGG_5T8",
+                "Sans niveau scolaire",
+                "Primaire",
+                "Secondaire",
+                "Enseignement Supérieur",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Niveau d'Etude"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2145,22 +2145,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2197,24 +2197,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2250,22 +2250,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2302,24 +2302,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2355,22 +2355,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2407,12 +2407,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2448,22 +2448,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2500,24 +2500,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2553,22 +2553,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2605,24 +2605,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2658,22 +2658,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2710,24 +2710,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2763,22 +2763,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2815,12 +2815,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2856,22 +2856,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -2908,12 +2908,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -2949,22 +2949,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3001,36 +3001,36 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3066,22 +3066,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3118,12 +3118,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3159,22 +3159,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3211,24 +3211,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3264,22 +3264,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3316,12 +3316,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3357,22 +3357,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3409,38 +3409,38 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
-                "ISCED11_1",
-                "AGG_2_3",
-                "AGG_5T8",
+                "Sans niveau scolaire",
+                "Primaire",
+                "Secondaire",
+                "Enseignement Supérieur",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Niveau d'Etude"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3476,22 +3476,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3528,36 +3528,36 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3593,22 +3593,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3645,12 +3645,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3686,22 +3686,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3738,38 +3738,38 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
-                "ISCED11_1",
-                "AGG_2_3",
-                "AGG_5T8",
+                "Sans niveau scolaire",
+                "Primaire",
+                "Secondaire",
+                "Enseignement Supérieur",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Niveau d'Etude"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3805,22 +3805,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3857,24 +3857,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -3910,22 +3910,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -3962,24 +3962,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4015,22 +4015,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4067,24 +4067,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4120,22 +4120,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4172,12 +4172,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4213,22 +4213,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4262,39 +4262,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_ES",
-                "CM_EN",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
-                "CM_CE_Sans_YDE",
-                "CM_LT_Sans_DLA",
-                "CM_YDE",
-                "CM_DLA",
+                "ADAMAOUA",
+                "EST",
+                "Extrême-Nord",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
+                "CENTRE (Hormis YAOUNDE)",
+                "LITTORAL (Hormis DOUALA)",
+                "YAOUNDE",
+                "DOUALA",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4330,22 +4330,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4379,39 +4379,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_ES",
-                "CM_EN",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
-                "CM_CE_Sans_YDE",
-                "CM_LT_Sans_DLA",
-                "CM_YDE",
-                "CM_DLA",
+                "ADAMAOUA",
+                "EST",
+                "Extrême-Nord",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
+                "CENTRE (Hormis YAOUNDE)",
+                "LITTORAL (Hormis DOUALA)",
+                "YAOUNDE",
+                "DOUALA",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4447,22 +4447,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4499,12 +4499,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4540,22 +4540,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4592,12 +4592,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4633,22 +4633,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4686,12 +4686,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4727,22 +4727,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4779,39 +4779,39 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
-                "AGG_5T8",
+                "Sans niveau scolaire",
+                "Primaire",
+                "Secondaire premier cycle",
+                "Secondaire second cycle",
+                "Enseignement Supérieur",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Niveau d'Etude"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4847,22 +4847,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -4899,51 +4899,51 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_01",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
-                "AGG_5T8",
+                "Sans niveau scolaire",
+                "Primaire",
+                "Secondaire premier cycle",
+                "Secondaire second cycle",
+                "Enseignement Supérieur",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Niveau d'Etude"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -4979,22 +4979,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5029,51 +5029,51 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_ES",
-                "CM_EN",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
-                "CM_DLA",
-                "CM_YDE",
-                "CM_LT_Sans_DLA",
-                "CM_CE_Sans_YDE",
+                "ADAMAOUA",
+                "EST",
+                "Extrême-Nord",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
+                "DOUALA",
+                "YAOUNDE",
+                "LITTORAL (Hormis DOUALA)",
+                "CENTRE (Hormis YAOUNDE)",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5109,22 +5109,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5161,36 +5161,36 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5226,22 +5226,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5278,36 +5278,36 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5343,22 +5343,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5392,25 +5392,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_CE",
-                "CM_ES",
-                "CM_EN",
-                "CM_LT",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
+                "ADAMAOUA",
+                "CENTRE",
+                "EST",
+                "Extrême-Nord",
+                "LITTORAL",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5446,23 +5446,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "3",
-                "0",
+                "Milliers",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5499,12 +5499,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5540,23 +5540,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                "3",
+                "Unité",
+                "Milliers",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5593,12 +5593,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5634,22 +5634,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5686,12 +5686,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5727,22 +5727,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5779,12 +5779,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5820,22 +5820,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5872,12 +5872,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -5913,22 +5913,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -5965,36 +5965,36 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6030,22 +6030,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6082,12 +6082,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6123,22 +6123,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6172,27 +6172,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_ES",
-                "CM_EN",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
-                "CM_CE_Sans_YDE",
-                "CM_LT_Sans_DLA",
-                "CM_YDE",
-                "CM_DLA",
+                "ADAMAOUA",
+                "EST",
+                "Extrême-Nord",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
+                "CENTRE (Hormis YAOUNDE)",
+                "LITTORAL (Hormis DOUALA)",
+                "YAOUNDE",
+                "DOUALA",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6228,22 +6228,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6280,24 +6280,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6333,22 +6333,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6385,12 +6385,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6426,22 +6426,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6478,12 +6478,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6519,22 +6519,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6571,12 +6571,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6612,22 +6612,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6664,12 +6664,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6705,22 +6705,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "3",
+                "Milliers",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6757,12 +6757,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6798,22 +6798,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6850,12 +6850,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6891,22 +6891,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "9",
+                "Milliards",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -6943,12 +6943,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -6984,22 +6984,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7036,24 +7036,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7089,22 +7089,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7141,24 +7141,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7194,22 +7194,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7246,24 +7246,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7299,22 +7299,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7351,12 +7351,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7392,22 +7392,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7444,12 +7444,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7485,22 +7485,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7537,12 +7537,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7578,22 +7578,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7630,12 +7630,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7671,22 +7671,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7723,24 +7723,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7776,22 +7776,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7828,24 +7828,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7881,22 +7881,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -7933,12 +7933,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -7974,22 +7974,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -8026,12 +8026,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -8067,22 +8067,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -8119,36 +8119,36 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -8184,22 +8184,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -8236,12 +8236,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -8277,23 +8277,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "9",
-                "0",
+                "Milliards",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -8330,12 +8330,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -8371,22 +8371,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -8423,12 +8423,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",
@@ -8464,22 +8464,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -8516,12 +8516,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",

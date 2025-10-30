@@ -1,12 +1,12 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,,PT,,33.0
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_AD,PT,CM_AD,42.6
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_CE,PT,CM_CE,54.2
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_ES,PT,CM_ES,34.1
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_EN,PT,CM_EN,20.1
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_LT,PT,CM_LT,62.8
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_NO,PT,CM_NO,20.5
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_NW,PT,CM_NW,41.5
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_OU,PT,CM_OU,30.7
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_SU,PT,CM_SU,62.5
-2014,A,0,C,National_SDG_Report,_L_CM_090101_01,CM_SW,PT,CM_SW,28.7
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),,Pour cent,,33.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),ADAMAOUA,Pour cent,CM_AD,42.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),CENTRE,Pour cent,CM_CE,54.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),EST,Pour cent,CM_ES,34.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),Extrême-Nord,Pour cent,CM_EN,20.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),LITTORAL,Pour cent,CM_LT,62.8
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),NORD,Pour cent,CM_NO,20.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),NORD-OUEST,Pour cent,CM_NW,41.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),OUEST,Pour cent,CM_OU,30.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),SUD,Pour cent,CM_SU,62.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population rurale vivant à moins de 2 km d’une route bitumée toute l’année (%),SUD-OUEST,Pour cent,CM_SW,28.7

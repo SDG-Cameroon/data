@@ -1,17 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2017,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,3.541177
-2018,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,3.955514
-2019,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,3.475037
-2020,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,0.259955
-2021,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,3.338857
-2022,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,3.736909
-2023,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,3.347348
-2024,A,0,C,National Institute of Statistics,_L_CM_080101_01,,PT,,3.52466
-2017,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,0.6
-2018,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,1.1
-2019,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,0.6
-2020,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,-2.4
-2021,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,1.0
-2022,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,0.9
-2023,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,1.5
-2024,A,0,C,National_SDG_Report,_L_CM_080101_02,,PT,,1.8
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2017,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,3.541177
+2018,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,3.955514
+2019,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,3.475037
+2020,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,0.259955
+2021,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,3.338857
+2022,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,3.736909
+2023,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,3.347348
+2024,Valeur Normale,Unité,C,National Institute of Statistics,Taux de croissance du PIB réel (%),,Pour cent,,3.52466
+2017,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,0.6
+2018,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,1.1
+2019,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,0.6
+2020,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,-2.4
+2021,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,1.0
+2022,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,0.9
+2023,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,1.5
+2024,Valeur Normale,Unité,C,National_SDG_Report,Taux de croissance du PIB réel par habitant (%),,Pour cent,,1.8

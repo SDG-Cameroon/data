@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,,U,PT,,0.4
-2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,,R,PT,,0.4
-2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,F,,PT,,0.5
-2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,M,,PT,,0.2
-2014,A,0,C,National_SDG_Report,_L_CM_080601_01,,,,PT,,0.4
-2021,A,0,C,National_SDG_Report,_L_CM_080601_01,,,,PT,,3.6
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de jeunes (15 à 24 ans) non scolarisés et sans emploi, ni formation (%)",,,Urbain,Pour cent,,0.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de jeunes (15 à 24 ans) non scolarisés et sans emploi, ni formation (%)",,,Rural,Pour cent,,0.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de jeunes (15 à 24 ans) non scolarisés et sans emploi, ni formation (%)",,Féminin,,Pour cent,,0.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de jeunes (15 à 24 ans) non scolarisés et sans emploi, ni formation (%)",,Masculin,,Pour cent,,0.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de jeunes (15 à 24 ans) non scolarisés et sans emploi, ni formation (%)",,,,Pour cent,,0.4
+2021,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de jeunes (15 à 24 ans) non scolarisés et sans emploi, ni formation (%)",,,,Pour cent,,3.6

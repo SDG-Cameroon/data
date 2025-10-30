@@ -1,7 +1,7 @@
 Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 with wasting (%).,,Percent,,5.6
-2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 with wasting (%).,,Percent,,5.2
-2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 with wasting (%).,,Percent,,6.0
+2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 with wasting (%),,Percent,,5.6
+2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 with wasting (%),,Percent,,5.2
+2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 with wasting (%),,Percent,,6.0
 2011,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years old who are overweight (%),,Percent,,6.2
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years old who are overweight (%),,Percent,,6.7
 2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children under 5 years old who are overweight (%),,Percent,,11.0

@@ -1,7 +1,7 @@
 From,To
-OBS_STATUS,UNIT_MULT
-UNIT_MULT,NATURE
+Status de l'observation,Multiplicateur d'unité
+Multiplicateur d'unité,NATURE
 NATURE,SOURCE_DETAIL
-SOURCE_DETAIL,REF_AREA
-SOURCE_DETAIL,SEX
-SOURCE_DETAIL,URBANISATION
+SOURCE_DETAIL,Aire Geographique
+SOURCE_DETAIL,Sexe
+SOURCE_DETAIL,Milieu de résidence

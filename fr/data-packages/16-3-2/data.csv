@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2013,A,0,C,National_SDG_Report,_L_CM_160302_01,,PT,,60.1
-2014,A,0,C,National_SDG_Report,_L_CM_160302_01,,PT,,61.2
-2015,A,0,C,National_SDG_Report,_L_CM_160302_01,,PT,,55.8
-2017,A,0,C,National_SDG_Report,_L_CM_160302_01,,PT,,58.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2013,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population carcérale en instance de jugement (%),,Pour cent,,60.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population carcérale en instance de jugement (%),,Pour cent,,61.2
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population carcérale en instance de jugement (%),,Pour cent,,55.8
+2017,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population carcérale en instance de jugement (%),,Pour cent,,58.0

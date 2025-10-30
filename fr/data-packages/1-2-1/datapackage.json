@@ -20,22 +20,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Unité",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -69,51 +69,51 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CM_AD",
-                "CM_ES",
-                "CM_EN",
-                "CM_NO",
-                "CM_NW",
-                "CM_OU",
-                "CM_SU",
-                "CM_SW",
-                "CM_DLA",
-                "CM_YDE",
-                "CM_LT_Sans_DLA",
-                "CM_CE_Sans_YDE",
+                "ADAMAOUA",
+                "EST",
+                "Extrême-Nord",
+                "NORD",
+                "NORD-OUEST",
+                "OUEST",
+                "SUD",
+                "SUD-OUEST",
+                "DOUALA",
+                "YAOUNDE",
+                "LITTORAL (Hormis DOUALA)",
+                "CENTRE (Hormis YAOUNDE)",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Féminin",
+                "Masculin",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sexe"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urbain",
+                "Rural",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Milieu de résidence"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",

@@ -1,17 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,U,,PT,,5.3
-2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,R,,PT,,16.1
-2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,ISCED11A_01,PT,,21.7
-2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,ISCED11_1,PT,,19.0
-2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,AGG_2_3,PT,,3.6
-2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,AGG_5T8,PT,,0.4
-2014,A,0,C,National_SDG_Report,_L_CM_050301_01,,,,PT,,10.2
-2018,A,0,C,National_SDG_Report,_L_CM_050301_01,,,,PT,,10.7
-2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,U,,PT,,20.8
-2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,R,,PT,,43.3
-2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,ISCED11A_01,PT,,59.4
-2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,ISCED11_1,PT,,49.6
-2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,AGG_2_3,PT,,15.9
-2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,AGG_5T8,PT,,0.8
-2014,A,0,C,National_SDG_Report,_L_CM_050301_02,,,,PT,,31.0
-2018,A,0,C,National_SDG_Report,_L_CM_050301_02,,,,PT,,29.8
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,Niveau d'Etude,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,Urbain,,Pour cent,,5.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,Rural,,Pour cent,,16.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,,Sans niveau scolaire,Pour cent,,21.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,,Primaire,Pour cent,,19.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,,Secondaire,Pour cent,,3.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,,Enseignement Supérieur,Pour cent,,0.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,,,Pour cent,,10.2
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 15 ans (%),,,,Pour cent,,10.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,Urbain,,Pour cent,,20.8
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,Rural,,Pour cent,,43.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,,Sans niveau scolaire,Pour cent,,59.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,,Primaire,Pour cent,,49.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,,Secondaire,Pour cent,,15.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,,Enseignement Supérieur,Pour cent,,0.8
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,,,Pour cent,,31.0
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes âgées de 20 à 24 ans qui étaient mariées ou en couple avant l’âge de 18 ans (%),,,,Pour cent,,29.8

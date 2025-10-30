@@ -20,22 +20,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Valeur Normale",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Status de l'observation"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "9",
+                "Milliards",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Multiplicateur d'unité"
           },
           {
             "name": "NATURE",
@@ -72,12 +72,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Aire Geographique"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unité de mesure"
           },
           {
             "name": "GeoCode",

@@ -1,9 +1,9 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_050201_01,,PT,,52.6
-2018,A,0,C,National_SDG_Report,_L_CM_050201_01,,PT,,31.5
-2014,A,0,C,National_SDG_Report,_L_CM_050201_02,,PT,,13.5
-2018,A,0,C,National_SDG_Report,_L_CM_050201_02,,PT,,6.9
-2014,A,0,C,National_SDG_Report,_L_CM_050201_03,,PT,,30.8
-2018,A,0,C,National_SDG_Report,_L_CM_050201_03,,PT,,19.6
-2014,A,0,C,National_SDG_Report,_L_CM_050201_04,,PT,,47.2
-2018,A,0,C,National_SDG_Report,_L_CM_050201_04,,PT,,22.4
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences sexuelles, physiques ou emotionnelles/psychologiques (%)",,Pour cent,,52.6
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences sexuelles, physiques ou emotionnelles/psychologiques (%)",,Pour cent,,31.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences sexuelles (%),,Pour cent,,13.5
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences sexuelles (%),,Pour cent,,6.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences physiques (%),,Pour cent,,30.8
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences physiques (%),,Pour cent,,19.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences emotionnelles ou psychologiques (%),,Pour cent,,47.2
+2018,Valeur Normale,Unité,C,National_SDG_Report,Proportion de femmes et de filles (15 ans ou plus) ayant vécu en couple et victimes de violences emotionnelles ou psychologiques (%),,Pour cent,,22.4

@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,A,9,C,National_SDG_Report,_L_CM_150b01_01,,CUR_LCU,,49.35
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2016,Valeur Normale,Milliards,C,National_SDG_Report,Dépenses publiques et Aide publique au développement consacré à la préservation et à l’exploitation durable de la biodiversité et des écosystèmes (Milliards de Francs CFA),,Francs CFA XAF,,49.35

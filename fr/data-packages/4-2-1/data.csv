@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2015,A,0,C,National_SDG_Report,_L_CM_040201_01,,F,PT,,38.0
-2015,A,0,C,National_SDG_Report,_L_CM_040201_01,,M,PT,,37.0
-2015,A,0,C,National_SDG_Report,_L_CM_040201_01,,,PT,,37.5
-2015,A,0,C,National_SDG_Report,_L_CM_040201_02,,F,PT,,27.2
-2015,A,0,C,National_SDG_Report,_L_CM_040201_02,,M,PT,,26.5
-2015,A,0,C,National_SDG_Report,_L_CM_040201_02,,,PT,,26.9
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux brut de préscolarisation (%),,Féminin,Pour cent,,38.0
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux brut de préscolarisation (%),,Masculin,Pour cent,,37.0
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux brut de préscolarisation (%),,,Pour cent,,37.5
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux net de préscolarisation (%),,Féminin,Pour cent,,27.2
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux net de préscolarisation (%),,Masculin,Pour cent,,26.5
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux net de préscolarisation (%),,,Pour cent,,26.9

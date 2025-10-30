@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_050401_01,,F,U,PT,,22.7
-2014,A,0,C,National_SDG_Report,_L_CM_050401_01,,M,U,PT,,22.9
-2014,A,0,C,National_SDG_Report,_L_CM_050401_01,,F,R,PT,,28.2
-2014,A,0,C,National_SDG_Report,_L_CM_050401_01,,M,R,PT,,23.9
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion du temps consacré à des soins et travaux domestiques non rémunérés,,Féminin,Urbain,Pour cent,,22.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion du temps consacré à des soins et travaux domestiques non rémunérés,,Masculin,Urbain,Pour cent,,22.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion du temps consacré à des soins et travaux domestiques non rémunérés,,Féminin,Rural,Pour cent,,28.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion du temps consacré à des soins et travaux domestiques non rémunérés,,Masculin,Rural,Pour cent,,23.9

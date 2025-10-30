@@ -1,10 +1,10 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_060201_01,,U,PT,,22.7
-2014,A,0,C,National_SDG_Report,_L_CM_060201_01,,R,PT,,5.5
-2014,A,0,C,National_SDG_Report,_L_CM_060201_01,,,PT,,14.9
-2014,A,0,C,National_SDG_Report,_L_CM_060201_02,,U,PT,,56.1
-2016,A,0,C,National_SDG_Report,_L_CM_060201_02,,U,PT,,60.4
-2014,A,0,C,National_SDG_Report,_L_CM_060201_02,,R,PT,,15.5
-2016,A,0,C,National_SDG_Report,_L_CM_060201_02,,R,PT,,25.4
-2014,A,0,C,National_SDG_Report,_L_CM_060201_02,,,PT,,34.9
-2016,A,0,C,National_SDG_Report,_L_CM_060201_02,,,PT,,38.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population disposant d’un lieu de lavage des mains avec eau, savon (%)",,Urbain,Pour cent,,22.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population disposant d’un lieu de lavage des mains avec eau, savon (%)",,Rural,Pour cent,,5.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de la population disposant d’un lieu de lavage des mains avec eau, savon (%)",,,Pour cent,,14.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,Pourcentage de  la population  des ménages utilisant les toilettes améliorées (%),,Urbain,Pour cent,,56.1
+2016,Valeur Normale,Unité,C,National_SDG_Report,Pourcentage de  la population  des ménages utilisant les toilettes améliorées (%),,Urbain,Pour cent,,60.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Pourcentage de  la population  des ménages utilisant les toilettes améliorées (%),,Rural,Pour cent,,15.5
+2016,Valeur Normale,Unité,C,National_SDG_Report,Pourcentage de  la population  des ménages utilisant les toilettes améliorées (%),,Rural,Pour cent,,25.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Pourcentage de  la population  des ménages utilisant les toilettes améliorées (%),,,Pour cent,,34.9
+2016,Valeur Normale,Unité,C,National_SDG_Report,Pourcentage de  la population  des ménages utilisant les toilettes améliorées (%),,,Pour cent,,38.0

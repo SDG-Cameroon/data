@@ -1,15 +1,15 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,F,,PT,,85.3
-2016,A,0,C,National_SDG_Report,_L_CM_080301_01,,F,,PT,,76.1
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,M,,PT,,75.8
-2016,A,0,C,National_SDG_Report,_L_CM_080301_01,,M,,PT,,69.1
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,,ISCED11A_01,PT,,95.5
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,,ISCED11_1,PT,,92.9
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,,ISCED11_2,PT,,86.4
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,,ISCED11_3,PT,,67.1
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,,AGG_5T8,PT,,42.6
-2014,A,0,C,National_SDG_Report,_L_CM_080301_01,,,,PT,,79.9
-2016,A,0,C,National_SDG_Report,_L_CM_080301_01,,,,PT,,72.2
-2021,A,0,C,National_SDG_Report,_L_CM_080301_01,,F,,PT,,86.2
-2021,A,0,C,National_SDG_Report,_L_CM_080301_01,,M,,PT,,75.8
-2021,A,0,C,National_SDG_Report,_L_CM_080301_01,,,,PT,,80.2
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,Niveau d'Etude,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,Féminin,,Pour cent,,85.3
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,Féminin,,Pour cent,,76.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,Masculin,,Pour cent,,75.8
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,Masculin,,Pour cent,,69.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,Sans niveau scolaire,Pour cent,,95.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,Primaire,Pour cent,,92.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,Secondaire premier cycle,Pour cent,,86.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,Secondaire second cycle,Pour cent,,67.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,Enseignement Supérieur,Pour cent,,42.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,,Pour cent,,79.9
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,,Pour cent,,72.2
+2021,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,Féminin,,Pour cent,,86.2
+2021,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,Masculin,,Pour cent,,75.8
+2021,Valeur Normale,Unité,C,National_SDG_Report,Proportion de l’emploi informel dans les secteurs non agricoles (%),,,,Pour cent,,80.2

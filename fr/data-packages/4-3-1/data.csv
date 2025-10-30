@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,A,0,C,National_SDG_Report,_L_CM_040301_01,,PT,,122
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2015,Valeur Normale,Unité,C,National_SDG_Report,Taux brut de scolarisation au primaire (%),,Pour cent,,122

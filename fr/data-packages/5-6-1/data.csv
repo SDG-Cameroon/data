@@ -1,31 +1,31 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_050601_01,,U,,PT,,15.6
-2018,A,0,C,National_SDG_Report,_L_CM_050601_01,,U,,PT,,5.4
-2014,A,0,C,National_SDG_Report,_L_CM_050601_01,,R,,PT,,11.4
-2018,A,0,C,National_SDG_Report,_L_CM_050601_01,,R,,PT,,2.5
-2014,A,0,C,National_SDG_Report,_L_CM_050601_01,,,ISCED11A_01,PT,,5.0
-2014,A,0,C,National_SDG_Report,_L_CM_050601_01,,,ISCED11_1,PT,,15.7
-2014,A,0,C,National_SDG_Report,_L_CM_050601_01,,,AGG_2_3,PT,,18.7
-2014,A,0,C,National_SDG_Report,_L_CM_050601_01,,,AGG_5T8,PT,,12.3
-2014,A,0,C,National_SDG_Report,_L_CM_050601_01,,,,PT,,13.3
-2018,A,0,C,National_SDG_Report,_L_CM_050601_01,,,,PT,,3.9
-2014,A,0,C,National_SDG_Report,_L_CM_050601_02,,U,,PT,,26.7
-2018,A,0,C,National_SDG_Report,_L_CM_050601_02,,U,,PT,,20.7
-2014,A,0,C,National_SDG_Report,_L_CM_050601_02,,R,,PT,,16.3
-2018,A,0,C,National_SDG_Report,_L_CM_050601_02,,R,,PT,,10.6
-2014,A,0,C,National_SDG_Report,_L_CM_050601_02,,,ISCED11A_01,PT,,9.9
-2014,A,0,C,National_SDG_Report,_L_CM_050601_02,,,ISCED11_1,PT,,21.9
-2014,A,0,C,National_SDG_Report,_L_CM_050601_02,,,AGG_2_3,PT,,28.8
-2014,A,0,C,National_SDG_Report,_L_CM_050601_02,,,AGG_5T8,PT,,36.3
-2014,A,0,C,National_SDG_Report,_L_CM_050601_02,,,,PT,,21.0
-2018,A,0,C,National_SDG_Report,_L_CM_050601_02,,,,PT,,15.4
-2014,A,0,C,National_SDG_Report,_L_CM_050601_03,,U,,PT,,42.4
-2018,A,0,C,National_SDG_Report,_L_CM_050601_03,,U,,PT,,26.1
-2014,A,0,C,National_SDG_Report,_L_CM_050601_03,,R,,PT,,27.7
-2018,A,0,C,National_SDG_Report,_L_CM_050601_03,,R,,PT,,13.1
-2014,A,0,C,National_SDG_Report,_L_CM_050601_03,,,ISCED11A_01,PT,,14.9
-2014,A,0,C,National_SDG_Report,_L_CM_050601_03,,,ISCED11_1,PT,,37.7
-2014,A,0,C,National_SDG_Report,_L_CM_050601_03,,,AGG_2_3,PT,,47.6
-2014,A,0,C,National_SDG_Report,_L_CM_050601_03,,,AGG_5T8,PT,,48.5
-2014,A,0,C,National_SDG_Report,_L_CM_050601_03,,,,PT,,34.4
-2018,A,0,C,National_SDG_Report,_L_CM_050601_03,,,,PT,,19.3
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,Niveau d'Etude,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,Urbain,,Pour cent,,15.6
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,Urbain,,Pour cent,,5.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,Rural,,Pour cent,,11.4
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,Rural,,Pour cent,,2.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,,Sans niveau scolaire,Pour cent,,5.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,,Primaire,Pour cent,,15.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,,Secondaire,Pour cent,,18.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,,Enseignement Supérieur,Pour cent,,12.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,,,Pour cent,,13.3
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans,actuellement mariées ou en union, utilisant  une méthode de contraception traditionnelle (%)",,,,Pour cent,,3.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,Urbain,,Pour cent,,26.7
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,Urbain,,Pour cent,,20.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,Rural,,Pour cent,,16.3
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,Rural,,Pour cent,,10.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,,Sans niveau scolaire,Pour cent,,9.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,,Primaire,Pour cent,,21.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,,Secondaire,Pour cent,,28.8
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,,Enseignement Supérieur,Pour cent,,36.3
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,,,Pour cent,,21.0
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne (%)",,,,Pour cent,,15.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,Urbain,,Pour cent,,42.4
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,Urbain,,Pour cent,,26.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,Rural,,Pour cent,,27.7
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,Rural,,Pour cent,,13.1
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,,Sans niveau scolaire,Pour cent,,14.9
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,,Primaire,Pour cent,,37.7
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,,Secondaire,Pour cent,,47.6
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,,Enseignement Supérieur,Pour cent,,48.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,,,Pour cent,,34.4
+2018,Valeur Normale,Unité,C,National_SDG_Report,"Proportion de femmes âgées de 15 à 49 ans, actuellement mariées ou en union, utilisant  une méthode de contraception moderne ou traditionnelle (%)",,,,Pour cent,,19.3

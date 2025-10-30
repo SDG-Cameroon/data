@@ -1,17 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2007,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.1
-2010,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.05
-2011,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.07
-2012,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.06
-2013,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.08
-2014,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.08
-2015,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.08
-2016,A,0,C,National_SDG_Report,_L_CM_090501_01,,PT,,0.09
-2007,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.5
-2010,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.2
-2011,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.3
-2012,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.22
-2013,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.32
-2014,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.32
-2015,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.33
-2016,A,0,C,National_SDG_Report,_L_CM_090501_02,,PT,,0.42
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2007,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.1
+2010,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.05
+2011,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.07
+2012,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.06
+2013,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.08
+2014,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.08
+2015,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.08
+2016,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche-Développement (R et D) au PIB (%),,Pour cent,,0.09
+2007,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.5
+2010,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.2
+2011,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.3
+2012,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.22
+2013,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.32
+2014,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.32
+2015,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.33
+2016,Valeur Normale,Unité,C,National_SDG_Report,Part de la Recherche et Developpement à l’investissement global (%),,Pour cent,,0.42

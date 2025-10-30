@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-1998,A,0,C,National Institute of Statistics,SH_STA_MORT,,PER_100000_LIVE_BIRTHS,,511
-2004,A,0,C,National Institute of Statistics,SH_STA_MORT,,PER_100000_LIVE_BIRTHS,,669
-2011,A,0,C,National Institute of Statistics,SH_STA_MORT,,PER_100000_LIVE_BIRTHS,,782
-2018,A,0,C,National Institute of Statistics,SH_STA_MORT,,PER_100000_LIVE_BIRTHS,,467
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+1998,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité maternelle (Décès pour 100 000 Naissances vivantes),,Pour 100000 naissances vivantes,,511
+2004,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité maternelle (Décès pour 100 000 Naissances vivantes),,Pour 100000 naissances vivantes,,669
+2011,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité maternelle (Décès pour 100 000 Naissances vivantes),,Pour 100000 naissances vivantes,,782
+2018,Valeur Normale,Unité,C,National Institute of Statistics,Taux de mortalité maternelle (Décès pour 100 000 Naissances vivantes),,Pour 100000 naissances vivantes,,467

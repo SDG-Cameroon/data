@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_160201_01,,F,PT,,84.8
-2014,A,0,C,National_SDG_Report,_L_CM_160201_01,,M,PT,,85.2
-2014,A,0,C,National_SDG_Report,_L_CM_160201_01,,,PT,,85.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 1 à 14 ans qui ont subi une agression psychologique ou un châtiment corporel (%),,Féminin,Pour cent,,84.8
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 1 à 14 ans qui ont subi une agression psychologique ou un châtiment corporel (%),,Masculin,Pour cent,,85.2
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’enfants de 1 à 14 ans qui ont subi une agression psychologique ou un châtiment corporel (%),,,Pour cent,,85.0

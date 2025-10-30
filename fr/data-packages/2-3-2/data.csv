@@ -1,23 +1,23 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,,CUR_LCU,,360439
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_AD,CUR_LCU,CM_AD,479861
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_CE,CUR_LCU,CM_CE,145966
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_ES,CUR_LCU,CM_ES,229255
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_EN,CUR_LCU,CM_EN,243336
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_LT,CUR_LCU,CM_LT,502447
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_NO,CUR_LCU,CM_NO,430857
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_NW,CUR_LCU,CM_NW,576369
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_OU,CUR_LCU,CM_OU,210989
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_SU,CUR_LCU,CM_SU,692982
-2012,A,0,C,National_SDG_Report,_L_CM_020302_01,CM_SW,CUR_LCU,CM_SW,195909
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,,CUR_LCU,,518831
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_AD,CUR_LCU,CM_AD,1007072
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_CE,CUR_LCU,CM_CE,572614
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_ES,CUR_LCU,CM_ES,779030
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_EN,CUR_LCU,CM_EN,336576
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_LT,CUR_LCU,CM_LT,835771
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_NO,CUR_LCU,CM_NO,704686
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_NW,CUR_LCU,CM_NW,260944
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_OU,CUR_LCU,CM_OU,423690
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_SU,CUR_LCU,CM_SU,854499
-2012,A,0,C,National_SDG_Report,_L_CM_020302_02,CM_SW,CUR_LCU,CM_SW,462931
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),,Francs CFA XAF,,360439
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),ADAMAOUA,Francs CFA XAF,CM_AD,479861
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),CENTRE,Francs CFA XAF,CM_CE,145966
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),EST,Francs CFA XAF,CM_ES,229255
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),Extrême-Nord,Francs CFA XAF,CM_EN,243336
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),LITTORAL,Francs CFA XAF,CM_LT,502447
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),NORD,Francs CFA XAF,CM_NO,430857
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),NORD-OUEST,Francs CFA XAF,CM_NW,576369
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),OUEST,Francs CFA XAF,CM_OU,210989
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),SUD,Francs CFA XAF,CM_SU,692982
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'élevage (en Francs CFA XAF),SUD-OUEST,Francs CFA XAF,CM_SW,195909
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),,Francs CFA XAF,,518831
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),ADAMAOUA,Francs CFA XAF,CM_AD,1007072
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),CENTRE,Francs CFA XAF,CM_CE,572614
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),EST,Francs CFA XAF,CM_ES,779030
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),Extrême-Nord,Francs CFA XAF,CM_EN,336576
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),LITTORAL,Francs CFA XAF,CM_LT,835771
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),NORD,Francs CFA XAF,CM_NO,704686
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),NORD-OUEST,Francs CFA XAF,CM_NW,260944
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),OUEST,Francs CFA XAF,CM_OU,423690
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),SUD,Francs CFA XAF,CM_SU,854499
+2012,Valeur Normale,Unité,C,National_SDG_Report,Revenu annuel moyen généré par l'agriculture (En Francs CFA XAF),SUD-OUEST,Francs CFA XAF,CM_SW,462931

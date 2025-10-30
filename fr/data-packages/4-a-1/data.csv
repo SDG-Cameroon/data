@@ -1,13 +1,13 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,A,0,C,National_SDG_Report,_L_CM_040a01_01,,PT,,42
-2016,A,0,C,National_SDG_Report,_L_CM_040a01_01,,PT,,48
-2015,A,0,C,National_SDG_Report,_L_CM_040a01_02,,PT,,23
-2016,A,0,C,National_SDG_Report,_L_CM_040a01_02,,PT,,28
-2015,A,0,C,National_SDG_Report,_L_CM_040a01_03,,PT,,57
-2016,A,0,C,National_SDG_Report,_L_CM_040a01_03,,PT,,59
-2015,A,0,C,National_SDG_Report,_L_CM_040a01_04,,PT,,60
-2016,A,0,C,National_SDG_Report,_L_CM_040a01_04,,PT,,60
-2015,A,0,C,National_SDG_Report,_L_CM_040a01_05,,PT,,46
-2016,A,0,C,National_SDG_Report,_L_CM_040a01_05,,PT,,45
-2015,A,0,C,National_SDG_Report,_L_CM_040a01_06,,PT,,73
-2016,A,0,C,National_SDG_Report,_L_CM_040a01_06,,PT,,70
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements primaires ayant accès à l’eau (%),,Pour cent,,42
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements primaires ayant accès à l’eau (%),,Pour cent,,48
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements primaires ayant accès à l’électricité (%),,Pour cent,,23
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements primaires ayant accès à l’électricité (%),,Pour cent,,28
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements primaires ayant accès aux installations sanitaires (%),,Pour cent,,57
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements primaires ayant accès aux installations sanitaires (%),,Pour cent,,59
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements préscolaires ayant accès à l’eau (%),,Pour cent,,60
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements préscolaires ayant accès à l’eau (%),,Pour cent,,60
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements préscolaires ayant accès à l’électricité (%),,Pour cent,,46
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements préscolaires ayant accès à l’électricité (%),,Pour cent,,45
+2015,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements préscolaires ayant accès aux installations sanitaires (%),,Pour cent,,73
+2016,Valeur Normale,Unité,C,National_SDG_Report,Proportion d’établissements préscolaires ayant accès aux installations sanitaires (%),,Pour cent,,70

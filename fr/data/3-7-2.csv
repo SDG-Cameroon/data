@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_030702_01,,U,PER_1000_POP,,169
-2014,A,0,C,National_SDG_Report,_L_CM_030702_01,,R,PER_1000_POP,,76
-2014,A,0,C,National_SDG_Report,_L_CM_030702_01,,,PER_1000_POP,,119
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Milieu de résidence,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Taux de fécondité  chez les adolescentes 15 à 19 ans (pour 1 000 adolescentes du même groupe d’âge),,Urbain,"Pour 1,000 personnes",,169
+2014,Valeur Normale,Unité,C,National_SDG_Report,Taux de fécondité  chez les adolescentes 15 à 19 ans (pour 1 000 adolescentes du même groupe d’âge),,Rural,"Pour 1,000 personnes",,76
+2014,Valeur Normale,Unité,C,National_SDG_Report,Taux de fécondité  chez les adolescentes 15 à 19 ans (pour 1 000 adolescentes du même groupe d’âge),,,"Pour 1,000 personnes",,119

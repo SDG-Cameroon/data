@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_160b01_01,,F,PT,,46.4
-2014,A,0,C,National_SDG_Report,_L_CM_160b01_01,,M,PT,,50.5
-2014,A,0,C,National_SDG_Report,_L_CM_160b01_01,,,PT,,48.0
-2014,A,0,C,National_SDG_Report,_L_CM_160b01_02,,,PT,,48.0
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,Sexe,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population ayant déclaré avoir subi au moins une forme de discrimination,,Féminin,Pour cent,,46.4
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population ayant déclaré avoir subi au moins une forme de discrimination,,Masculin,Pour cent,,50.5
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population ayant déclaré avoir subi au moins une forme de discrimination,,,Pour cent,,48.0
+2014,Valeur Normale,Unité,C,National_SDG_Report,Proportion de la population ayant souffert d'au moins une forme de discrimination,,,Pour cent,,48.0

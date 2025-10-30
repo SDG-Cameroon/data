@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2024,A,0,C,OpenData Watch,SG_STT_ODIN,,PT,,53
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2024,Valeur Normale,Unité,C,OpenData Watch,Indice de couverture Open Data Inventory (ODIN),,Pour cent,,53

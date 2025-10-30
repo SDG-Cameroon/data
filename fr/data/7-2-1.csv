@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2014,A,0,C,National_SDG_Report,_L_CM_070201_01,,PT,,0.045
-2015,A,0,C,National_SDG_Report,_L_CM_070201_01,,PT,,0.051
-2014,A,0,C,National_SDG_Report,_L_CM_070201_02,,PT,,0.07
-2015,A,0,C,National_SDG_Report,_L_CM_070201_02,,PT,,0.52
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2014,Valeur Normale,Unité,C,National_SDG_Report,Part des énergies renouvelables hors bois énergie dans le mix énergétique à la consommation (%),,Pour cent,,0.045
+2015,Valeur Normale,Unité,C,National_SDG_Report,Part des énergies renouvelables hors bois énergie dans le mix énergétique à la consommation (%),,Pour cent,,0.051
+2014,Valeur Normale,Unité,C,National_SDG_Report,Part des énergies renouvelables dans le mix électrique à la production,,Pour cent,,0.07
+2015,Valeur Normale,Unité,C,National_SDG_Report,Part des énergies renouvelables dans le mix électrique à la production,,Pour cent,,0.52

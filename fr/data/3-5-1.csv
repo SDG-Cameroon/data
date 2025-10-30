@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2013,A,0,C,National_SDG_Report,_L_CM_030501_01,,PT,,3.5
+Year,Status de l'observation,Multiplicateur d'unité,NATURE,SOURCE_DETAIL,SERIES,Aire Geographique,UNIT_MEASURE,GeoCode,Value
+2013,Valeur Normale,Unité,C,National_SDG_Report,Poids des maladies mentales et abus de substances dans l'ensemble des maladies (%),,Pour cent,,3.5
