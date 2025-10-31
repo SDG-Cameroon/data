@@ -1,4 +1,5 @@
-﻿composite_breakdown_label: ''
+auto_progress_calculation: false
+composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
@@ -6,7 +7,7 @@ data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
-data_show_map: false
+data_show_map: true
 data_start_values: []
 embedded_feature_footer: ''
 embedded_feature_html: ''
@@ -23,6 +24,7 @@ graph_target_lines: []
 graph_title: global_indicators.1-2-1-title
 graph_titles: []
 graph_type: line
+graph_types: []
 indicator_available: ''
 indicator_name: global_indicators.1-2-1-title
 indicator_number: 1.2.1
@@ -37,6 +39,7 @@ page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
+progress_calculation_options: {}
 progress_status: not_available
 proxy: ''
 proxy_series: []
