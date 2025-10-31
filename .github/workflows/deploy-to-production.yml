@@ -38,10 +38,10 @@ jobs:
       with:
         fetch-depth: 0
         persist-credentials: false
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
       with:
-        python-version: 3.7
+        python-version: 3.8
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -55,7 +55,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: CameroonSND30/ProductionData
+        REPOSITORY_NAME: opensdg-cameroon/ProductionData
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site

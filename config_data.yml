@@ -9,7 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  - fr
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
@@ -41,14 +41,21 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
     dsd: 'LocalRegistry.xml'
+ # - class: InputSdmxMl_Structure
+ #  source: https://cm.sdmx.afdb.org/ns-ws/rest/data/CM1,DF_SDG_CM_08_25,1.0/A.N............./ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+ #  dsd: https://cm.sdmx.afdb.org/ns-ws/rest/dataflow/CM1/DF_SDG_CM_08_25/1.0/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|CM: ''
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
-    import_codes: true
+    drop_singleton_dimensions: false
     import_series_attributes: true
     import_observation_attributes: true
+    import_codes: true
+    request_params: 
+      headers: 
+        User-Agent: Open-SDG-Build-1 
   - class : InputWordMeta
     path_pattern : meta/*-*.docm
   - class: InputYamlMeta
@@ -69,6 +76,7 @@ inputs:
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
+
 # Translations
 # ------------
 # The allows control over the imported translations. This can be omitted if you
@@ -82,10 +90,17 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.2.0
+    tag: 2.4.0-beta1
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+  - class: TranslationInputSdmx
+    source: 'LocalRegistry.xml'
+  #- class: TranslationInputSdmx
+  #  source: https://cm.sdmx.afdb.org/ns-ws/rest/dataflow/CM1/DF_SDG_CM_08_25/1.0/?detail=Full&references=Descendants
+    request_params:
+      headers:
+        User-Agent: Open-SDG-Build-1
 
 # Reporting status extra fields
 # -----------------------------
@@ -98,15 +113,31 @@ reporting_status_extra_fields: []
 # This allows the build to generate one or more GeoJSON files to be used by
 # Open SDG maps. The parameters available correspond to the OutputGeoJson class.
 # See sdg/outputs/OutputGeoJson.py for more information. Uncomment the map_layers
-# below and adjust if you would like to use the Open SDG mapping functionality.
+# below and adjust if you would like to use the Open SDG mapping functionality..
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
-#map_layers:
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
-#    name_property: rgn17nm
-#    id_property: rgn17cd
-#    output_subfolder: regions
-#    filename_prefix: indicator_
+map_layers:
+  - geojson_file: GeoJSON/Cameroon_National_Level1.geojson
+    name_property: NAME1_
+    id_property: ID_
+    output_subfolder: national_level1
+    filename_prefix: indicator_
+  - geojson_file: GeoJSON/RegionsEnq_Subnational_Level2_For_Surveys_Data.geojson
+    name_property: NAME1_
+    id_property: ID_
+    output_subfolder: regions_1
+    filename_prefix: indicator_
+  - geojson_file: GeoJSON/RegionsAdmin_Subnational_Level2.geojson
+    name_property: Regions
+    id_property: ID_Regions
+    output_subfolder: regions_2
+    filename_prefix: indicator_
+  - geojson_file: GeoJSON/Departements_Subnational_Level3.geojson
+    name_property: Regions
+    id_property: ID_Regions
+    output_subfolder: regions_3
+    filename_prefix: indicator_
+    
 
 # Documentation settings
 # ----------------------
