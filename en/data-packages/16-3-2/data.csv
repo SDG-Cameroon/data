@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2013,Normal value,Units,Country Data,National_SDG_Report,Proportion of the inmate population awaiting trial (%),,Percent,,60.1
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the inmate population awaiting trial (%),,Percent,,61.2
 2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of the inmate population awaiting trial (%),,Percent,,55.8

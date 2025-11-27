@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Urban,,Percent,,15.6
 2018,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Urban,,Percent,,5.4
 2014,Normal value,Units,Country Data,National_SDG_Report,"Proportion of women aged 15 to 49, married, using a traditional method of contraception (%)",,Rural,,Percent,,11.4

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2007,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Urban,Percent,,12.2
 2014,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Urban,Percent,,8.9
 2007,Normal value,Units,Country Data,National Institute of Statistics,Poverty rate (%),,,Rural,Percent,,55.0

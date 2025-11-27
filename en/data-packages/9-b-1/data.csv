@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2009,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,,3.77
 2010,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,,3.56
 2011,Normal value,Units,Country Data,National_SDG_Report,Share of value added of medium and high technology sectors in GDP (%),,Percent,,3.8

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2017,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.541177
 2018,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.955514
 2019,Normal value,Units,Country Data,National Institute of Statistics,Annual growth rate of real GDP (%),,Percent,,3.475037

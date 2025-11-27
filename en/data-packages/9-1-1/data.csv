@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),,Percent,,33.0
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),ADAMAWA,Percent,CM_AD,42.6
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the rural population who live within 2 km from paved road all year (%),CENTRE,Percent,CM_CE,54.2

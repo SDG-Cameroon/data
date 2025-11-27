@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 1998,Normal value,Units,Country Data,National Institute of Statistics,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,511
 2004,Normal value,Units,Country Data,National Institute of Statistics,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,669
 2011,Normal value,Units,Country Data,National Institute of Statistics,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,782

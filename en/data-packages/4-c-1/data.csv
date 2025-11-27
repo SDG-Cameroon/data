@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of qualified teachers in primary school (%),,Female,Percent,,58.7
 2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of qualified teachers in primary school (%),,Male,Percent,,52.4
 2015,Normal value,Units,Country Data,National_SDG_Report,Proportion of qualified teachers in primary school (%),,,Percent,,55.8

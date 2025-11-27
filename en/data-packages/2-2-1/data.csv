@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,Prevalence of stunting among children under 5 years of age (%),,Female,Percent,,29.8
 2014,Normal value,Units,Country Data,National_SDG_Report,Prevalence of stunting among children under 5 years of age (%),,Male,Percent,,33.5
 2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of stunting among children under 5 years of age (%),,,Percent,,32.5

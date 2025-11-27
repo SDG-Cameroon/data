@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2007,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R and D) to GDP (%),,Percent,,0.1
 2010,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R and D) to GDP (%),,Percent,,0.05
 2011,Normal value,Units,Country Data,National_SDG_Report,Share of Research and development (R and D) to GDP (%),,Percent,,0.07

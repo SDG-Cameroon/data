@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the population who reported being victim of at least one form of discrimination (%),,Female,Percent,,46.4
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the population who reported being victim of at least one form of discrimination (%),,Male,Percent,,50.5
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of the population who reported being victim of at least one form of discrimination (%),,,Percent,,48.0

@@ -1,3 +1,3 @@
 From,To
-Nature of data points,Source details
-Source details,Degree of urbanisation
+Nature of data points,SOURCE_DETAIL
+SOURCE_DETAIL,Degree of urbanisation

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,Education level,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,Urban,,Percent,,5.3
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,Rural,,Percent,,16.1
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of women aged 20-24 years who were married or in a union before age 15 (%),,,Never attended an education programme / No schooling,Percent,,21.7

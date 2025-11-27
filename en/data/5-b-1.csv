@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,Female,Percent,,66.3
 2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,Female,Percent,,63.6
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of population with mobile phone (%),,Male,Percent,,79.4

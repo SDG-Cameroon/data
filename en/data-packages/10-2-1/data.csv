@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),,Percent,,31.4
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),ADAMAWA,Percent,CM_AD,38.8
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of people whose expenditure is more than 50% lower than the average expenditure (%),EAST,Percent,CM_ES,27.6

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Biomass) (%),,Percent,,64.4
 2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Hydropower) (%),,Percent,,5.7
 2014,Normal value,Units,Country Data,National_SDG_Report,Primary energy consumed (Fossil fuel) (%),,Percent,,30.0

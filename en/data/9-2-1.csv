@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2010,Normal value,Units,Country Data,National_SDG_Report,"Value added in the manufacturing industry, as a percentage of GDP (%)",,Percent,,14.5
 2011,Normal value,Units,Country Data,National_SDG_Report,"Value added in the manufacturing industry, as a percentage of GDP (%)",,Percent,,14.7
 2012,Normal value,Units,Country Data,National_SDG_Report,"Value added in the manufacturing industry, as a percentage of GDP (%)",,Percent,,15.1

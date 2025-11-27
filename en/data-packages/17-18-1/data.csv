@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2024,Normal value,Units,Country Data,OpenData Watch,Open Data Inventory (ODIN) Coverage Index [17.18.1],,Percent,,53

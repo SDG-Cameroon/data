@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,Urban,Percent,,20.6
 2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,Rural,Percent,,37.1
 2011,Normal value,Units,Country Data,National_SDG_Report,Prevalence of malaria in children under 5 years (%),,,Percent,,30.0

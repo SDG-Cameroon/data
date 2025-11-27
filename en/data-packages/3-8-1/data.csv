@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 12 to 23 months immunized against measles (%),,Female,Percent,,65.9
 2018,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 12 to 23 months immunized against measles (%),,Male,Percent,,64.7
 2014,Normal value,Units,Country Data,National_SDG_Report,Proportion of children aged 12 to 23 months immunized against measles (%),,,Percent,,85.8

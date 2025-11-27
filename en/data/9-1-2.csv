@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,Nature of data points,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2011,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1487
 2012,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1451
 2013,Normal value,Thousands,Country Data,National_SDG_Report,Number of passengers by rail transport (in thousands),,Number,,1419
