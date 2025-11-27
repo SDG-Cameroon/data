@@ -40,7 +40,7 @@ permalink: ''
 placeholder: ''
 precision: []
 progress_calculation_options: {}
-progress_status: not_available
+progress_status: 
 proxy: ''
 proxy_series: []
 publications: []
