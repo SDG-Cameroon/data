@@ -418,6 +418,8 @@
         <structure:Code id="120">
           <common:Name xml:lang="en">Cameroon</common:Name>
           <common:Description xml:lang="en">Cameroon</common:Description>
+		  <common:Name xml:lang="fr">Cameroun</common:Name>
+          <common:Description xml:lang="fr">Cameroun</common:Description>
           <structure:Parent>
             <Ref id="17" />
           </structure:Parent>
@@ -3166,6 +3168,8 @@
         <structure:Code id="CM">
           <common:Name xml:lang="en">Cameroon</common:Name>
           <common:Description xml:lang="en">Cameroon</common:Description>
+		  <common:Name xml:lang="fr">Cameroun</common:Name>
+          <common:Description xml:lang="fr">Cameroun</common:Description>
         </structure:Code>
         <structure:Code id="CN">
           <common:Name xml:lang="en">China</common:Name>
@@ -35928,6 +35932,8 @@
         <structure:Code id="120">
           <common:Name xml:lang="en">Cameroon</common:Name>
           <common:Description xml:lang="en">Cameroon</common:Description>
+		  <common:Name xml:lang="fr">Cameroun</common:Name>
+          <common:Description xml:lang="fr">Cameroun</common:Description>
           <structure:Parent>
             <Ref id="17" />
           </structure:Parent>
@@ -38676,6 +38682,8 @@
         <structure:Code id="CM">
           <common:Name xml:lang="en">Cameroon</common:Name>
           <common:Description xml:lang="en">Cameroon</common:Description>
+		  <common:Name xml:lang="fr">Cameroun</common:Name>
+          <common:Description xml:lang="fr">Cameroun</common:Description>
         </structure:Code>
         <structure:Code id="CN">
           <common:Name xml:lang="en">China</common:Name>

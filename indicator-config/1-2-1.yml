@@ -1,4 +1,3 @@
-auto_progress_calculation: false
 composite_breakdown_label: ''
 computation_units: Percentage (%)
 copyright: ''
@@ -39,8 +38,7 @@ page_content: ''
 permalink: ''
 placeholder: ''
 precision: []
-progress_calculation_options: {}
-progress_status: not_available
+progress_status: ''
 proxy: ''
 proxy_series: []
 publications: []
